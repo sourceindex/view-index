@@ -1,0 +1,74 @@
+[
+  {
+    "id": "trakt-mystery-murder-mystery-movies-murder-mystery-movies",
+    "title": "Murder Mysteries",
+    "url": "giladg/lists/murder-mystery-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-mystery-mystery",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-horrormysterythriller-watchlist-horror-mystery-thriller-watchlist",
+    "title": "Mystery Thrillers",
+    "url": "donxy/lists/horror-mystery-thriller-watchlist",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-twisted-mystery-horror-twisted-mystery-horror",
+    "title": "Dark Mysteries",
+    "url": "ravynloony/lists/twisted-mystery-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-twenty-first-century-noir-twenty-first-century-noir",
+    "title": "Noir Films",
+    "url": "majeed_pk/lists/twenty-first-century-noir",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-genre-mystery-1000-titles-1970-2013-genre-mystery-1000-titles-1970-2013",
+    "title": "Classic Mysteries",
+    "url": "xilfneps/lists/genre-mystery-1000-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-ontological-mystery-ontological-mystery",
+    "title": "Mind-Bending Mysteries",
+    "url": "twentywashere/lists/ontological-mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-mystery-mystery-106-picks-mystery",
+    "title": "Your Next Watch",
+    "url": "jtucci/lists/mystery",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
