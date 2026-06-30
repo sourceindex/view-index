@@ -1,0 +1,74 @@
+[
+  {
+    "id": "trakt-fantasy-fantasy-fantasy",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/fantasy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-fantasy-fantasy-comedies-fantasy-comedies",
+    "title": "Magical Laughs",
+    "url": "marzipan-pie/lists/fantasy-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-fantasy-butlers-fantasy-cinema-impossible-worlds-on-screen-butler-s-fantasy-cinema-impossible-worl",
+    "title": "Magical Worlds",
+    "url": "majeed_pk/lists/butler-s-fantasy-cinema-impossible-worlds-on-screen",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-fantasy-genre-fantasy-1000-titles-1970-2013-genre-fantasy-1000-titles-1970-2013",
+    "title": "Classic Fantasy Films",
+    "url": "xilfneps/lists/genre-fantasy-1000-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-fantasy-fantasy-65-picks-fantasy",
+    "title": "Fantasy Movies",
+    "url": "jtucci/lists/fantasy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-fantasy-sexy-fantasy-sexy-fantasy",
+    "title": "Enchanted Romance",
+    "url": "amohr/lists/sexy-fantasy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-fantasy-fantasy-1980s-fantasy-1980s",
+    "title": "1980s Fantasy",
+    "url": "blom-00/lists/fantasy-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-fantasy-fantasy-1990s-fantasy-1990s",
+    "title": "Your Next Watch",
+    "url": "blom-00/lists/fantasy-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
