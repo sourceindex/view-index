@@ -1,0 +1,101 @@
+[
+  {
+    "id": "trakt-anime-studio-ghibli-feature-films-studio-ghibli-feature-films",
+    "title": "Studio Ghibli",
+    "url": "draackje/lists/studio-ghibli-feature-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-100-animes-to-watch-before-you-die-100-animes-to-watch-before-you-die",
+    "title": "Essential Anime",
+    "url": "rfsbraz/lists/100-animes-to-watch-before-you-die",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-site-sound-50-essential-anime-films-site-sound-50-essential-anime-films",
+    "title": "Top Anime Series",
+    "url": "giladg/lists/site-sound-50-essential-anime-films",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-live-action-films-based-on-manga-manhwa-lns-and-anime-live-action-films-based-on-manga-man",
+    "title": "Live-Action Anime Adaptations",
+    "url": "sp1ti/lists/live-action-films-based-on-manga-manhwa-lns-and-anime",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-live-action-tv-shows-based-on-manga-manhwa-and-anime-live-action-tv-shows-based-on-manga-m",
+    "title": "Anime Live-Action TV",
+    "url": "sp1ti/lists/live-action-tv-shows-based-on-manga-manhwa-and-anime",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-anime-shows-movies-anime-shows-movies",
+    "title": "Today's Top Picks for You",
+    "url": "xscaredycat/lists/anime-shows-movies",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-ultimate-isekai-list-ultimate-isekai-list",
+    "title": "Isekai Anime",
+    "url": "rfsbraz/lists/ultimate-isekai-list",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-anime-anime",
+    "title": "Trending Anime",
+    "url": "acoucalancha/lists/anime",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-studio-ghibli-movies-studio-ghibli-movies",
+    "title": "Ghibli Masterpieces",
+    "url": "yoru14/lists/studio-ghibli-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-anime-movies-anime-movies",
+    "title": "Anime Movies",
+    "url": "acoucalancha/lists/anime-movies",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-anime-100-vintage-anime-films-1980-2000-100-vintage-anime-films-1980-2000",
+    "title": "Your Next Watch",
+    "url": "moses456/lists/100-vintage-anime-films-1980-2000",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  }
+]
