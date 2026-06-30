@@ -1,0 +1,74 @@
+[
+  {
+    "id": "trakt-war-war-war",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/war",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-war-war-131-picks-war",
+    "title": "War Movies",
+    "url": "canconfirm/lists/war",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-war-world-war-ii-films-and-tv-world-war-ii-films-and-tv",
+    "title": "World War II Films",
+    "url": "majeed_pk/lists/world-war-ii-films-and-tv",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-war-wwii-tv-series-wwii-tv-series",
+    "title": "War TV Shows",
+    "url": "majeed_pk/lists/wwii-tv-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-war-genre-war-1000-titles-1950-2013-genre-war-1000-titles-1950-2013",
+    "title": "Classic War Films",
+    "url": "xilfneps/lists/genre-war-1000-titles-1950-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-war-ranker-the-best-war-movies-ever-made-ranker-the-best-war-movies-ever-made",
+    "title": "Greatest War Films",
+    "url": "kayaaron13/lists/ranker-the-best-war-movies-ever-made",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-war-war-104-picks-war",
+    "title": "Handpicked War Films",
+    "url": "jtucci/lists/war",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  },
+  {
+    "id": "trakt-war-war-war-war-war-war-war",
+    "title": "War Epics",
+    "url": "marcelocastanheira/lists/war-war-war",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1960
+  }
+]
