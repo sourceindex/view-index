@@ -30,14 +30,7 @@
     "traktSortBy": "",
     "inPlace": true
   },
-   {
-    "id": "trakt-millennials-nostalgia",
-    "title": "Millennials Nostalgia",
-    "url": "katyrbrown96/lists/millennials-nostalgia",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-    {
+  {
     "id": "daily-picks",
     "title": "Today's Random Picks",
     "url": "tvgeniekodi/lists/daily-picks",
