@@ -1,0 +1,455 @@
+[
+  {
+    "id": "continue_watching",
+    "title": "Continue Watching",
+    "url": null,
+    "catalogType": "continueWatching",
+    "traktSortBy": null
+  },
+  {
+    "id": "trakt-latest-movie-releases",
+    "title": "Latest Releases",
+    "url": "garycrawfordgc/lists/latest-releases",
+    "catalogType": "traktMovie",
+    "traktSortBy": "desc",
+    "inPlace": true
+  },
+  {
+    "id": "trakt-s-trending-movies",
+    "title": "Trending Movies",
+    "url": "tvgeniekodi/lists/trending-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+  {
+    "id": "trakt-top-tvshows",
+    "title": "Latest TV Shows",
+    "url": "garycrawfordgc/lists/latest-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "",
+    "inPlace": true
+  },
+    {
+    "id": "daily-picks",
+    "title": "Today's Random Picks",
+    "url": "tvgeniekodi/lists/daily-picks",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "visually-pleasing",
+    "title": "Visually Pleasing",
+    "url": "rizreflects/lists/visually-pleasing",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "bingeworthy-tv",
+    "title": "Bingeworthy TV",
+    "url": "marzipan-pie/lists/bingeworthy-tv",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+    {
+    "id": "action-sci-fi-fantasy",
+    "title": "Action Sci-Fi & Fantasy",
+    "url": "kingkearney/lists/action-sci-fi-fantasy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "exciting-european-movies",
+    "title": "Movies from Europe",
+    "url": "amadeus68/lists/exciting-european-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "oscar-winners-best-picture",
+    "title": "Oscar Winners: Best Picture",
+    "url": "eninja/lists/oscar-winners-best-picture",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "oscar-winners-best-cinematography",
+    "title": "Oscar Winners: Best Cinematography",
+    "url": "majeed_pk/lists/oscar-nominated-movies-for-best-cinematography",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "quirky-indies",
+    "title": "Quirky Indies",
+    "url": "rizreflects/lists/quirky-indies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "survival-thrillers",
+    "title": "Survival Thrillers",
+    "url": "rizreflects/lists/survival",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "astronomy-space",
+    "title": "Zero Gravity Watchlist",
+    "url": "rizreflects/lists/astronomy-space",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "dark-films",
+    "title": "Dark Films",
+    "url": "rizreflects/lists/dark",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "90s-00s-nostalgia",
+    "title": "Nostalgia",
+    "url": "ruthalyn/lists/90s-00s-nostalgia",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "true-crime-docs-series",
+    "title": "True Crime Shows",
+    "url": "rizreflects/lists/true-crime-docs-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "suspenseful-rizreflects-lists",
+    "title": "Suspenseful movies",
+    "url": "rizreflects/lists/suspenseful",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "star-power",
+    "title": "Star Power",
+    "url": "forseti/lists/big-popular-blockbusters",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "big-popular-blockbusters",
+    "title": "Blockbuster movies",
+    "url": "forseti/lists/big-popular-blockbusters",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-90-minute-movies",
+    "title": "90 Minute Movies",
+    "url": "gyenkai/lists/90-minute-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-revenge-movies",
+    "title": "Revenge Movies",
+    "url": "kayaaron13/lists/revenge-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-comedy-movies-garycrawfordgc",
+    "title": "Comedy Movies: Top Picks",
+    "url": "garycrawfordgc/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-thriller-movies-garycrawfordgc",
+    "title": "Thriller Movies: Top Picks",
+    "url": "garycrawfordgc/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-sci-fi-movies-garycrawfordgc",
+    "title": "Sci-Fi Movies: Top Picks",
+    "url": "garycrawfordgc/lists/sci-fi",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-conspiracy-theories",
+    "title": "Conspiracy Theories",
+    "url": "kayaaron13/lists/conspiracy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-survival-movies",
+    "title": "Survival Movies",
+    "url": "kayaaron13/lists/survival-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-comfort-movies",
+    "title": "Comfort Movies",
+    "url": "kayaaron13/lists/comfort-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-top-bank-robbery-movies",
+    "title": "Top Bank Robbery Movies",
+    "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-cult-classics",
+    "title": "Cult Classics",
+    "url": "kayaaron13/lists/cult-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "action-movies-2000-2020",
+    "title": "Get in on the Action",
+    "url": "spawnofsatan/lists/action-movies-2000-2020",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "miro-s-feel-good",
+    "title": "Feel Good Movies",
+    "url": "mrlegendneo/lists/miro-s-feel-good",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "slapstick-comedies",
+    "title": "Boredom Busters",
+    "url": "rizreflects/lists/slapstick-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "emotional-movies",
+    "title": "Emotional Films",
+    "url": "rizreflects/lists/emotional",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "heart-warming-movies",
+    "title": "Heart Warming Movies",
+    "url": "rizreflects/lists/heart-warming",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "inspiring-movies",
+    "title": "Inspiring",
+    "url": "rizreflects/lists/inspiring",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "intense-movies",
+    "title": "Intense Movies",
+    "url": "rizreflects/lists/intense",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "lighthearted-movies",
+    "title": "Lighthearted",
+    "url": "rizreflects/lists/lighthearted",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "no-brainers-movies",
+    "title": "No brainers",
+    "url": "rizreflects/lists/no-brainers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "slow-burners",
+    "title": "Slow Burners",
+    "url": "rizreflects/lists/slow-burners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "touching-movies",
+    "title": "Touching Movies",
+    "url": "rizreflects/lists/touching",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "true-story-based",
+    "title": "Base on True Story",
+    "url": "rizreflects/lists/true-story-based",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "depressing-movies",
+    "title": "Depressing",
+    "url": "rizreflects/lists/depressing",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "well-acted",
+    "title": "Acting Level: Legendary",
+    "url": "rizreflects/lists/well-acted",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "sweet-movies",
+    "title": "Sweet",
+    "url": "rizreflects/lists/sweet",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "romance-movies",
+    "title": "Love in the Air",
+    "url": "rizreflects/lists/romance",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+    {
+    "id": "romantic-comedies-movies123",
+    "title": "Romantic Movies",
+    "url": "hammers-lists/lists/romantic-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "sci-fi-movies",
+    "title": "The Sci-Fi Vault",
+    "url": "rizreflects/lists/sci-fi-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "british-crime-drama",
+    "title": "British Crime & Drama",
+    "url": "pauls67/lists/british-crime-drama",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+   {
+    "id": "best-british-gangster-movies",
+    "title": "British Gangster Movies",
+    "url": "w1nt3r/lists/best-british-gangster-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+     {
+    "id": "the-best-of-british-comedy-tv-shows",
+    "title": "British Comedy TV",
+    "url": "iyez/lists/the-best-of-british-comedy-tv-shows",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-crazy-plot-twists",
+    "title": "Crazy Plot Twists",
+    "url": "hdlists/lists/crazy-plot-twists",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-vacations-gone-wrong",
+    "title": "Vacations Gone Wrong",
+    "url": "kayaaron13/lists/vacations-gone-wrong",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-movies-that-benefit-from-multiple-viewings",
+    "title": "Watch More Than Once",
+    "url": "kayaaron13/lists/movies-that-benefit-from-multiple-viewings-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-romantic-comedy-movies-new",
+    "title": "Romantic Comedies",
+    "url": "bsbimalbose/lists/new-romantic-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-best-of-the-best",
+    "title": "We know you'll love these",
+    "url": "aledd/lists/top-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-comedy-movies",
+    "title": "Need a Good Laugh?",
+    "url": "ricksanchez/lists/comedy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 55,
+    "minYear": 1994
+  },
+  {
+    "id": "trakt-top-rated-crime-films",
+    "title": "Top Rated Crime Films",
+    "url": "hdlists/lists/crime-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-mystery-thrillers",
+    "title": "Mystery Thrillers",
+    "url": "hdlists/lists/mystery-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-crime-movies",
+    "title": "Crime Movies: Top Picks",
+    "url": "garycrawfordgc/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-laughs-and-laughter",
+    "title": "Laughs & Laughter",
+    "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-family-favorites",
+    "title": "Family Favorites",
+    "url": "hdlists/lists/family-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-2000s-movies",
+    "title": "Old But Fresh",
+    "url": "shambler74/lists/00s-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-90s-classics",
+    "title": "90s Classics",
+    "url": "shambler74/lists/90s-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  }
+]
