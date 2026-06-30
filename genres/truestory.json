@@ -1,0 +1,92 @@
+[
+  {
+    "id": "trakt-truestory-true-crime-documentary-series-film-true-crime-documentary-series-film",
+    "title": "True Crime Documentaries",
+    "url": "lish408/lists/true-crime-documentary-series-film",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-based-on-a-true-story-based-on-a-true-story",
+    "title": "Today's Top Picks for You",
+    "url": "benfranklin/lists/based-on-a-true-story",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-the-ultimate-true-crime-documentaries-list-the-ultimate-true-crime-documentaries-list",
+    "title": "Essential True Crime Docs",
+    "url": "bagpussthe2nd/lists/the-ultimate-true-crime-documentaries-list",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-essential-true-crime-essential-true-crime",
+    "title": "Must-See True Crime",
+    "url": "billy-shakes/lists/essential-true-crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-true-crime-true-crime",
+    "title": "True Crime Stories",
+    "url": "canadutchy/lists/true-crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-based-on-a-true-story-247-picks-based-on-a-true-story",
+    "title": "Based on True Story",
+    "url": "hulkhorgen/lists/based-on-a-true-story",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-ranker-best-movies-based-on-true-story-ranker-best-movies-based-on-true-story",
+    "title": "Inspiring True Stories",
+    "url": "kayaaron13/lists/ranker-best-movies-based-on-true-story",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-genre-biography-800-films-1960-2013-genre-biography-800-films-1960-2013",
+    "title": "Biopics",
+    "url": "xilfneps/lists/genre-biography-800-films-1960-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-true-story-based-true-story-based",
+    "title": "True Story Thrillers",
+    "url": "29zombies/lists/true-story-based",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-truestory-ranker-the-best-biopics-ever-made-ranker-the-best-biopics-ever-made",
+    "title": "Your Next Watch",
+    "url": "kayaaron13/lists/ranker-the-best-biopics-ever-made",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
