@@ -1,0 +1,92 @@
+[
+    {
+        "id":  "trakt-miniseries-todays-top-picks-for-you-miniseries-limited-series",
+        "title":  "Today\u0027s Top Picks for You",
+        "url":  "billy-shakes/lists/miniseries-limited-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-best-miniseries-british-tv-mini-series",
+        "title":  "Best Mini-Series",
+        "url":  "majeed_pk/lists/british-tv-mini-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-drama-limited-series-period-drama-miniseries-mini-tv-series",
+        "title":  "Drama Limited Series",
+        "url":  "majeed_pk/lists/period-drama-miniseries-mini-tv-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-short-movies-miniseries-great-short-movies-mini-series",
+        "title":  "Short Movies \u0026 Mini-Series",
+        "url":  "benfranklin/lists/great-short-movies-mini-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-hbo-limited-series-hbo-shows",
+        "title":  "HBO Limited Series",
+        "url":  "garycrawfordgc/lists/hbo-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-netflix-limited-series-netflix-shows",
+        "title":  "Netflix Limited Series",
+        "url":  "garycrawfordgc/lists/netflix-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-period-drama-miniseries-the-best-of-british-period-drama-tv-shows",
+        "title":  "Period Drama Mini-Series",
+        "url":  "iyez/lists/the-best-of-british-period-drama-tv-shows",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-adapted-from-books-erotic-movies-based-on-books",
+        "title":  "Adapted from Books",
+        "url":  "amohr/lists/erotic-movies-based-on-books",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-mindbending-series-psychological-series",
+        "title":  "Mind-Bending Series",
+        "url":  "alborziran2010/lists/psychological-series",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    },
+    {
+        "id":  "trakt-miniseries-your-next-watch-popular-mini-series-2010s",
+        "title":  "Your Next Watch",
+        "url":  "a925sw/lists/popular-mini-series-2010s",
+        "catalogType":  "traktTv",
+        "traktSortBy":  "random",
+        "minRating":  57,
+        "minYear":  1990
+    }
+]
