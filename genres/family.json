@@ -1,0 +1,164 @@
+[
+  {
+    "id": "trakt-family-kids-kids",
+    "title": "Kids & Family",
+    "url": "canconfirm/lists/kids",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-rotten-tomatoes-top-100-kids-family-movies-rotten-tomatoes-top-100-kids-family-movies",
+    "title": "Family Movies",
+    "url": "giladg/lists/rotten-tomatoes-top-100-kids-family-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-kids-shows-kids-shows",
+    "title": "Family TV Shows",
+    "url": "drinfernoo/lists/kids-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-family-family",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/family",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-kids-movies-kids-movies",
+    "title": "Kids Movies",
+    "url": "shambler74/lists/kids-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-top-watched-movies-of-the-week-for-kids-top-watched-movies-of-the-week-for-kids",
+    "title": "Trending Kids Movies",
+    "url": "linaspurinis/lists/top-watched-movies-of-the-week-for-kids",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-best-kids-movies-kids-movies",
+    "title": "Best Kids Movies",
+    "url": "drinfernoo/lists/kids-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-kids-445-picks-kids",
+    "title": "Family Favorites",
+    "url": "madmapper/lists/kids",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-best-kids-movies-best-kids-movies",
+    "title": "Classic Family Films",
+    "url": "kayaaron13/lists/best-kids-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-imdb-popular-family-horror-imdb-popular-family-horror",
+    "title": "Family Adventures",
+    "url": "lish408/lists/imdb-popular-family-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-the-shows-of-pbs-kids-from-the-past-and-present-the-shows-of-pbs-kids-from-the-past-and-pr",
+    "title": "PBS Kids Classics",
+    "url": "moses456/lists/the-shows-of-pbs-kids-from-the-past-and-present",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-animated-kids-movies-animated-kids-movies",
+    "title": "Animated Family",
+    "url": "a925sw/lists/animated-kids-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-animated-kids-movies-1741-picks-animated-kids-movies-e597020e-f596-4239-ada5-2fd888229292",
+    "title": "Animated Kids Favorites",
+    "url": "a925sw/lists/animated-kids-movies-e597020e-f596-4239-ada5-2fd888229292",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-disney-pixar-disney-pixar",
+    "title": "Disney Movies",
+    "url": "strangerer/lists/disney-pixar",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-pixar-pixar",
+    "title": "Pixar Picks",
+    "url": "madmapper/lists/pixar",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-pixar---all-movies-pixar-all-movies",
+    "title": "Pixar Movies",
+    "url": "fidel-cb/lists/pixar-all-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-time-to-believe---disney-live-action-films-collection-time-to-believe-disney-live-action-f",
+    "title": "Disney Classics",
+    "url": "pullsa/lists/time-to-believe-disney-live-action-films-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-family-pixar-31-picks-pixar",
+    "title": "Your Next Watch",
+    "url": "twentywashere/lists/pixar",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  }
+]
