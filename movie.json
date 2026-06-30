@@ -1,0 +1,163 @@
+[{
+    "id": "trakt-trending-movies",
+    "title": "Trending Movies",
+    "url": "tvgeniekodi/lists/trending-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "trakt-revenge-movies",
+    "title": "Revenge Movies",
+    "url": "kayaaron13/lists/revenge-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-comedy-movies-garycrawfordgc",
+    "title": "Comedy Movies: Top Picks",
+    "url": "garycrawfordgc/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-thriller-movies-garycrawfordgc",
+    "title": "Thriller Movies: Top Picks",
+    "url": "garycrawfordgc/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-sci-fi-movies-garycrawfordgc",
+    "title": "Sci-Fi Movies: Top Picks",
+    "url": "garycrawfordgc/lists/sci-fi",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-conspiracy-theories",
+    "title": "Conspiracy Theories",
+    "url": "kayaaron13/lists/conspiracy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-survival-movies",
+    "title": "Survival Movies",
+    "url": "kayaaron13/lists/survival-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-comfort-movies",
+    "title": "Comfort Movies",
+    "url": "kayaaron13/lists/comfort-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-top-bank-robbery-movies",
+    "title": "Top Bank Robbery Movies",
+    "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-cult-classics",
+    "title": "Cult Classics",
+    "url": "kayaaron13/lists/cult-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-crazy-plot-twists",
+    "title": "Crazy Plot Twists",
+    "url": "hdlists/lists/crazy-plot-twists",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-vacations-gone-wrong",
+    "title": "Vacations Gone Wrong",
+    "url": "kayaaron13/lists/vacations-gone-wrong",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-movies-that-benefit-from-multiple-viewings",
+    "title": "Watch More Than Once",
+    "url": "kayaaron13/lists/movies-that-benefit-from-multiple-viewings-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-romantic-comedy-movies-new",
+    "title": "Romantic Comedies",
+    "url": "bsbimalbose/lists/new-romantic-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-best-of-the-best",
+    "title": "We know you'll love these",
+    "url": "aledd/lists/top-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-comedy-movies",
+    "title": "Need a Good Laugh?",
+    "url": "movistapp/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-top-rated-crime-films",
+    "title": "Top Rated Crime Films",
+    "url": "hdlists/lists/crime-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-mystery-thrillers",
+    "title": "Mystery Thrillers",
+    "url": "hdlists/lists/mystery-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-crime-movies",
+    "title": "Crime Movies: Top Picks",
+    "url": "garycrawfordgc/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-laughs-and-laughter",
+    "title": "Laughs & Laughter",
+    "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-family-favorites",
+    "title": "Family Favorites",
+    "url": "hdlists/lists/family-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-2000s-movies",
+    "title": "Old But Fresh",
+    "url": "shambler74/lists/00s-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  },
+  {
+    "id": "trakt-90s-classics",
+    "title": "90s Classics",
+    "url": "shambler74/lists/90s-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random"
+  }
+]
