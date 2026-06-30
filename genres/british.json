@@ -1,0 +1,128 @@
+[
+  {
+    "id": "trakt-british-british-crime-drama-british-crime-drama",
+    "title": "Today's Top Picks for You",
+    "url": "pauls67/lists/british-crime-drama",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-bbc-natural-history-unit-filmography-bbc-natural-history-unit-filmography",
+    "title": "BBC Nature Documentaries",
+    "url": "lish408/lists/bbc-natural-history-unit-filmography",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-bbc-natural-history-landmarks-bbc-natural-history-landmarks",
+    "title": "BBC Natural History Classics",
+    "url": "draackje/lists/bbc-natural-history-landmarks",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-british-comedy-british-comedy",
+    "title": "British Comedies",
+    "url": "pauls67/lists/british-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-british-detective-tv-series-british-detective-tv-series",
+    "title": "British Detective Series",
+    "url": "majeed_pk/lists/british-detective-tv-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-bbc-cultures-100-greatest-foreign-language-films-bbc-culture-s-100-greatest-foreign-langua",
+    "title": "Best British TV",
+    "url": "majeed_pk/lists/bbc-culture-s-100-greatest-foreign-language-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-the-bfi-100---a-selection-of-the-favourite-british-films-of-the-20th-century-the-bfi-100-a",
+    "title": "British Films",
+    "url": "sp1ti/lists/the-bfi-100-a-selection-of-the-favourite-british-films-of-the-20th-century",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-vintage-british-tv-vintage-british-tv",
+    "title": "Vintage British TV",
+    "url": "majeed_pk/lists/vintage-british-tv",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-world-war-ii-british-films-226-titles-world-war-ii-british-films-226-titles",
+    "title": "British War Films",
+    "url": "majeed_pk/lists/world-war-ii-british-films-226-titles",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-bbcitvsky-bbc-itv-sky",
+    "title": "BBC Productions",
+    "url": "moses456/lists/bbc-itv-sky",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-british-irish-horror-british-irish-horror",
+    "title": "British & Irish Horror",
+    "url": "pauls67/lists/british-irish-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-british-series-british-series",
+    "title": "British Mini-Series",
+    "url": "zorge88/lists/british-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-the-bfi-100-a-selection-of-the-favourite-british-films-of-the-20th-century-the-bfi-100-a-s",
+    "title": "British Drama Films",
+    "url": "hulkhorgen/lists/the-bfi-100-a-selection-of-the-favourite-british-films-of-the-20th-century",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-british-british-cinematography-british-cinematography",
+    "title": "Your Next Watch",
+    "url": "zorge88/lists/british-cinematography",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
