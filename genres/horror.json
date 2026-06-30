@@ -1,0 +1,452 @@
+[
+  {
+    "id": "trakt-horror-horror-horror",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-movies-horror-movies",
+    "title": "Horror Movies",
+    "url": "pauls67/lists/horror-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-921-picks-horror",
+    "title": "Horror Essentials",
+    "url": "hammers-lists/lists/horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-popular-horror-popular-horror",
+    "title": "Trending Horror",
+    "url": "lish408/lists/popular-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-all-time-rotten-tomatoes-best-horror-movies-of-all-t",
+    "title": "Greatest Horror Films",
+    "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-1274158-horror-1274158",
+    "title": "Scary Movies",
+    "url": "donxy/lists/horror-1274158",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-424-picks-horror",
+    "title": "Handpicked Horror",
+    "url": "g0g0/lists/horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-80s-horror-80s-horror",
+    "title": "1980s Horror",
+    "url": "canadutchy/lists/80s-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-zombies-zombies",
+    "title": "Zombie Films",
+    "url": "29zombies/lists/zombies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-rotten-tomatoes-best-horror-tv-shows-of-all-time-rotten-tomatoes-best-horror-tv-shows-of-a",
+    "title": "Horror TV Shows",
+    "url": "lish408/lists/rotten-tomatoes-best-horror-tv-shows-of-all-time",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-dreadits-top-100-horror-films-2018-edition---rhorror-dreadit-s-top-100-horror-films-2018-e",
+    "title": "Essential Horror Films",
+    "url": "philrivers/lists/dreadit-s-top-100-horror-films-2018-edition-r-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-movie-boxsets-horror-movie-boxsets",
+    "title": "Horror Collections",
+    "url": "del74/lists/horror-movie-boxsets",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-1337-picks-horror",
+    "title": "Horror Favorites",
+    "url": "acoucalancha/lists/horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-scary-movies-scary-movies",
+    "title": "Spine-Chilling Horror",
+    "url": "shambler74/lists/scary-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-troma-horror-troma-horror",
+    "title": "Cult Horror",
+    "url": "canadutchy/lists/troma-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-458-picks-horror",
+    "title": "Classic Horror",
+    "url": "by-ahj/lists/horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-hammer-film-production-horror-films-hammer-film-production-horror-films",
+    "title": "Hammer Horror Classics",
+    "url": "hammers-lists/lists/hammer-film-production-horror-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2025-rotten-tomatoes-best-horror-movies-of-2025",
+    "title": "Best Horror of 2025",
+    "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-2025",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-psychological-horror-psychological-horror",
+    "title": "Psychological Horror",
+    "url": "ravynloony/lists/psychological-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2022-rotten-tomatoes-best-horror-movies-of-2022",
+    "title": "Best Horror of 2022",
+    "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-2022",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-psychological-horror-films-psychological-horror-films",
+    "title": "Mind-Bending Horror",
+    "url": "a925sw/lists/psychological-horror-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-1980s-horror-1980s",
+    "title": "1980s Horror",
+    "url": "blom-00/lists/horror-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-2000s-horror-2000s",
+    "title": "2000s Horror",
+    "url": "blom-00/lists/horror-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-comedy-horror-comedy-horror",
+    "title": "Horror Comedies",
+    "url": "ravynloony/lists/comedy-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-2010s-horror-2010s",
+    "title": "Modern Horror",
+    "url": "blom-00/lists/horror-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-films-featured-on-eli-roths-history-of-horror-films-featured-on-eli-roth-s-history-of-horr",
+    "title": "History of Horror",
+    "url": "lish408/lists/films-featured-on-eli-roth-s-history-of-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-slashers-slashers",
+    "title": "Slasher Films",
+    "url": "ravynloony/lists/slashers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-survival-horror-survival-horror",
+    "title": "Survival Horror",
+    "url": "ravynloony/lists/survival-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-1970s-horror-1970s",
+    "title": "1970s Horror",
+    "url": "blom-00/lists/horror-1970s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-in-search-of-darkness-a-journey-into-iconic-80s-horror-in-search-of-darkness-a-journey-int",
+    "title": "Iconic 1980s Horror",
+    "url": "twentywashere/lists/in-search-of-darkness-a-journey-into-iconic-80s-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-the-almost-complete-list-of-80s-slashers-the-almost-complete-list-of-80s-slashers",
+    "title": "1980s Slashers",
+    "url": "twentywashere/lists/the-almost-complete-list-of-80s-slashers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2021-rotten-tomatoes-best-horror-movies-of-2021",
+    "title": "Best Horror of 2021",
+    "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-2021",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2024-rotten-tomatoes-best-horror-movies-of-2024",
+    "title": "Best Horror of 2024",
+    "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-2024",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-b-horror-b-horror",
+    "title": "B-Movie Horror",
+    "url": "ravynloony/lists/b-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-thriller-horror-thriller-horror",
+    "title": "Horror Thrillers",
+    "url": "ravynloony/lists/thriller-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2023-rotten-tomatoes-best-horror-movies-of-2023",
+    "title": "Best Horror of 2023",
+    "url": "lish408/lists/rotten-tomatoes-best-horror-movies-of-2023",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-vampire-horror-vampire-horror",
+    "title": "Vampire Films",
+    "url": "ravynloony/lists/vampire-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-desolation-horror-desolation-horror",
+    "title": "Isolation Horror",
+    "url": "ravynloony/lists/desolation-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-in-search-of-darkness-part-ii-the-journey-into-80s-horror-continues-in-search-of-darkness-",
+    "title": "1980s Horror Deep Cuts",
+    "url": "twentywashere/lists/in-search-of-darkness-part-ii-the-journey-into-80s-horror-continues",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-1990s-horror-1990s",
+    "title": "1990s Horror",
+    "url": "blom-00/lists/horror-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-av-clubs-24-hours-of-horror-with-a-dozen-of-the-genres-freshest-voices-a-v-club-s-24-hours",
+    "title": "Fresh Horror Voices",
+    "url": "sp1ti/lists/a-v-club-s-24-hours-of-horror-with-a-dozen-of-the-genre-s-freshest-voices",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-movies-380-picks-horror-movies",
+    "title": "Essential Horror Movies",
+    "url": "caspian024/lists/horror-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-95-picks-horror",
+    "title": "Curated Horror",
+    "url": "jtucci/lists/horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-tubi-horror-tubi-horror",
+    "title": "Hidden Horror Gems",
+    "url": "ravynloony/lists/tubi-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-horror-collection-horror-collection",
+    "title": "Horror Anthologies",
+    "url": "canadutchy/lists/horror-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-supernatural-horror-supernatural-horror",
+    "title": "Supernatural Horror",
+    "url": "ravynloony/lists/supernatural-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-hammer-horror-hammer-horror",
+    "title": "Hammer Horror",
+    "url": "yoru14/lists/hammer-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-haunted-house-haunted-house",
+    "title": "Haunted House Horror",
+    "url": "ravynloony/lists/haunted-house",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-hammer-horror-hammer-thriller-collection-hammer-horror-hammer-thriller-collection",
+    "title": "Hammer Film Classics",
+    "url": "del74/lists/hammer-horror-hammer-thriller-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-horror-from-blockbuster-to-netflix-slashers-in-the-21st-century-2000-2019-from-blockbuster-to-net",
+    "title": "Your Next Watch",
+    "url": "twentywashere/lists/from-blockbuster-to-netflix-slashers-in-the-21st-century-2000-2019",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  }
+]
