@@ -1,0 +1,119 @@
+[
+  {
+    "id": "trakt-romance-romantic-comedies-romantic-comedies",
+    "title": "Romantic Comedies",
+    "url": "hammers-lists/lists/romantic-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-romance-romance",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/romance",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-rotten-tomatoes-the-200-best-romantic-comedies-of-all-time-rotten-tomatoes-the-200-best-ro",
+    "title": "Greatest Rom-Coms",
+    "url": "lish408/lists/rotten-tomatoes-the-200-best-romantic-comedies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-romance-best-rom-coms-best-rom-coms",
+    "title": "Best Rom-Coms",
+    "url": "majeed_pk/lists/best-rom-coms",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-romantic-comedies-414-picks-romantic-comedies",
+    "title": "Rom-Com Essentials",
+    "url": "29zombies/lists/romantic-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-the-30-best-romantic-comedies-of-all-time-the-30-best-romantic-comedies-of-all-time",
+    "title": "Rom-Com Classics",
+    "url": "movistapp/lists/the-30-best-romantic-comedies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-rom-coms-rom-coms",
+    "title": "Feel-Good Rom-Coms",
+    "url": "greatexpectation/lists/150-romantic-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1997
+  },
+  {
+    "id": "trakt-romance-new-romantic-comedies-new-romantic-comedies",
+    "title": "Modern Rom-Coms",
+    "url": "mattm382/lists/new-romantic-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-hopeless-romantic-movies-hopeless-romantic-movies",
+    "title": "Romantic Dramas",
+    "url": "majeed_pk/lists/hopeless-romantic-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-romance-78-picks-romance",
+    "title": "Romance Movies",
+    "url": "jtucci/lists/romance",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-romance_-best-romance-in-movies-romance_-best-romance-in-movies",
+    "title": "Greatest Love Stories",
+    "url": "moses456/lists/romance_-best-romance-in-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-romance-classics-rom-coms",
+    "title": "Romance Classics",
+    "url": "madmapper/lists/rom-coms",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-romance-romance_-unconventional-romance-films-romance_-unconventional-romance-films",
+    "title": "Your Next Watch",
+    "url": "moses456/lists/romance_-unconventional-romance-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
