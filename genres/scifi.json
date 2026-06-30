@@ -1,0 +1,264 @@
+[
+  {
+    "id": "trakt-scifi-science-fiction-science-fiction",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/science-fiction",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sci-fi-sci-fi",
+    "title": "Cult Sci-Fi",
+    "url": "canconfirm/lists/sci-fi",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+
+  {
+    "id": "trakt-scifi-science-fiction-movies-science-fiction-movies",
+    "title": "Sci-Fi Movies",
+    "url": "caspian024/lists/science-fiction-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-science-fiction-tv-science-fiction-tv",
+    "title": "Sci-Fi TV Shows",
+    "url": "caspian024/lists/science-fiction-tv",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-aliens-aliens",
+    "title": "Alien Encounters",
+    "url": "29zombies/lists/aliens",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-scifi-1980s-scifi-1980s",
+    "title": "Sci-Fi Action",
+    "url": "blom-00/lists/scifi-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-heavily-buzzed-sci-fihorrorfantasy-genre-films-in-festivals-2014-heavily-buzzed-sci-fi-hor",
+    "title": "Sci-Fi Horror",
+    "url": "philrivers/lists/heavily-buzzed-sci-fi-horror-fantasy-genre-films-in-festivals-2014",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-heavily-buzzed-sci-fihorrorfantasy-genre-films-in-festivals-2015-heavily-buzzed-sci-fi-hor",
+    "title": "Mind-Bending Sci-Fi",
+    "url": "philrivers/lists/heavily-buzzed-sci-fi-horror-fantasy-genre-films-in-festivals-2015",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sci-fi-horror-sci-fi-horror",
+    "title": "Your Next Watch",
+    "url": "ravynloony/lists/sci-fi-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-scifi-1990s-scifi-1990s",
+    "title": "1990s Sci-Fi",
+    "url": "blom-00/lists/scifi-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-scifi-tv-shows-scifi-tv-shows",
+    "title": "Sci-Fi Anime",
+    "url": "istoit/lists/scifi-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-science-fiction-100-picks-science-fiction",
+    "title": "Handpicked Sci-Fi",
+    "url": "jtucci/lists/science-fiction",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-the-50-best-sci-fi-movies-of-the-2010s-the-50-best-sci-fi-movies-of-the-2010s",
+    "title": "Modern Sci-Fi",
+    "url": "linaspurinis/lists/the-50-best-sci-fi-movies-of-the-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sexy-science-fiction-sexy-science-fiction",
+    "title": "Seductive Sci-Fi",
+    "url": "amohr/lists/sexy-science-fiction",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-scifi-2000s-scifi-2000s",
+    "title": "2000s Sci-Fi",
+    "url": "blom-00/lists/scifi-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-xtv-sci-fi-xtv-sci-fi",
+    "title": "Sci-Fi TV Series",
+    "url": "blom-00/lists/xtv-sci-fi",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sci-fi-films-sci-fi-films",
+    "title": "Essential Sci-Fi",
+    "url": "marzipan-pie/lists/sci-fi-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-all-science-fiction-tv-series-all-science-fiction-tv-series",
+    "title": "Sci-Fi TV Collection",
+    "url": "a925sw/lists/all-science-fiction-tv-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sci-fi-dystopia-sci-fi-dystopia",
+    "title": "Apocalyptic Films",
+    "url": "marcelocastanheira/lists/sci-fi-dystopia",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-alienpredator-alien-predator",
+    "title": "Alien & Predator",
+    "url": "yoru14/lists/alien-predator",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-scifi-2010s-scifi-2010s",
+    "title": "2010s Sci-Fi",
+    "url": "blom-00/lists/scifi-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-alienblade-runnerpredator-timeline-alien-blade-runner-predator-timeline",
+    "title": "Alien Universe",
+    "url": "sonicwarrior/lists/alien-blade-runner-predator-timeline",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-semi-hard-science-fiction-semi-hard-science-fiction-copy",
+    "title": "Hard Sci-Fi",
+    "url": "kayaaron13/lists/semi-hard-science-fiction-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sci-fi-serie-sci-fi-serie",
+    "title": "Sci-Fi Series",
+    "url": "marcelocastanheira/lists/sci-fi-serie",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sci-fi-movies-sci-fi-movies",
+    "title": "Critically Acclaimed Sci-Fi",
+    "url": "canadutchy/lists/sci-fi-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-my-most-favorite-science-fiction-movies-my-most-favorite-science-fiction-movies",
+    "title": "Sci-Fi Classics",
+    "url": "benfranklin/lists/my-most-favorite-science-fiction-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-robots-and-artificial-intelligence-robots-and-artificial-intelligence",
+    "title": "Robots & AI",
+    "url": "29zombies/lists/robots-and-artificial-intelligence",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-sci-fi-favorites-ranked-sci-fi-favorites-ranked",
+    "title": "Ranked Sci-Fi Picks",
+    "url": "acoucalancha/lists/sci-fi-favorites-ranked",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-scifi-dublin-sci-fi-film-festival-2018-dublin-sci-fi-film-festival-2018",
+    "title": "Festival Sci-Fi Picks",
+    "url": "philrivers/lists/dublin-sci-fi-film-festival-2018",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
