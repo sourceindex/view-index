@@ -1,0 +1,335 @@
+[
+  {
+    "id": "trakt-comedies-latest-standup-comedy-latest-standup-comedy",
+    "title": "Fresh Stand-Up Specials",
+    "url": "giladg/lists/latest-standup-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-movies-comedy-movies",
+    "title": "Comedy Movies",
+    "url": "ricksanchez/lists/comedy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-comedy",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-251-picks-comedy",
+    "title": "Handpicked Comedies",
+    "url": "jtucci/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-stand-up-comedy-specials-stand-up-comedy-specials",
+    "title": "Stand-Up Comedy",
+    "url": "lish408/lists/stand-up-comedy-specials",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-empires-50-funniest-comedies-ever-empire-s-50-funniest-comedies-ever",
+    "title": "Funniest Comedies Ever",
+    "url": "hulkhorgen/lists/empire-s-50-funniest-comedies-ever",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-top-100-tv-comedy-shows-top-100-tv-comedy-shows",
+    "title": "Comedy TV Shows",
+    "url": "majeed_pk/lists/top-100-tv-comedy-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-sitcoms-sitcoms",
+    "title": "Sitcoms",
+    "url": "jhall-316-hotmail-com/lists/sitcoms",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-tv-sitcoms-tv-sitcoms",
+    "title": "Classic Sitcoms",
+    "url": "marzipan-pie/lists/tv-sitcoms",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-kyles-favorite-stand-up-comedy-kyle-s-favorite-stand-up-comedy",
+    "title": "Must-See Stand-Up",
+    "url": "lish408/lists/kyle-s-favorite-stand-up-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-rolling-stones-100-best-sitcoms-of-all-time-rolling-stone-s-100-best-sitcoms-of-all-time",
+    "title": "Greatest Sitcoms",
+    "url": "redouaaane/lists/rolling-stone-s-100-best-sitcoms-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-stand-up-comedy-stand-up-comedy",
+    "title": "Stand-Up Hits",
+    "url": "mattm382/lists/stand-up-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-sex-comedies-sex-comedies",
+    "title": "Teen Comedies",
+    "url": "29zombies/lists/sex-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-493-picks-comedy",
+    "title": "Comedy Essentials",
+    "url": "canadutchy/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-specials-stand-up-comedy",
+    "title": "Comedy Specials",
+    "url": "del74/lists/stand-up-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-sketch-comedy-sketch-comedy",
+    "title": "Sketch Comedy",
+    "url": "billy-shakes/lists/sketch-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-tv-comedy-recommendations-tv-comedy-recommendations",
+    "title": "Comedy TV Picks",
+    "url": "philrivers/lists/tv-comedy-recommendations",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-xtv-comedy-xtv-comedy",
+    "title": "Comedy TV Series",
+    "url": "blom-00/lists/xtv-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-1990s-comedy-1990s",
+    "title": "1990s Comedies",
+    "url": "blom-00/lists/comedy-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-2000s-comedy-2000s",
+    "title": "2000s Comedies",
+    "url": "blom-00/lists/comedy-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-top-comedies-of-all-time-top-comedies-of-all-time",
+    "title": "Comedy Classics",
+    "url": "kayaaron13/lists/top-comedies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedies-comedies",
+    "title": "Laugh-Out-Loud Comedies",
+    "url": "29zombies/lists/comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-1980s-comedy-1980s",
+    "title": "1980s Comedies",
+    "url": "blom-00/lists/comedy-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-dark-comedies-dark-comedies",
+    "title": "Dark Comedies",
+    "url": "29zombies/lists/dark-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-2010s-comedy-2010s",
+    "title": "2010s Comedies",
+    "url": "blom-00/lists/comedy-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-stand-up-stand-up",
+    "title": "Stand-Up Favorites",
+    "url": "madmapper/lists/stand-up",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-gutbusters-funny-tv-shows-gutbusters-funny-tv-shows",
+    "title": "Funny TV Shows",
+    "url": "billy-shakes/lists/gutbusters-funny-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-funny-you-should-say-that-funny-you-should-say-that",
+    "title": "Wit & Wordplay",
+    "url": "redouaaane/lists/funny-you-should-say-that",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-movie-boxsets-comedy-movie-boxsets",
+    "title": "Comedy Collections",
+    "url": "del74/lists/comedy-movie-boxsets",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-best-sitcoms-best-sitcoms",
+    "title": "Best Sitcoms",
+    "url": "fidel-cb/lists/best-sitcoms",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-1440-picks-comedy",
+    "title": "Comedy Favorites",
+    "url": "usiris/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-movies-378-picks-comedy-movies",
+    "title": "Essential Comedy Films",
+    "url": "caspian024/lists/comedy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-sitcoms-112-picks-sitcoms",
+    "title": "Sitcom Essentials",
+    "url": "caspian024/lists/sitcoms",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-ealing-studios-comedy-collection-1947-1957-ealing-studios-comedy-collection-1947-1957",
+    "title": "British Comedies",
+    "url": "del74/lists/ealing-studios-comedy-collection-1947-1957",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-ausnz-drama-comedy-aus-nz-drama-comedy",
+    "title": "Australian & Kiwi Comedy",
+    "url": "pauls67/lists/aus-nz-drama-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-comedy-horror-movies-comedy-horror-movies",
+    "title": "Horror Comedies",
+    "url": "kayaaron13/lists/comedy-horror-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-comedies-horror-comedy-horror-comedy",
+    "title": "Your Next Watch",
+    "url": "29zombies/lists/horror-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
