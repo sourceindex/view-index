@@ -1,0 +1,155 @@
+[
+  {
+    "id": "trakt-dramas-drama-drama",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/drama",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-courtroom-dramas-courtroom-dramas",
+    "title": "Courtroom Dramas",
+    "url": "majeed_pk/lists/courtroom-dramas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-168-picks-drama",
+    "title": "Drama Movies",
+    "url": "jtucci/lists/drama",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-tearjerkers-tearjerkers",
+    "title": "Tearjerkers",
+    "url": "marzipan-pie/lists/tearjerkers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-steamy-dramas-steamy-dramas",
+    "title": "Passionate Dramas",
+    "url": "marzipan-pie/lists/steamy-dramas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-the-best-costume-dramas-the-best-costume-dramas",
+    "title": "Period Dramas",
+    "url": "majeed_pk/lists/the-best-costume-dramas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-sundance-film-festival-grand-jury-prize-dramatic-sundance-film-festival-grand-jury-prize-d",
+    "title": "Sundance Award Winners",
+    "url": "hulkhorgen/lists/sundance-film-festival-grand-jury-prize-dramatic",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-tv-nudity-watchlist-drama-tv-nudity-watchlist",
+    "title": "Drama TV Shows",
+    "url": "amohr/lists/drama-tv-nudity-watchlist",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-2010s-drama-2010s",
+    "title": "2010s Dramas",
+    "url": "blom-00/lists/drama-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-genre-drama-4700-titles-1970-2013-genre-drama-4700-titles-1970-2013",
+    "title": "Classic Drama Films",
+    "url": "xilfneps/lists/genre-drama-4700-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-1980s-drama-1980s",
+    "title": "1980s Dramas",
+    "url": "blom-00/lists/drama-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-2000s-drama-2000s",
+    "title": "2000s Dramas",
+    "url": "blom-00/lists/drama-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-favorites-drama-favorites",
+    "title": "Drama Favorites",
+    "url": "acoucalancha/lists/drama-favorites",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-top-courtroom-dramas-top-courtroom-dramas",
+    "title": "Legal Dramas",
+    "url": "kayaaron13/lists/top-courtroom-dramas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-1990s-drama-1990s",
+    "title": "1990s Dramas",
+    "url": "blom-00/lists/drama-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-xtv-drama-xtv-drama-008f33da-91b3-47de-ab1a-f0c356449d93",
+    "title": "Drama TV Series",
+    "url": "blom-00/lists/xtv-drama-008f33da-91b3-47de-ab1a-f0c356449d93",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  },
+  {
+    "id": "trakt-dramas-drama-horror-drama-horror",
+    "title": "Your Next Watch",
+    "url": "ravynloony/lists/drama-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970
+  }
+]
