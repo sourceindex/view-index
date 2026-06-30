@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Drama",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/drama.json"
+  },
+  {
+    "title": "Action",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
+  },
+  {
+    "title": "Comedy",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+  },
+  {
+    "title": "Crime",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/crime.json"
+  },
+  {
+    "title": "Adventure",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/adventure.json"
+  },
+  {
+    "title": "Romance",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/romance.json"
+  },
+  {
+    "title": "Thriller",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/thriller.json"
+  },
+  {
+    "title": "Horror",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/horror.json"
+  },
+  {
+    "title": "Western",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/western.json"
+  },
+  {
+    "title": "Animation",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/animation.json"
+  },
+  {
+    "title": "Anime",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/anime.json"
+  },
+  {
+    "title": "Award Winners",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/awardwinners.json"
+  },
+  {
+    "title": "British",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/british.json"
+  },
+  {
+    "title": "Classics",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/classics.json"
+  },
+  {
+    "title": "Documentary",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/documentary.json"
+  },
+  {
+    "title": "Family",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/family.json"
+  },
+  {
+    "title": "Fantasy",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/fantasy.json"
+  },
+  {
+    "title": "Foreign",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/foreign.json"
+  },
+  {
+    "title": "Hidden Gems",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/hiddengems.json"
+  },
+  {
+    "title": "Holiday",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/holiday.json"
+  },
+  {
+    "title": "Miniseries",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/miniseries.json"
+  },
+  {
+    "title": "Mystery",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/mystery.json"
+  },
+  {
+    "title": "Sci-Fi",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/scifi.json"
+  },
+  {
+    "title": "Superhero",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/superhero.json"
+  },
+  {
+    "title": "True Story",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/truestory.json"
+  },
+  {
+    "title": "War",
+    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/war.json"
+  }
+]
