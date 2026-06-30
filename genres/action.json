@@ -1,0 +1,173 @@
+[
+  {
+    "id": "trakt-action-action-action",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/action",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-asian-martial-arts-asian-martial-arts",
+    "title": "Martial Arts",
+    "url": "hammers-lists/lists/asian-martial-arts",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-actionshooter-movies-action-shooter-movies",
+    "title": "Action Movies",
+    "url": "ricksanchez/lists/action-shooter-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-hollywood-martial-arts-hollywood-martial-arts",
+    "title": "Hollywood Martial Arts",
+    "url": "hammers-lists/lists/hollywood-martial-arts",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-martial-arts---the-top-250-greatest-movies-of-all-time-martial-arts-the-top-250-greatest-m",
+    "title": "Greatest Martial Arts Films",
+    "url": "majeed_pk/lists/martial-arts-the-top-250-greatest-movies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-movies-action-movies",
+    "title": "The Action Vault",
+    "url": "caspian024/lists/action-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-179-picks-action",
+    "title": "Handpicked Action",
+    "url": "jtucci/lists/action",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-martial-arts_-awesome-martial-arts-movies-martial-arts_-awesome-martial-arts-movies",
+    "title": "Awesome Martial Arts",
+    "url": "moses456/lists/martial-arts_-awesome-martial-arts-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-snow-action-snow-action",
+    "title": "Action Comedies",
+    "url": "benfranklin/lists/snow-action",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-80s-style-action-80s-style",
+    "title": "1980s Action Classics",
+    "url": "marcelocastanheira/lists/action-80s-style",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-1980s-action-1980s",
+    "title": "1980s Action",
+    "url": "blom-00/lists/action-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-martial-arts_-the-top-250-greatest-martial-arts-mo-martial-arts_-the-top-250-greatest-mart",
+    "title": "Essential Martial Arts",
+    "url": "moses456/lists/martial-arts_-the-top-250-greatest-martial-arts-mo",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-217-picks-action",
+    "title": "Blockbuster Action",
+    "url": "29zombies/lists/action",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-tv-action-tv",
+    "title": "Action TV Shows",
+    "url": "caspian024/lists/action-tv",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-1990s-action-1990s",
+    "title": "1990s Action",
+    "url": "blom-00/lists/action-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-2000s-action-2000s",
+    "title": "2000s Action",
+    "url": "blom-00/lists/action-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-fighting-martial-arts-fighting-martial-arts",
+    "title": "Fighting & Martial Arts",
+    "url": "29zombies/lists/fighting-martial-arts",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-2010s-action-2010s",
+    "title": "2010s Action",
+    "url": "blom-00/lists/action-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-action-action-favorites-ranked-action-favorites-ranked",
+    "title": "Your Next Watch",
+    "url": "acoucalancha/lists/action-favorites-ranked",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
