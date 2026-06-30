@@ -1,0 +1,380 @@
+[
+  {
+    "id": "trakt-animation-walt-disney-animated-feature-films-walt-disney-animated-feature-films",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/walt-disney-animated-feature-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-disney",
+    "title": "Disney Animated",
+    "url": "hammers-lists/lists/disney",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-pixar-feature-films-pixar-feature-films",
+    "title": "Pixar Movies",
+    "url": "draackje/lists/pixar-feature-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-animation-animation",
+    "title": "Beyond Imagination",
+    "url": "giladg/lists/animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dreamworks-feature-films-dreamworks-feature-films",
+    "title": "DreamWorks Films",
+    "url": "draackje/lists/dreamworks-feature-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-animation-199-picks-animation",
+    "title": "Family Animation",
+    "url": "movistapp/lists/animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-original-content-disney-original-content",
+    "title": "Disney+ Originals",
+    "url": "mri8879/lists/disney-original-content",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-cartoons-cartoons",
+    "title": "Classic Cartoons",
+    "url": "billy-shakes/lists/cartoons",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-pixar-animation-studios-pixar-animation-studios",
+    "title": "Pixar Collection",
+    "url": "movistapp/lists/pixar-animation-studios",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-live-action-movies-disney-live-action-movies",
+    "title": "Disney Live-Action",
+    "url": "donxy/lists/disney-live-action-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-the-pixar-theory-the-pixar-theory",
+    "title": "The Pixar Theory",
+    "url": "donxy/lists/the-pixar-theory",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dreamworks-animation-dreamworks-animation",
+    "title": "DreamWorks Animation",
+    "url": "movistapp/lists/dreamworks-animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-animated-classics-disney-animated-classics",
+    "title": "Disney Classics",
+    "url": "draackje/lists/disney-animated-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dreamworks-movies-dreamworks-movies",
+    "title": "DreamWorks Movies",
+    "url": "ricksanchez/lists/dreamworks-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dreamworks-animation-40-picks-dreamworks-animation",
+    "title": "DreamWorks Collection",
+    "url": "donxy/lists/dreamworks-animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-sony-pictures-animation-sony-pictures-animation",
+    "title": "Sony Animation",
+    "url": "donxy/lists/sony-pictures-animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-adult-cartoons-adult-cartoons",
+    "title": "Adult Cartoons",
+    "url": "ricksanchez/lists/adult-cartoons",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-90s-cartoon-shows-90s-cartoon-shows",
+    "title": "Nineties Cartoons",
+    "url": "hammers-lists/lists/90s-cartoon-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-pixar-movies-disney-pixar-movies",
+    "title": "Disney & Pixar",
+    "url": "ricksanchez/lists/disney-pixar-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dc-animated-movie-universe-dc-animated-movie-universe",
+    "title": "DC Animated Movies",
+    "url": "donxy/lists/dc-animated-movie-universe",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-walt-disney-animation-studios-films-walt-disney-animation-studios-films",
+    "title": "Disney Animation Studios",
+    "url": "donxy/lists/walt-disney-animation-studios-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disneytoon-studios-animation-films-disneytoon-studios-animation-films",
+    "title": "DisneyToon Films",
+    "url": "donxy/lists/disneytoon-studios-animation-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-80s-cartoon-shows-80s-cartoon-shows",
+    "title": "Eighties Cartoons",
+    "url": "hammers-lists/lists/80s-cartoon-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-imdb-popular-family-animation-imdb-popular-family-animation",
+    "title": "Family Animation Favorites",
+    "url": "lish408/lists/imdb-popular-family-animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-cartoons-2174-picks-cartoons",
+    "title": "Cartoon Collection",
+    "url": "moses456/lists/cartoons",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-live-action-movies-disney-live-action-movies",
+    "title": "Disney Live-Action Films",
+    "url": "ricksanchez/lists/disney-live-action-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dc-animation-dc-animation",
+    "title": "DC Animation",
+    "url": "sergeyhist/lists/dc-animation",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-adult-cartoons-186-picks-adult-cartoons",
+    "title": "Adult Animation Picks",
+    "url": "a925sw/lists/adult-cartoons",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-films-disney-films",
+    "title": "Disney Films",
+    "url": "lish408/lists/disney-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-pixar-movies-pixar-movies",
+    "title": "Pixar Essentials",
+    "url": "linaspurinis/lists/pixar-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-animations-16-animations-16",
+    "title": "Mature Animation",
+    "url": "xtarter/lists/animations-16",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-animated-movies-disney-animated-movies",
+    "title": "Disney Animated Films",
+    "url": "yoru14/lists/disney-animated-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dreamworks-animation---short-films-dreamworks-animation-short-films",
+    "title": "DreamWorks Shorts",
+    "url": "donxy/lists/dreamworks-animation-short-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dc-animated-dc-animated",
+    "title": "DC Animated Films",
+    "url": "yoru14/lists/dc-animated",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-dc-animated-movie-universe-dcamu-dc-animated-movie-universe-dcamu",
+    "title": "DC Animated Universe",
+    "url": "mri8879/lists/dc-animated-movie-universe-dcamu",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-pixar-animation-studios-feature-films-pixar-animation-studios-feature-films",
+    "title": "Pixar Feature Films",
+    "url": "pullsa/lists/pixar-animation-studios-feature-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-disney-originals-disney-originals",
+    "title": "Disney+ Original Series",
+    "url": "crossoverenserie/lists/disney-originals",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-sony-pictures-animation---short-films-sony-pictures-animation-short-films",
+    "title": "Sony Animation Shorts",
+    "url": "donxy/lists/sony-pictures-animation-short-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-classics---walt-disney-animation-studios-feature-films-collection-classics-walt-disney-ani",
+    "title": "Disney Classics Collection",
+    "url": "pullsa/lists/classics-walt-disney-animation-studios-feature-films-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-childhood-cartoons-childhood-cartoons",
+    "title": "Childhood Cartoons",
+    "url": "canadutchy/lists/childhood-cartoons",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-filmography-dc-animated-movies-filmography-dc-animated-movies",
+    "title": "DC Animated Filmography",
+    "url": "grendelcrusher/lists/filmography-dc-animated-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  },
+  {
+    "id": "trakt-animation-childhood-cartoons-76-picks-childhood-cartoons",
+    "title": "Nostalgic Cartoons",
+    "url": "acoucalancha/lists/childhood-cartoons",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990
+  }
+]
