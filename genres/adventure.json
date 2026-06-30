@@ -1,0 +1,119 @@
+[
+  {
+    "id": "trakt-adventure-adventure-adventure",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-survival-off-grid-living-shows-survival-off-grid-living-shows",
+    "title": "Off-Grid Survival Shows",
+    "url": "hammers-lists/lists/survival-off-grid-living-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-genre-adventure-1250-titles-1970-2013-genre-adventure-1250-titles-1970-2013",
+    "title": "Classic Adventure Films",
+    "url": "xilfneps/lists/genre-adventure-1250-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-sexy-adventure-sexy-adventure",
+    "title": "Exotic Adventures",
+    "url": "amohr/lists/sexy-adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-114-picks-adventure",
+    "title": "Handpicked Adventures",
+    "url": "jtucci/lists/adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-movies-adventure-movies",
+    "title": "Adventure Movies",
+    "url": "caspian024/lists/adventure-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-survival-movies-survival-movies",
+    "title": "Survival Adventures",
+    "url": "kayaaron13/lists/survival-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-183-picks-adventure",
+    "title": "Epic Adventures",
+    "url": "29zombies/lists/adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-dangerous-exploration-dangerous-exploration",
+    "title": "Exploration & Discovery",
+    "url": "ravynloony/lists/dangerous-exploration",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-508-picks-adventure",
+    "title": "Greatest Adventures",
+    "url": "miester433/lists/adventure",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-2010s-adventure-2010s",
+    "title": "2010s Adventure",
+    "url": "blom-00/lists/adventure-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-adventure-2000s-adventure-2000s",
+    "title": "2000s Adventure",
+    "url": "blom-00/lists/adventure-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  },
+  {
+    "id": "trakt-adventure-survival-game-horror-survival-game-horror",
+    "title": "Your Next Watch",
+    "url": "ravynloony/lists/survival-game-horror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
+  }
+]
