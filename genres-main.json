@@ -1,106 +1,106 @@
 [
   {
     "title": "Drama",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/drama.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/drama.json"
   },
   {
     "title": "Action",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/action.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/action.json"
   },
   {
     "title": "Comedy",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/comedy.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/comedy.json"
   },
   {
     "title": "Crime",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/crime.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/crime.json"
   },
   {
     "title": "Adventure",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/adventure.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/adventure.json"
   },
   {
     "title": "Romance",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/romance.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/romance.json"
   },
   {
     "title": "Thriller",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/thriller.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/thriller.json"
   },
   {
     "title": "Horror",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/horror.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/horror.json"
   },
   {
     "title": "Western",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/western.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/western.json"
   },
   {
     "title": "Animation",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/animation.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/animation.json"
   },
   {
     "title": "Anime",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/anime.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/anime.json"
   },
   {
     "title": "Award Winners",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/awardwinners.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/awardwinners.json"
   },
   {
     "title": "British",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/british.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/british.json"
   },
   {
     "title": "Classics",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/classics.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/classics.json"
   },
   {
     "title": "Documentary",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/documentary.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/documentary.json"
   },
   {
     "title": "Family",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/family.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/family.json"
   },
   {
     "title": "Fantasy",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/fantasy.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/fantasy.json"
   },
   {
     "title": "Foreign",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/foreign.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/foreign.json"
   },
   {
     "title": "Hidden Gems",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/hiddengems.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/hiddengems.json"
   },
   {
     "title": "Holiday",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/holiday.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/holiday.json"
   },
   {
     "title": "Miniseries",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/miniseries.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/miniseries.json"
   },
   {
     "title": "Mystery",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/mystery.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/mystery.json"
   },
   {
     "title": "Sci-Fi",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/scifi.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/scifi.json"
   },
   {
     "title": "Superhero",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/superhero.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/superhero.json"
   },
   {
     "title": "True Story",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/truestory.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/truestory.json"
   },
   {
     "title": "War",
-    "url": "https://raw.githubusercontent.com/lawdev-cmd/pub/refs/heads/main/collections/war.json"
+    "url": "https://raw.githubusercontent.com/sourceindex/view-index/main/genres/war.json"
   }
 ]
