@@ -1,0 +1,114 @@
+[
+  {
+    "id": "tv-trending-shows",
+    "title": "Trending Shows",
+    "url": "rizreflects/lists/trending-now-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-netflix-shows",
+    "title": "Latest Netflix Shows",
+    "url": "snoak/lists/latest-netflix-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-paramount-shows",
+    "title": "Latest Paramount+ Shows",
+    "url": "snoak/lists/latest-paramount-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-apple-tv-shows",
+    "title": "Latest Apple TV+ Shows",
+    "url": "snoak/lists/latest-apple-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-hbo-max-shows",
+    "title": "Latest HBO Max Shows",
+    "url": "snoak/lists/latest-hbo-max-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-amazon-prime-shows",
+    "title": "Latest Amazon Prime Shows",
+    "url": "snoak/lists/latest-amazon-prime-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-disney-shows",
+    "title": "Latest Disney+ Shows",
+    "url": "snoak/lists/latest-disney-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-hulu-shows",
+    "title": "Latest Hulu Shows",
+    "url": "snoak/lists/latest-hulu-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-miniseries",
+    "title": "Latest Miniseries",
+    "url": "snoak/lists/latest-miniseries",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-kdrama-shows",
+    "title": "Latest KDrama Shows",
+    "url": "snoak/lists/latest-kdrama-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-reality-shows",
+    "title": "Latest Reality Shows",
+    "url": "snoak/lists/latest-reality-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-sci-fi-shows",
+    "title": "Latest Sci-Fi Shows",
+    "url": "snoak/lists/latest-sci-fi-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-thriller-shows",
+    "title": "Latest Thriller Shows",
+    "url": "snoak/lists/latest-thriller-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  },
+  {
+    "id": "latest-spy-thriller-assassin-shows",
+    "title": "Latest Spy Thriller Shows",
+    "url": "snoak/lists/latest-spy-thriller-assassin-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true
+  }
+]
