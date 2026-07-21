@@ -2,7 +2,7 @@
   {
     "id": "tv-trending-shows",
     "title": "Trending Shows",
-    "url": "rizreflects/lists/trending-now-shows",
+    "url": "tvgeniekodi/lists/trending-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true
@@ -14,6 +14,15 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true
+  },
+  {
+    "id": "trakt-thriller-critically-acclaimed-binge-worthy-tv-shows-imdb-top-rated-tv-shows",
+    "title": "Critically Acclaimed Binge-Worthy TV Shows",
+    "url": "justin/lists/imdb-top-rated-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980
   },
   {
     "id": "latest-paramount-shows",
