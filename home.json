@@ -15,14 +15,6 @@
     "inPlace": true
   },
   {
-    "id": "trakt-s-trending-movies",
-    "title": "Trending Movies",
-    "url": "tvgeniekodi/lists/trending-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "",
-    "inPlace": true
-  },
-  {
     "id": "trakt-top-tvshows",
     "title": "Latest TV Shows",
     "url": "garycrawfordgc/lists/latest-tv-shows",
