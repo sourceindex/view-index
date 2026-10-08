@@ -67,7 +67,7 @@
   {
     "id": "latest-hulu-shows",
     "title": "Latest Hulu Shows",
-    "url": "snoak/lists/latest-hulu-shows",
+    "url": "https://mdblist.com/lists/garycrawfordgc/hulu-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true
