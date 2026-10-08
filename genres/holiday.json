@@ -99,15 +99,6 @@
     "minYear": 1970
   },
   {
-    "id": "trakt-holiday-christmas-episodes-christmas-episodes",
-    "title": "Christmas Episodes",
-    "url": "philrivers/lists/christmas-episodes",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
     "id": "trakt-holiday-hallmark-movies-669-picks-hallmark-movies",
     "title": "Hallmark Collection",
     "url": "mattm382/lists/hallmark-movies",
@@ -355,15 +346,6 @@
     "title": "Holiday Films 2022",
     "url": "crossoverenserie/lists/other-christmas-2022",
     "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
-    "id": "trakt-holiday-thanksgiving-tv-episodes-thanksgiving-tv-episodes",
-    "title": "Thanksgiving Episodes",
-    "url": "philrivers/lists/thanksgiving-tv-episodes",
-    "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970

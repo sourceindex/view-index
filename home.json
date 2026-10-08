@@ -43,7 +43,7 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "action-sci-fi-fantasy",
     "title": "Action Sci-Fi & Fantasy",
     "url": "kingkearney/lists/action-sci-fi-fantasy",
@@ -316,7 +316,7 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-    {
+  {
     "id": "romantic-comedies-movies123",
     "title": "Romantic Movies",
     "url": "hammers-lists/lists/romantic-comedies",
@@ -337,17 +337,10 @@
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },
-   {
+  {
     "id": "best-british-gangster-movies",
     "title": "British Gangster Movies",
     "url": "w1nt3r/lists/best-british-gangster-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-     {
-    "id": "the-best-of-british-comedy-tv-shows",
-    "title": "British Comedy TV",
-    "url": "iyez/lists/the-best-of-british-comedy-tv-shows",
     "catalogType": "traktMovie",
     "traktSortBy": "random"
   },

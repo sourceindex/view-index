@@ -23,13 +23,6 @@
     "traktSortBy": "random"
   },
   {
-    "id": "90s-kids",
-    "title": "90s Kids",
-    "url": "smokedout/lists/90s-kids",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random"
-  },
-  {
     "id": "kids-top-tv-shows",
     "title": "Top Rated kids TV Shows",
     "url": "mrspacegoose/lists/kids-top-tv-shows",

@@ -135,15 +135,6 @@
     "minYear": 1990
   },
   {
-    "id": "trakt-family-pixar---all-movies-pixar-all-movies",
-    "title": "Pixar Movies",
-    "url": "fidel-cb/lists/pixar-all-movies",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
     "id": "trakt-family-time-to-believe---disney-live-action-films-collection-time-to-believe-disney-live-action-f",
     "title": "Disney Classics",
     "url": "pullsa/lists/time-to-believe-disney-live-action-films-collection",

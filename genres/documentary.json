@@ -270,15 +270,6 @@
     "minYear": 1990
   },
   {
-    "id": "trakt-documentary-documentaries-78-picks-documentaries",
-    "title": "Documentary Favorites",
-    "url": "fidel-cb/lists/documentaries",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
     "id": "trakt-documentary-mystery-documentary-shows-mystery-documentary-shows",
     "title": "Mystery Documentaries",
     "url": "canadutchy/lists/mystery-documentary-shows",

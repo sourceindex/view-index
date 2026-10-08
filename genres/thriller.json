@@ -72,15 +72,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-thriller-thriller-1523-picks-thriller",
-    "title": "Thriller Essentials",
-    "url": "usiris/lists/thriller",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-thriller-twisted-plots-and-psychological-mindfucks-twisted-plots-and-psychological-mindfucks",
     "title": "Twisted Psychological Thrillers",
     "url": "29zombies/lists/twisted-plots-and-psychological-mindfucks",

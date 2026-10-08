@@ -261,15 +261,6 @@
     "minYear": 1970
   },
   {
-    "id": "trakt-horror-in-search-of-darkness-a-journey-into-iconic-80s-horror-in-search-of-darkness-a-journey-int",
-    "title": "Iconic 1980s Horror",
-    "url": "twentywashere/lists/in-search-of-darkness-a-journey-into-iconic-80s-horror",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
     "id": "trakt-horror-the-almost-complete-list-of-80s-slashers-the-almost-complete-list-of-80s-slashers",
     "title": "1980s Slashers",
     "url": "twentywashere/lists/the-almost-complete-list-of-80s-slashers",
@@ -336,15 +327,6 @@
     "id": "trakt-horror-desolation-horror-desolation-horror",
     "title": "Isolation Horror",
     "url": "ravynloony/lists/desolation-horror",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1970
-  },
-  {
-    "id": "trakt-horror-in-search-of-darkness-part-ii-the-journey-into-80s-horror-continues-in-search-of-darkness-",
-    "title": "1980s Horror Deep Cuts",
-    "url": "twentywashere/lists/in-search-of-darkness-part-ii-the-journey-into-80s-horror-continues",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,

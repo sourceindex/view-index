@@ -63,15 +63,6 @@
     "minYear": 1990
   },
   {
-    "id": "trakt-animation-cartoons-cartoons",
-    "title": "Classic Cartoons",
-    "url": "billy-shakes/lists/cartoons",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1990
-  },
-  {
     "id": "trakt-animation-pixar-animation-studios-pixar-animation-studios",
     "title": "Pixar Collection",
     "url": "movistapp/lists/pixar-animation-studios",

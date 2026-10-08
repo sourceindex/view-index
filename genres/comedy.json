@@ -63,15 +63,6 @@
     "minYear": 1980
   },
   {
-    "id": "trakt-comedies-sitcoms-sitcoms",
-    "title": "Sitcoms",
-    "url": "jhall-316-hotmail-com/lists/sitcoms",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
     "id": "trakt-comedies-tv-sitcoms-tv-sitcoms",
     "title": "Classic Sitcoms",
     "url": "marzipan-pie/lists/tv-sitcoms",
@@ -139,15 +130,6 @@
     "title": "Sketch Comedy",
     "url": "billy-shakes/lists/sketch-comedy",
     "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-comedies-tv-comedy-recommendations-tv-comedy-recommendations",
-    "title": "Comedy TV Picks",
-    "url": "philrivers/lists/tv-comedy-recommendations",
-    "catalogType": "traktTv",
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
@@ -255,24 +237,6 @@
     "id": "trakt-comedies-comedy-movie-boxsets-comedy-movie-boxsets",
     "title": "Comedy Collections",
     "url": "del74/lists/comedy-movie-boxsets",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-comedies-best-sitcoms-best-sitcoms",
-    "title": "Best Sitcoms",
-    "url": "fidel-cb/lists/best-sitcoms",
-    "catalogType": "traktMovie",
-    "traktSortBy": "random",
-    "minRating": 57,
-    "minYear": 1980
-  },
-  {
-    "id": "trakt-comedies-comedy-1440-picks-comedy",
-    "title": "Comedy Favorites",
-    "url": "usiris/lists/comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
     "minRating": 57,
