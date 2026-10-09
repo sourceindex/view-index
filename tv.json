@@ -8,14 +8,6 @@
     "inPlace": true
   },
   {
-    "id": "latest-netflix-shows",
-    "title": "Latest Netflix Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-netflix-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
     "id": "trakt-thriller-critically-acclaimed-binge-worthy-tv-shows-imdb-top-rated-tv-shows",
     "title": "Critically Acclaimed Binge-Worthy TV Shows",
     "url": "justin/lists/imdb-top-rated-tv-shows",
@@ -23,101 +15,5 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980
-  },
-  {
-    "id": "latest-paramount-shows",
-    "title": "Latest Paramount+ Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-paramount-plus-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-apple-tv-shows",
-    "title": "Latest Apple TV+ Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-apple-tv-plus-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-hbo-max-shows",
-    "title": "Latest HBO Max Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-max-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-amazon-prime-shows",
-    "title": "Latest Amazon Prime Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-amazon-prime-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-disney-shows",
-    "title": "Latest Disney+ Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-disney-plus-tv-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-hulu-shows",
-    "title": "Latest Hulu Shows",
-    "url": "https://mdblist.com/lists/garycrawfordgc/hulu-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-miniseries",
-    "title": "Latest Miniseries",
-    "url": "https://mdblist.com/lists/snoak/latest-miniseries",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-kdrama-shows",
-    "title": "Latest KDrama Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-kdrama-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-reality-shows",
-    "title": "Latest Reality Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-reality-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-sci-fi-shows",
-    "title": "Latest Sci-Fi Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-sci-fi-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-thriller-shows",
-    "title": "Latest Thriller Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-thriller-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
-  },
-  {
-    "id": "latest-spy-thriller-assassin-shows",
-    "title": "Latest Spy Thriller Shows",
-    "url": "https://mdblist.com/lists/snoak/latest-spythillerassassin-shows",
-    "catalogType": "traktTv",
-    "traktSortBy": null,
-    "inPlace": true
   }
 ]
