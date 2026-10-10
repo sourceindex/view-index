@@ -2,7 +2,7 @@
   {
     "id": "tv-trending-shows",
     "title": "Trending Shows",
-    "url": "tvgeniekodi/lists/trending-shows",
+    "url": "https://mdblist.com/lists/official/shows/trending",
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true
