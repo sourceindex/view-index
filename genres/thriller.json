@@ -1,0 +1,192 @@
+[
+  {
+    "id": "trakt-thriller-thriller-thriller",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/97bd5039d4c7b48d78247c1d.json"
+  },
+  {
+    "id": "trakt-thriller-psychological-thrillers-psychological-thrillers",
+    "title": "Psychological Thrillers",
+    "url": "majeed_pk/lists/psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/59c40cf265fef0fb4e1266ef.json"
+  },
+  {
+    "id": "trakt-thriller-top-200-psychological-thrillers-top-200-psychological-thrillers",
+    "title": "Essential Psychological Thrillers",
+    "url": "majeed_pk/lists/top-200-psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f8f335955d7c0a9c365d23f3.json"
+  },
+  {
+    "id": "trakt-thriller-thriller-movies-thriller-movies",
+    "title": "Thriller Movies",
+    "url": "majeed_pk/lists/thriller-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d1b468813508906fd736ffc0.json"
+  },
+  {
+    "id": "trakt-thriller-political-thrillers-conspiracy-espionage-terror-political-thrillers-conspiracy-espionage-t",
+    "title": "Conspiracy Thrillers",
+    "url": "majeed_pk/lists/political-thrillers-conspiracy-espionage-terror",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/19683f673989bb78bcd9bbec.json"
+  },
+  {
+    "id": "trakt-thriller-thriller-117-picks-thriller",
+    "title": "Handpicked Thrillers",
+    "url": "jtucci/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/733e9944512ef5b1109cf170.json"
+  },
+  {
+    "id": "trakt-thriller-psychological-thrillers-202-picks-psychological-thrillers",
+    "title": "Mind-Bending Thrillers",
+    "url": "istoit/lists/psychological-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9834ea4197a0bb3d6a9bff22.json"
+  },
+  {
+    "id": "trakt-thriller-legal-dramas-legal-thrillers-legal-dramas-legal-thrillers",
+    "title": "Legal & Courtroom Thrillers",
+    "url": "twentywashere/lists/legal-dramas-legal-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8200e6af0f6f1630dff0f652.json"
+  },
+  {
+    "id": "trakt-thriller-twisted-plots-and-psychological-mindfucks-twisted-plots-and-psychological-mindfucks",
+    "title": "Twisted Psychological Thrillers",
+    "url": "29zombies/lists/twisted-plots-and-psychological-mindfucks",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2a97840a42ba9dcecb1e7acd.json"
+  },
+  {
+    "id": "trakt-thriller-thriller-1990s-thriller-1990s",
+    "title": "1990s Thrillers",
+    "url": "blom-00/lists/thriller-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3a746a8c932b4a38280a8ad7.json"
+  },
+  {
+    "id": "trakt-thriller-thriller-2000s-thriller-2000s",
+    "title": "2000s Thrillers",
+    "url": "blom-00/lists/thriller-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/88ebb4be3d0db60bbfbb0efa.json"
+  },
+  {
+    "id": "trakt-thriller-thriller-2010s-thriller-2010s",
+    "title": "2010s Thrillers",
+    "url": "blom-00/lists/thriller-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f7e5085081a12d0896aee747.json"
+  },
+  {
+    "id": "trakt-thriller-action-thriller-not-on-netflixprime-action-thriller-not-on-netflix-prime",
+    "title": "Action Thrillers",
+    "url": "amazing-journey/lists/action-thriller-not-on-netflix-prime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/241fdbd9cda70b2ba3a86fda.json"
+  },
+  {
+    "id": "trakt-thriller-genre-thriller-2600-titles-1970-2013-genre-thriller-2600-titles-1970-2013",
+    "title": "Classic Thriller Films",
+    "url": "xilfneps/lists/genre-thriller-2600-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a7d8727e262fa24f075bc00c.json"
+  },
+  {
+    "id": "trakt-thriller-thriller-1980s-thriller-1980s",
+    "title": "1980s Thrillers",
+    "url": "blom-00/lists/thriller-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e5ad48357b0d4627a4e95ced.json"
+  },
+  {
+    "id": "trakt-thriller-crime-thrillers-thriller-movies",
+    "title": "Crime Thrillers",
+    "url": "caspian024/lists/thriller-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c85731d7b9fc0bd8d37468b9.json"
+  },
+  {
+    "id": "trakt-thriller-actionthriller-action-thriller",
+    "title": "Action & Suspense",
+    "url": "miester433/lists/action-thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bfdbaab93332c2eb89095c36.json"
+  },
+  {
+    "id": "trakt-thriller-sexy-thrillers-sexy-thrillers",
+    "title": "Seductive Thrillers",
+    "url": "amohr/lists/sexy-thrillers",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/eff9144988fbd5bce2a3d673.json"
+  },
+  {
+    "id": "trakt-thriller-psychological-horror-films-psychological-horror-films-copy",
+    "title": "Psychological Horror",
+    "url": "kayaaron13/lists/psychological-horror-films-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d3e804c6a825d6b757ca96d6.json"
+  }
+]

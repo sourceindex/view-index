@@ -1,0 +1,82 @@
+[
+  {
+    "id": "trakt-western-westerns-westerns",
+    "title": "Western Movies",
+    "url": "canconfirm/lists/westerns",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0292796cfba8a598119d160d.json"
+  },
+  {
+    "id": "trakt-western-western-western",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/western",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c7ce4641fdfa4520536e34c.json"
+  },
+  {
+    "id": "trakt-western-western-top-100-movies---rotten-tomatoes-western-top-100-movies-rotten-tomatoes",
+    "title": "Acclaimed Westerns",
+    "url": "majeed_pk/lists/western-top-100-movies-rotten-tomatoes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9c4776d323193d297a50ab89.json"
+  },
+  {
+    "id": "trakt-western-western---spaghetti-westerns-500-films-western-spaghetti-westerns-500-films",
+    "title": "Spaghetti Westerns",
+    "url": "majeed_pk/lists/western-spaghetti-westerns-500-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8cbba85126978946abf78547.json"
+  },
+  {
+    "id": "trakt-western-spaghetti-westerns-spaghetti-westerns",
+    "title": "Italian Westerns",
+    "url": "del74/lists/spaghetti-westerns",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/874d9953dd7e549fa75e03c1.json"
+  },
+  {
+    "id": "trakt-western-westerns-of-the-wild-wild-west-westerns-of-the-wild-wild-west",
+    "title": "Wild West Adventures",
+    "url": "mattm382/lists/westerns-of-the-wild-wild-west",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b1c39d548ed498c8632ce6b9.json"
+  },
+  {
+    "id": "trakt-western-western-101-picks-western",
+    "title": "Classic Westerns",
+    "url": "jtucci/lists/western",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bf990d57b6eecf46c6af6801.json"
+  },
+  {
+    "id": "trakt-western-ranker-top-western-movies-ranker-top-western-movies",
+    "title": "Your Next Watch",
+    "url": "kayaaron13/lists/ranker-top-western-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1950,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0dff999f97c4432ebddbda14.json"
+  }
+]

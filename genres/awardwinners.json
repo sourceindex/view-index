@@ -1,0 +1,502 @@
+[
+  {
+    "id": "trakt-awardwinners-academy-awards---best-picture-winners-academy-awards-best-picture-winners",
+    "title": "Oscar Best Picture Winners",
+    "url": "thefork/lists/academy-awards-best-picture-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/464c79bf5b33b55a8dde18f1.json"
+  },
+  {
+    "id": "trakt-awardwinners-2026-oscar-winners-2026-oscar-winners",
+    "title": "Today's Top Picks for You",
+    "url": "visualcortex/lists/2026-oscar-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/14bcc5fc407a7f5c3b946fcc.json"
+  },
+  {
+    "id": "trakt-awardwinners-academy-award-winners-for-best-cinematography-academy-award-winners-for-best-cinematograph",
+    "title": "Best Cinematography Winners",
+    "url": "giladg/lists/academy-award-winners-for-best-cinematography",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/da6420fab6c2bee75e9cbc47.json"
+  },
+  {
+    "id": "trakt-awardwinners-awards-season-2025-awards-season-2025",
+    "title": "Awards Season Picks",
+    "url": "majeed_pk/lists/awards-season-2025",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/133c73d58a47527c375d3557.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-95th-academy-awards-oscars-2023-the-95th-academy-awards-oscars-2023",
+    "title": "Oscars 2023",
+    "url": "pullsa/lists/the-95th-academy-awards-oscars-2023",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fc4908136e2776e26f47d066.json"
+  },
+  {
+    "id": "trakt-awardwinners-academy-award-winners-for-best-sound-academy-award-winners-for-best-sound",
+    "title": "Best Sound Winners",
+    "url": "giladg/lists/academy-award-winners-for-best-sound",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c7804c078b73724986d35f96.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-97th-academy-awards-oscars-2025-the-97th-academy-awards-oscars-2025",
+    "title": "Oscars 2025",
+    "url": "pullsa/lists/the-97th-academy-awards-oscars-2025",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a069b498715674c78f1a17e9.json"
+  },
+  {
+    "id": "trakt-awardwinners-oscars-2025-oscars-2025",
+    "title": "Oscars 2025 Winners",
+    "url": "sergeyhist/lists/oscars-2025",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4d8b0dc68662c2d951530199.json"
+  },
+  {
+    "id": "trakt-awardwinners-afis-100-years-100-movies-10th-anniversary-edition-afi-s-100-years-100-movies-10th-anniver",
+    "title": "AFI Top 100",
+    "url": "sp1ti/lists/afi-s-100-years-100-movies-10th-anniversary-edition",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0086c8b0512b3d7e358c002b.json"
+  },
+  {
+    "id": "trakt-awardwinners-oscars-2023-oscars-2023",
+    "title": "Oscars 2023 Winners",
+    "url": "sergeyhist/lists/oscars-2023",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b4196ba71e3caa19fe1fc692.json"
+  },
+  {
+    "id": "trakt-awardwinners-oscars-2024-oscars-2024",
+    "title": "Oscars 2024 Winners",
+    "url": "sergeyhist/lists/oscars-2024",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/999d959be3bb03e3d07c05b5.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-96th-academy-awards-oscars-2024-the-96th-academy-awards-oscars-2024",
+    "title": "Oscars 2024",
+    "url": "pullsa/lists/the-96th-academy-awards-oscars-2024",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a1b1ef14e7a44a1e80da90e7.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-88th-academy-awards-oscars-2016-the-88th-academy-awards-oscars-2016",
+    "title": "Oscars 2016",
+    "url": "pullsa/lists/the-88th-academy-awards-oscars-2016",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff0ea937ddd091ea84051f47.json"
+  },
+  {
+    "id": "trakt-awardwinners-afis-100-years-100-thrills-afi-s-100-years-100-thrills",
+    "title": "AFI Top Thrillers",
+    "url": "sp1ti/lists/afi-s-100-years-100-thrills",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cb632eb06e6746e4f28bc407.json"
+  },
+  {
+    "id": "trakt-awardwinners-afis-100-years-100-laughts-afi-s-100-years-100-laughts",
+    "title": "AFI Top Comedies",
+    "url": "sp1ti/lists/afi-s-100-years-100-laughts",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2684799a875fc358809c24f9.json"
+  },
+  {
+    "id": "trakt-awardwinners-bafta---best-film-award-winners-bafta-best-film-award-winners",
+    "title": "BAFTA Winners",
+    "url": "majeed_pk/lists/bafta-best-film-award-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2336ac2c28c1fee3ba656207.json"
+  },
+  {
+    "id": "trakt-awardwinners-oscars-2026-oscars-2026",
+    "title": "Oscars 2026",
+    "url": "sergeyhist/lists/oscars-2026",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e75293b2af585f47a01d48ab.json"
+  },
+  {
+    "id": "trakt-awardwinners-academy-award-for-best-sound-academy-award-for-best-sound",
+    "title": "Oscar Sound Winners",
+    "url": "majeed_pk/lists/academy-award-for-best-sound",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f44b1397af42cacc618f8c.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-94th-academy-awards-oscars-2022-the-94th-academy-awards-oscars-2022",
+    "title": "Oscars 2022",
+    "url": "pullsa/lists/the-94th-academy-awards-oscars-2022",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e75acee1ccde40411562de2f.json"
+  },
+  {
+    "id": "trakt-awardwinners-afis-100-years-100-passions-top-100-greatest-love-stories-in-american-cinema-afi-s-100-yea",
+    "title": "AFI Greatest Love Stories",
+    "url": "sp1ti/lists/afi-s-100-years-100-passions-top-100-greatest-love-stories-in-american-cinema",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5faf9b42ccef1c0801cf0118.json"
+  },
+  {
+    "id": "trakt-awardwinners-academy-award-winner-foreign-language-films-academy-award-winner-foreign-language-films",
+    "title": "Best Foreign Language Oscar",
+    "url": "majeed_pk/lists/academy-award-winner-foreign-language-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f6d98121f944deea5fabee1e.json"
+  },
+  {
+    "id": "trakt-awardwinners-best-french-films---césar-award-winners-best-french-films-cesar-award-winners",
+    "title": "César Winners",
+    "url": "majeed_pk/lists/best-french-films-cesar-award-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/33c82e14b307f9bb010517a1.json"
+  },
+  {
+    "id": "trakt-awardwinners-oscar-winners-oscar-winners",
+    "title": "Oscar Winners",
+    "url": "zorge88/lists/oscar-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e64dfe3e32beb610e08bc60.json"
+  },
+  {
+    "id": "trakt-awardwinners-1970-2026-oscars-best-picture-winners-1970-2026-oscars-best-picture-winners",
+    "title": "Modern Best Picture Winners",
+    "url": "pjcob/lists/1970-2026-oscars-best-picture-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7a2b86edee002d94b1aa66fe.json"
+  },
+  {
+    "id": "trakt-awardwinners-88th-academy-awards-winners-88th-academy-awards-winners",
+    "title": "Oscar Night Classics",
+    "url": "movistapp/lists/88th-academy-awards-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d5c47938de0aba9c97fcbacf.json"
+  },
+  {
+    "id": "trakt-awardwinners-2022-golden-globes-2022-golden-globes",
+    "title": "Golden Globes 2022",
+    "url": "pjcob/lists/2022-golden-globes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c65e5f00bf0604744c8ac7a.json"
+  },
+  {
+    "id": "trakt-awardwinners-2018-cannes-2018-cannes",
+    "title": "Cannes 2018",
+    "url": "pjcob/lists/2018-cannes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30db29bfdef0dd82a1b21189.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-86th-academy-awards-oscars-2014-the-86th-academy-awards-oscars-2014",
+    "title": "Oscars 2014",
+    "url": "pullsa/lists/the-86th-academy-awards-oscars-2014",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/667396f8868c3d4d99d312d4.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-89th-academy-awards-oscars-2017-the-89th-academy-awards-oscars-2017",
+    "title": "Oscars 2017",
+    "url": "pullsa/lists/the-89th-academy-awards-oscars-2017",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/41f3d90c2dae0f38b53ea39b.json"
+  },
+  {
+    "id": "trakt-awardwinners-2019-cannes-2019-cannes",
+    "title": "Cannes 2019",
+    "url": "pjcob/lists/2019-cannes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d0e04371a93959a66d649e27.json"
+  },
+  {
+    "id": "trakt-awardwinners-academy-awards-best-picture-academy-awards-best-picture",
+    "title": "Best Picture Winners",
+    "url": "twentywashere/lists/academy-awards-best-picture",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/51acde44c239870eab6306b9.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-82nd-academy-awards-oscars-2010-the-82nd-academy-awards-oscars-2010",
+    "title": "Oscars 2010",
+    "url": "pullsa/lists/the-82nd-academy-awards-oscars-2010",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/00a021382c0b6a64b147b43c.json"
+  },
+  {
+    "id": "trakt-awardwinners-2021-cannes-2021-cannes",
+    "title": "Cannes 2021",
+    "url": "pjcob/lists/2021-cannes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/eba5e82f4c32cbf42da44005.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-84th-academy-awards-oscars-2012-the-84th-academy-awards-oscars-2012",
+    "title": "Oscars 2012",
+    "url": "pullsa/lists/the-84th-academy-awards-oscars-2012",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e60aa4be0b7f30b3f08eb3cd.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-85th-academy-awards-oscars-2013-the-85th-academy-awards-oscars-2013",
+    "title": "Oscars 2013",
+    "url": "pullsa/lists/the-85th-academy-awards-oscars-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1ea07d91bdb5c2699af03b12.json"
+  },
+  {
+    "id": "trakt-awardwinners-cannes-palme-dor-winners-cannes-palme-d-or-winners",
+    "title": "Cannes Palme d'Or Winners",
+    "url": "zorge88/lists/cannes-palme-d-or-winners",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/333c9b74fa1c977b4ba913c1.json"
+  },
+  {
+    "id": "trakt-awardwinners-primetime-emmy-awards---outstanding-comedydramavariety-series-winners-primetime-emmy-award",
+    "title": "Emmy Award Winners",
+    "url": "thefork/lists/primetime-emmy-awards-outstanding-comedy-drama-variety-series-winners",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/39e9142e18940ce24a354784.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-83rd-academy-awards-oscars-2011-the-83rd-academy-awards-oscars-2011",
+    "title": "Oscars 2011",
+    "url": "pullsa/lists/the-83rd-academy-awards-oscars-2011",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c18a49aee4827bd7ee62b53.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-87th-academy-awards-oscars-2015-the-87th-academy-awards-oscars-2015-15ad9ede-826a-47fd",
+    "title": "Oscars 2015",
+    "url": "pullsa/lists/the-87th-academy-awards-oscars-2015-15ad9ede-826a-47fd-a239-ccf7a1f625f4",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c93ba240262000713ea3c2e.json"
+  },
+  {
+    "id": "trakt-awardwinners-2014-oscars-nominees-2014-oscars-nominees",
+    "title": "Oscars 2014 Nominees",
+    "url": "lish408/lists/2014-oscars-nominees",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2ee1e7faa6f51c52a033134b.json"
+  },
+  {
+    "id": "trakt-awardwinners-2015-oscars-nominees-2015-oscars-nominees",
+    "title": "Oscars 2015 Nominees",
+    "url": "lish408/lists/2015-oscars-nominees",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/599d7b142b86c7f87fd1738c.json"
+  },
+  {
+    "id": "trakt-awardwinners-2020-cannes-2020-cannes",
+    "title": "Cannes 2020",
+    "url": "pjcob/lists/2020-cannes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b9590f29f56d66e26138693.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-77th-academy-awards-oscars-2005-the-77th-academy-awards-oscars-2005",
+    "title": "Oscars 2005",
+    "url": "pullsa/lists/the-77th-academy-awards-oscars-2005",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/231d097fa546af3eda79a1f8.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-90th-academy-awards-oscars-2018-the-90th-academy-awards-oscars-2018",
+    "title": "Oscars 2018",
+    "url": "pullsa/lists/the-90th-academy-awards-oscars-2018",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f570cdb5018c99b492124d6d.json"
+  },
+  {
+    "id": "trakt-awardwinners-2013-oscars-nominees-2013-oscars-nominees",
+    "title": "Oscars 2013 Nominees",
+    "url": "lish408/lists/2013-oscars-nominees",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/690ea4bf9bceba0bff8161b8.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-92nd-academy-awards---oscar-nominees-of-2020-the-92nd-academy-awards-oscar-nominees-of",
+    "title": "Oscars 2020 Nominees",
+    "url": "mri8879/lists/the-92nd-academy-awards-oscar-nominees-of-2020",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/620940f1067f41af3c657870.json"
+  },
+  {
+    "id": "trakt-awardwinners-2020-oscars-2020-oscars",
+    "title": "Oscars 2020",
+    "url": "pjcob/lists/2020-oscars",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a21afeaf3383b0aa4c167efa.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-68th-academy-awards-oscars-1996-the-68th-academy-awards-oscars-1996",
+    "title": "Oscars 1996",
+    "url": "pullsa/lists/the-68th-academy-awards-oscars-1996",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/333ca0fea8f2a13611b50b33.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-79th-academy-awards-oscars-2007-the-79th-academy-awards-oscars-2007",
+    "title": "Oscars 2007",
+    "url": "pullsa/lists/the-79th-academy-awards-oscars-2007",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f18850670c58839d9ee2c388.json"
+  },
+  {
+    "id": "trakt-awardwinners-the-81st-academy-awards-oscars-2009-the-81st-academy-awards-oscars-2009",
+    "title": "Your Next Watch",
+    "url": "pullsa/lists/the-81st-academy-awards-oscars-2009",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af8df7778c33617b5e5d05f3.json"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "trakt-hiddengems-hidden-gems-hidden-gems",
+    "title": "Today's Top Picks for You",
+    "url": "recom273/lists/hidden-gems",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e2e535646e18db2630f60da6.json"
+  },
+  {
+    "id": "trakt-hiddengems-wikipedias-list-of-cult-films-wikipedia-s-list-of-cult-films",
+    "title": "Cult Cinema Classics",
+    "url": "didzgreen/lists/wikipedia-s-list-of-cult-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1dcb6dc28169107ebbcb5ac8.json"
+  },
+  {
+    "id": "trakt-hiddengems-underground-network-underground-network",
+    "title": "Underground Films",
+    "url": "justin/lists/underground-network",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1f1099cce16ac5e92cd77e09.json"
+  },
+  {
+    "id": "trakt-hiddengems-av-clubs-the-new-cult-canon-a-v-club-s-the-new-cult-canon",
+    "title": "The New Cult Canon",
+    "url": "sp1ti/lists/a-v-club-s-the-new-cult-canon",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9041be65950732bd4f2d40ed.json"
+  },
+  {
+    "id": "trakt-hiddengems-cult-classics-cult-classics",
+    "title": "Cult Classics",
+    "url": "kayaaron13/lists/cult-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d7c414ad8854e7140da5f05.json"
+  },
+  {
+    "id": "trakt-hiddengems-70s-horror-cult-70s-horror-cult",
+    "title": "1970s Cult Horror",
+    "url": "marcelocastanheira/lists/70s-horror-cult",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b43553b389dc7f4db6db4c29.json"
+  },
+  {
+    "id": "trakt-hiddengems-most-underrated-movies-of-the-last-20-years-most-underrated-movies-of-the-last-20-years",
+    "title": "Underrated Masterpieces",
+    "url": "hulkhorgen/lists/most-underrated-movies-of-the-last-20-years",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c99495188be3254410e2f76c.json"
+  },
+  {
+    "id": "trakt-hiddengems-hidden-gems-52-picks-hidden-gems",
+    "title": "Hidden Gem Movies",
+    "url": "kayaaron13/lists/hidden-gems",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e58becbc9f1e92069409e20.json"
+  },
+  {
+    "id": "trakt-hiddengems-80s-horror-cults-80s-horror-cults",
+    "title": "1980s Cult Horror",
+    "url": "marcelocastanheira/lists/80s-horror-cults",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d0e2f4f55c9c03efe463b226.json"
+  },
+  {
+    "id": "trakt-hiddengems-best-sci-fi-cult-classics-of-all-time-best-sci-fi-cult-classics-of-all-time",
+    "title": "Cult Sci-Fi",
+    "url": "philrivers/lists/best-sci-fi-cult-classics-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/22bdb5467475c1bd7856c91f.json"
+  },
+  {
+    "id": "trakt-hiddengems-90s-horror-cults-90s-horror-cults",
+    "title": "1990s Cult Horror",
+    "url": "marcelocastanheira/lists/90s-horror-cults",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/69d4d1a0b9112201d609c12d.json"
+  },
+  {
+    "id": "trakt-hiddengems-cult-classics-693-picks-cult-classics",
+    "title": "Essential Cult Classics",
+    "url": "madmapper/lists/cult-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/49cb51f4493deca774b7b071.json"
+  },
+  {
+    "id": "trakt-hiddengems-a-v-club-s-the-new-cult-canon-a-v-club-s-the-new-cult-canon",
+    "title": "Critically Acclaimed Cult Films",
+    "url": "hulkhorgen/lists/a-v-club-s-the-new-cult-canon",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4b4dc5b2d6ecf1c2df898091.json"
+  },
+  {
+    "id": "trakt-hiddengems-2010s-horror-cult-2010s-horror-cult",
+    "title": "2010s Cult Horror",
+    "url": "marcelocastanheira/lists/2010s-horror-cult",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/181bb5a83fe8d41ad5beba59.json"
+  },
+  {
+    "id": "trakt-hiddengems-underrated-and-underseen-90s-horror-movies-underrated-and-underseen-90s-horror-movies",
+    "title": "Underrated 90s Horror",
+    "url": "philrivers/lists/underrated-and-underseen-90s-horror-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f3f5069d9f8220abbbb82f.json"
+  },
+  {
+    "id": "trakt-hiddengems-the-best-underrated-black-movies-the-best-underrated-black-movies",
+    "title": "Underrated Black Cinema",
+    "url": "moses456/lists/the-best-underrated-black-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8c03aa04a033cfb1894dd259.json"
+  },
+  {
+    "id": "trakt-hiddengems-2020s-horror-cult-2020s-horror-cult",
+    "title": "2020s Cult Horror",
+    "url": "marcelocastanheira/lists/2020s-horror-cult",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/23a26654a75e3319ad4c8bb6.json"
+  },
+  {
+    "id": "trakt-hiddengems-1900-1970-horror-cults-1900-1970-horror-cults",
+    "title": "Vintage Cult Horror",
+    "url": "marcelocastanheira/lists/1900-1970-horror-cults",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a90f5d6224b3240d4be3a09d.json"
+  },
+  {
+    "id": "trakt-hiddengems-2000s-horror-cult-2000s-horror-cult",
+    "title": "2000s Cult Horror",
+    "url": "marcelocastanheira/lists/2000s-horror-cult",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3c0f44d7bd3f897bfc7b893c.json"
+  }
+]

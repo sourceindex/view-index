@@ -1,0 +1,187 @@
+[
+  {
+    "id": "trakt-trending-movies",
+    "title": "Trending Movies",
+    "url": "tvgeniekodi/lists/trending-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": null,
+    "inPlace": true,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/658d743fb52826a11b96c3fe.json"
+  },
+  {
+    "id": "trakt-revenge-movies",
+    "title": "Revenge Movies",
+    "url": "kayaaron13/lists/revenge-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6625cc6fe712547be3326567.json"
+  },
+  {
+    "id": "trakt-comedy-movies-garycrawfordgc",
+    "title": "Comedy Movies: Top Picks",
+    "url": "garycrawfordgc/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/185bfc301fa4ab89ed7b876e.json"
+  },
+  {
+    "id": "trakt-thriller-movies-garycrawfordgc",
+    "title": "Thriller Movies: Top Picks",
+    "url": "garycrawfordgc/lists/thriller",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b3650b09700e0acd27c44f7.json"
+  },
+  {
+    "id": "trakt-sci-fi-movies-garycrawfordgc",
+    "title": "Sci-Fi Movies: Top Picks",
+    "url": "garycrawfordgc/lists/sci-fi",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e53bfd48e309ffc3b910dbd5.json"
+  },
+  {
+    "id": "trakt-conspiracy-theories",
+    "title": "Conspiracy Theories",
+    "url": "kayaaron13/lists/conspiracy-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c318d6ce63f0e1ee9822487.json"
+  },
+  {
+    "id": "trakt-survival-movies",
+    "title": "Survival Movies",
+    "url": "kayaaron13/lists/survival-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2b178ca25c00b503454e0787.json"
+  },
+  {
+    "id": "trakt-comfort-movies",
+    "title": "Comfort Movies",
+    "url": "kayaaron13/lists/comfort-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10c2fe802c978ce67f5cbfd3.json"
+  },
+  {
+    "id": "trakt-top-bank-robbery-movies",
+    "title": "Top Bank Robbery Movies",
+    "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d4b6b14cf820eb55f4f3d34.json"
+  },
+  {
+    "id": "trakt-cult-classics",
+    "title": "Cult Classics",
+    "url": "kayaaron13/lists/cult-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d7c414ad8854e7140da5f05.json"
+  },
+  {
+    "id": "trakt-crazy-plot-twists",
+    "title": "Crazy Plot Twists",
+    "url": "hdlists/lists/crazy-plot-twists",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/94debc7ea31d362f7abc7000.json"
+  },
+  {
+    "id": "trakt-vacations-gone-wrong",
+    "title": "Vacations Gone Wrong",
+    "url": "kayaaron13/lists/vacations-gone-wrong",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a3bb6baf10721975c09f3125.json"
+  },
+  {
+    "id": "trakt-movies-that-benefit-from-multiple-viewings",
+    "title": "Watch More Than Once",
+    "url": "kayaaron13/lists/movies-that-benefit-from-multiple-viewings-copy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c21d7016d5de1a83c1f16f7c.json"
+  },
+  {
+    "id": "trakt-romantic-comedy-movies-new",
+    "title": "Romantic Comedies",
+    "url": "bsbimalbose/lists/new-romantic-comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d88f09556bf244e77418022.json"
+  },
+  {
+    "id": "trakt-best-of-the-best",
+    "title": "We know you'll love these",
+    "url": "aledd/lists/top-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/07b4003ab95402dfc080c5b7.json"
+  },
+  {
+    "id": "trakt-comedy-movies",
+    "title": "Need a Good Laugh?",
+    "url": "movistapp/lists/comedy",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/972035020693e1c110221b50.json"
+  },
+  {
+    "id": "trakt-top-rated-crime-films",
+    "title": "Top Rated Crime Films",
+    "url": "hdlists/lists/crime-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/53b0044c2f647218b7aa7b36.json"
+  },
+  {
+    "id": "trakt-mystery-thrillers",
+    "title": "Mystery Thrillers",
+    "url": "hdlists/lists/mystery-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/47c2fe453b28e5aec9faad0c.json"
+  },
+  {
+    "id": "trakt-crime-movies",
+    "title": "Crime Movies: Top Picks",
+    "url": "garycrawfordgc/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1ea88310a8969aff1d297c2d.json"
+  },
+  {
+    "id": "trakt-laughs-and-laughter",
+    "title": "Laughs & Laughter",
+    "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/916f6c1f75bfc27bdc51dd0a.json"
+  },
+  {
+    "id": "trakt-family-favorites",
+    "title": "Family Favorites",
+    "url": "hdlists/lists/family-movies-top-rated-from-1980-to-today",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5406209dd1271627bc3a9ff3.json"
+  },
+  {
+    "id": "trakt-2000s-movies",
+    "title": "Old But Fresh",
+    "url": "shambler74/lists/00s-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e9373186c877d4e3b08b1006.json"
+  },
+  {
+    "id": "trakt-90s-classics",
+    "title": "90s Classics",
+    "url": "shambler74/lists/90s-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3e480484482aa9688e09b703.json"
+  }
+]

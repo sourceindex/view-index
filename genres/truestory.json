@@ -1,0 +1,102 @@
+[
+  {
+    "id": "trakt-truestory-true-crime-documentary-series-film-true-crime-documentary-series-film",
+    "title": "True Crime Documentaries",
+    "url": "lish408/lists/true-crime-documentary-series-film",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7701b1f990f97a5a72b6d7b8.json"
+  },
+  {
+    "id": "trakt-truestory-based-on-a-true-story-based-on-a-true-story",
+    "title": "Today's Top Picks for You",
+    "url": "benfranklin/lists/based-on-a-true-story",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/26885dddb74276a607ee77e0.json"
+  },
+  {
+    "id": "trakt-truestory-the-ultimate-true-crime-documentaries-list-the-ultimate-true-crime-documentaries-list",
+    "title": "Essential True Crime Docs",
+    "url": "bagpussthe2nd/lists/the-ultimate-true-crime-documentaries-list",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/92629ee66f8b9f3cdc261cd7.json"
+  },
+  {
+    "id": "trakt-truestory-essential-true-crime-essential-true-crime",
+    "title": "Must-See True Crime",
+    "url": "billy-shakes/lists/essential-true-crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cdf9fafad37a83fd245f7898.json"
+  },
+  {
+    "id": "trakt-truestory-true-crime-true-crime",
+    "title": "True Crime Stories",
+    "url": "canadutchy/lists/true-crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f3c034067103871fc1ec94.json"
+  },
+  {
+    "id": "trakt-truestory-based-on-a-true-story-247-picks-based-on-a-true-story",
+    "title": "Based on True Story",
+    "url": "hulkhorgen/lists/based-on-a-true-story",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b939279158f9f172da6b48fe.json"
+  },
+  {
+    "id": "trakt-truestory-ranker-best-movies-based-on-true-story-ranker-best-movies-based-on-true-story",
+    "title": "Inspiring True Stories",
+    "url": "kayaaron13/lists/ranker-best-movies-based-on-true-story",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ed4ec0cc1db550235e63812a.json"
+  },
+  {
+    "id": "trakt-truestory-genre-biography-800-films-1960-2013-genre-biography-800-films-1960-2013",
+    "title": "Biopics",
+    "url": "xilfneps/lists/genre-biography-800-films-1960-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b9554aebdfa9d158a1812e63.json"
+  },
+  {
+    "id": "trakt-truestory-true-story-based-true-story-based",
+    "title": "True Story Thrillers",
+    "url": "29zombies/lists/true-story-based",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2f08785e7ddb0c12756f7ab8.json"
+  },
+  {
+    "id": "trakt-truestory-ranker-the-best-biopics-ever-made-ranker-the-best-biopics-ever-made",
+    "title": "Your Next Watch",
+    "url": "kayaaron13/lists/ranker-the-best-biopics-ever-made",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1980,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e8bc4cd3131b998c60a9878.json"
+  }
+]

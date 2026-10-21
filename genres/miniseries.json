@@ -1,0 +1,92 @@
+[
+  {
+    "id": "trakt-miniseries-todays-top-picks-for-you-miniseries-limited-series",
+    "title": "Today's Top Picks for You",
+    "url": "billy-shakes/lists/miniseries-limited-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/524fec93f83c0852ed4bcd0b.json"
+  },
+  {
+    "id": "trakt-miniseries-best-miniseries-british-tv-mini-series",
+    "title": "Best Mini-Series",
+    "url": "majeed_pk/lists/british-tv-mini-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4f7976124609051245735549.json"
+  },
+  {
+    "id": "trakt-miniseries-drama-limited-series-period-drama-miniseries-mini-tv-series",
+    "title": "Drama Limited Series",
+    "url": "majeed_pk/lists/period-drama-miniseries-mini-tv-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1c67bbd6a783d59d8cc74af4.json"
+  },
+  {
+    "id": "trakt-miniseries-short-movies-miniseries-great-short-movies-mini-series",
+    "title": "Short Movies & Mini-Series",
+    "url": "benfranklin/lists/great-short-movies-mini-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13f355a4515fc1f12d25d143.json"
+  },
+  {
+    "id": "trakt-miniseries-hbo-limited-series-hbo-shows",
+    "title": "HBO Limited Series",
+    "url": "garycrawfordgc/lists/hbo-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/634d41fc9b72815e890d2fe9.json"
+  },
+  {
+    "id": "trakt-miniseries-netflix-limited-series-netflix-shows",
+    "title": "Netflix Limited Series",
+    "url": "garycrawfordgc/lists/netflix-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc5f409ee6aa1d09345f2f43.json"
+  },
+  {
+    "id": "trakt-miniseries-adapted-from-books-erotic-movies-based-on-books",
+    "title": "Adapted from Books",
+    "url": "amohr/lists/erotic-movies-based-on-books",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8d2bfb4ea29066dcbc9781e0.json"
+  },
+  {
+    "id": "trakt-miniseries-mindbending-series-psychological-series",
+    "title": "Mind-Bending Series",
+    "url": "alborziran2010/lists/psychological-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c56f117d78f943b3595e463c.json"
+  },
+  {
+    "id": "trakt-miniseries-your-next-watch-popular-mini-series-2010s",
+    "title": "Your Next Watch",
+    "url": "a925sw/lists/popular-mini-series-2010s",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/69dd39a3e8dabcdb9de03a43.json"
+  }
+]

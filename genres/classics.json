@@ -1,0 +1,362 @@
+[
+  {
+    "id": "trakt-classics-1001-greatest-movies-of-all-time-1001-greatest-movies-of-all-time",
+    "title": "Must-Watch Classics",
+    "url": "captainnapalm/lists/1001-greatest-movies-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c33526de7e86e01f921584c8.json"
+  },
+  {
+    "id": "trakt-classics-1001-movies-you-must-see-before-you-die-1001-movies-you-must-see-before-you-die",
+    "title": "Essential Film Canon",
+    "url": "sp1ti/lists/1001-movies-you-must-see-before-you-die",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d82aead7a3a1edf5916e9bfd.json"
+  },
+  {
+    "id": "trakt-classics-rolling-stones-100-greatest-tv-shows-of-all-time-rolling-stone-s-100-greatest-tv-shows-of-",
+    "title": "Greatest TV Shows",
+    "url": "redouaaane/lists/rolling-stone-s-100-greatest-tv-shows-of-all-time",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c68512c1f182f6ef0a44fbb9.json"
+  },
+  {
+    "id": "trakt-classics-100-greatest-sci-fi-movies-100-greatest-sci-fi-movies",
+    "title": "Classic Sci-Fi",
+    "url": "codermike/lists/100-greatest-sci-fi-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/56168e3d7a5ff835e89a4f74.json"
+  },
+  {
+    "id": "trakt-classics-the-complete-criterion-collection-the-complete-criterion-collection",
+    "title": "Today's Top Picks for You",
+    "url": "twentywashere/lists/the-complete-criterion-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1a9ee5e6f3fd40f92683dc96.json"
+  },
+  {
+    "id": "trakt-classics-slant-magazines-100-essential-films-slant-magazine-s-100-essential-films",
+    "title": "Essential Cinema",
+    "url": "sp1ti/lists/slant-magazine-s-100-essential-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e468feec2e04cf686c06093c.json"
+  },
+  {
+    "id": "trakt-classics-they-shoot-pictures-dont-they---1000-greatest-films-2013-they-shoot-pictures-don-t-they-1-",
+    "title": "Greatest Films Ever",
+    "url": "sp1ti/lists/they-shoot-pictures-don-t-they-1-000-greatest-films-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/129403a0644f1fffab647735.json"
+  },
+  {
+    "id": "trakt-classics-30-greatest-film-challenge-30-greatest-film-challenge",
+    "title": "Film Challenge Picks",
+    "url": "mattm382/lists/30-greatest-film-challenge",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a270266d2c1cec8c5fee3c43.json"
+  },
+  {
+    "id": "trakt-classics-hollywood-golden-age-classics-hollywood-golden-age-classics",
+    "title": "Golden Age of Hollywood",
+    "url": "majeed_pk/lists/hollywood-golden-age-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e4fa956b17ee2d411bd9a914.json"
+  },
+  {
+    "id": "trakt-classics-trakt-movie---1001-movies-you-must-see-before-you-die-trakt-movie-1001-movies-you-must-see",
+    "title": "Must-See Before You Die",
+    "url": "felix66/lists/trakt-movie-1001-movies-you-must-see-before-you-die",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/44628dbed548970df8c8aaaa.json"
+  },
+  {
+    "id": "trakt-classics-drama-movies-_-the-essential-list-drama-movies-_-the-essential-list",
+    "title": "Classic Dramas",
+    "url": "majeed_pk/lists/drama-movies-_-the-essential-list",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7d77b2049fe61e4b49ec046b.json"
+  },
+  {
+    "id": "trakt-classics-the-new-york-times-book-of-1001-movies-2019-the-new-york-times-book-of-1001-movies-2019",
+    "title": "NYT Film Essentials",
+    "url": "majeed_pk/lists/the-new-york-times-book-of-1001-movies-2019",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2d95bf8acc434a1c2cbce80c.json"
+  },
+  {
+    "id": "trakt-classics-they-shoot-pictures-dont-they---1000-greatest-films-2012-they-shoot-pictures-don-t-they-1-",
+    "title": "Thousand Greatest Films",
+    "url": "sp1ti/lists/they-shoot-pictures-don-t-they-1-000-greatest-films-2012",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/def2cc43c93fac23771b3744.json"
+  },
+  {
+    "id": "trakt-classics-1001-must-see-movies-before-you-die-1001-must-see-movies-before-you-die",
+    "title": "Film Bucket List",
+    "url": "jtucci/lists/1001-must-see-movies-before-you-die",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2e5350f4b7aa960a58af992c.json"
+  },
+  {
+    "id": "trakt-classics-rotten-tomatoes-150-essential-comedies-rotten-tomatoes-150-essential-comedies",
+    "title": "Essential Comedies",
+    "url": "lish408/lists/rotten-tomatoes-150-essential-comedies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7cc951806b654e111551350c.json"
+  },
+  {
+    "id": "trakt-classics-jonathan-rosenbaums-essential-films-jonathan-rosenbaum-s-essential-films",
+    "title": "Critic's Essentials",
+    "url": "hulkhorgen/lists/jonathan-rosenbaum-s-essential-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8820c75d8ba85e9f3ed069a6.json"
+  },
+  {
+    "id": "trakt-classics-the-greatest-black-tv-shows-sitcoms-of-all-time-the-greatest-black-tv-shows-sitcoms-of-all",
+    "title": "Classic TV Sitcoms",
+    "url": "moses456/lists/the-greatest-black-tv-shows-sitcoms-of-all-time",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/20961a7405270e9ff015ebd8.json"
+  },
+  {
+    "id": "trakt-classics-essential-films-essential-films",
+    "title": "Essential Films",
+    "url": "mri8879/lists/essential-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/31dc3fb49d7f6113fb0e50b4.json"
+  },
+  {
+    "id": "trakt-classics-sight-and-sound-the-greatest-films-of-all-time-sight-and-sound-the-greatest-films-of-all-t",
+    "title": "Sight & Sound Greatest",
+    "url": "thefork/lists/sight-and-sound-the-greatest-films-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30fb3660f6e033babf13c3d0.json"
+  },
+  {
+    "id": "trakt-classics-b-movies-horror-sci-fi-classics-b-movies-horror-sci-fi-classics",
+    "title": "B-Movie Classics",
+    "url": "marcelocastanheira/lists/b-movies-horror-sci-fi-classics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/880692e4e702fc9d8746631f.json"
+  },
+  {
+    "id": "trakt-classics-bfis-top-360-classic-feature-films-project-bfi-s-top-360-classic-feature-films-project",
+    "title": "BFI Classic Films",
+    "url": "majeed_pk/lists/bfi-s-top-360-classic-feature-films-project",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/345d46069a05f33241417798.json"
+  },
+  {
+    "id": "trakt-classics-trakt-movie---beyond-the-canon-trakt-movie-beyond-the-canon",
+    "title": "Beyond the Canon",
+    "url": "felix66/lists/trakt-movie-beyond-the-canon",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8245d4769a391e57ce9e8f84.json"
+  },
+  {
+    "id": "trakt-classics-empires-33-greatest-movie-trilogies-empire-s-33-greatest-movie-trilogies",
+    "title": "Greatest Trilogies",
+    "url": "hulkhorgen/lists/empire-s-33-greatest-movie-trilogies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9cb98889f1042a95fa21f7a7.json"
+  },
+  {
+    "id": "trakt-classics-slant-magazine-s-100-essential-films-slant-magazine-s-100-essential-films",
+    "title": "Slant Essential Films",
+    "url": "hulkhorgen/lists/slant-magazine-s-100-essential-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8afe69010c92160efff92e67.json"
+  },
+  {
+    "id": "trakt-classics-empires-50-greatest-independent-films-empire-s-50-greatest-independent-films",
+    "title": "Independent Classics",
+    "url": "hulkhorgen/lists/empire-s-50-greatest-independent-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4df55506dcb8c33a44c85078.json"
+  },
+  {
+    "id": "trakt-classics-the-1000-greatest-films-of-all-time-the-1000-greatest-films-of-all-time",
+    "title": "Thousand Film Masterpieces",
+    "url": "xilfneps/lists/the-1000-greatest-films-of-all-time",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9730069df85877b196f470a6.json"
+  },
+  {
+    "id": "trakt-classics-1001-movies-you-must-see-before-you-die-2021-edition-1001-movies-you-must-see-before-you-d",
+    "title": "Updated Film Canon",
+    "url": "twentywashere/lists/1001-movies-you-must-see-before-you-die-2021-edition",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/89adac5d22a04632645e5c9f.json"
+  },
+  {
+    "id": "trakt-classics-love-movies-_-the-essential-list-love-movies-_-the-essential-list",
+    "title": "Classic Romance",
+    "url": "moses456/lists/love-movies-_-the-essential-list",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/530d59b3be89b12bee1bf9f7.json"
+  },
+  {
+    "id": "trakt-classics-here-are-the-50-greatest-horror-films-of-the-21st-century---thebrag-here-are-the-50-greate",
+    "title": "Modern Horror Classics",
+    "url": "philrivers/lists/here-are-the-50-greatest-horror-films-of-the-21st-century-thebrag",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/514c6c74896ec3045b013f99.json"
+  },
+  {
+    "id": "trakt-classics-classic-sci-fi-50s-classic-sci-fi-50s",
+    "title": "Fifties Sci-Fi",
+    "url": "codermike/lists/classic-sci-fi-50s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10ccff5f7147d5d3a2adde92.json"
+  },
+  {
+    "id": "trakt-classics-rolling-stone-s-100-greatest-tv-shows-of-all-time-rolling-stone-s-100-greatest-tv-shows-of",
+    "title": "Iconic TV Series",
+    "url": "zorge88/lists/rolling-stone-s-100-greatest-tv-shows-of-all-time",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b1100ac29630f64674c953d1.json"
+  },
+  {
+    "id": "trakt-classics-criterion-collection-criterion-collection",
+    "title": "Criterion Collection",
+    "url": "madmapper/lists/criterion-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2b8734523939bb6db4efbe64.json"
+  },
+  {
+    "id": "trakt-classics-edgar-wrights-greatest-movies-edgar-wright-s-greatest-movies",
+    "title": "Director's Picks",
+    "url": "philrivers/lists/edgar-wright-s-greatest-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8601f687d29360f59aba5aa2.json"
+  },
+  {
+    "id": "trakt-classics-adventure-classic-adventure-classic",
+    "title": "Classic Adventures",
+    "url": "blom-00/lists/adventure-classic",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/82a780b651217e21de969538.json"
+  },
+  {
+    "id": "trakt-classics-comedy-classic-comedy-classic",
+    "title": "Classic Comedies",
+    "url": "blom-00/lists/comedy-classic",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/82c63483d54f45eea1389c0a.json"
+  },
+  {
+    "id": "trakt-classics-1001-movies-you-must-see-before-you-die-all-editi-1001-movies-you-must-see-before-you-die-",
+    "title": "Your Next Watch",
+    "url": "moses456/lists/1001-movies-you-must-see-before-you-die-all-editi",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1930,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fc6934a343bb98f6e1fe2889.json"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "continue_watching",
+    "title": "Continue Watching",
+    "url": null,
+    "catalogType": "continueWatching",
+    "inPlace": true,
+    "traktSortBy": null
+  },
+  {
+    "id": "trakt-trending-kids-movies",
+    "title": "Trending Kids Movies",
+    "url": "tvgeniekodi/lists/trending-kids-movies",
+    "catalogType": "traktMovie",
+    "inPlace": true,
+    "traktSortBy": null,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6a1348afe8dddb4ef0d487b8.json"
+  },
+  {
+    "id": "more-kids-movies",
+    "title": "Popular Kids Movies",
+    "url": "madmapper/lists/kids",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dfa16b9694bff8243b167853.json"
+  },
+  {
+    "id": "kids-top-tv-shows",
+    "title": "Top Rated kids TV Shows",
+    "url": "mrspacegoose/lists/kids-top-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc186d08d55b69ac4f7cb533.json"
+  },
+  {
+    "id": "80-s-90s-movies-to-watch-with-kids",
+    "title": "Classic Movies to watch with Kids",
+    "url": "the-rewind-zone/lists/80-s-90s-movies-to-watch-with-kids",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9bc83ba55113289a4d1c6c08.json"
+  },
+  {
+    "id": "best-kids-movies",
+    "title": "Top Rated Kids Movies",
+    "url": "kayaaron13/lists/best-kids-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4a01f63d82ddc496bb65030.json"
+  },
+  {
+    "id": "trakt-trending-kids-shows",
+    "title": "Trending Kids TV Shows",
+    "url": "japante/lists/trending-kids-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0eea51b4444d9ae1a2f4c3c2.json"
+  },
+  {
+    "id": "trakt-more-trending-kids-shows",
+    "title": "More Trending Kids Shows",
+    "url": "tvgeniekodi/lists/trending-kids-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13722d5fc006b085c2de717b.json"
+  },
+  {
+    "id": "trakt-popular-children-and-family",
+    "title": "Popular Family",
+    "url": "galacticboy/lists/popular-children-and-family",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc134ca8e7c7ef81a9d446e5.json"
+  },
+  {
+    "id": "trakt-kids-shows",
+    "title": "Kids Shows",
+    "url": "drinfernoo/lists/kids-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b3b977ce102ebd7af20108a.json"
+  },
+  {
+    "id": "trakt-the-family-collection",
+    "title": "Family Night",
+    "url": "kristaeglover/lists/the-family-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ef719a5229188ce60423dd98.json"
+  },
+  {
+    "id": "trakt-the-harry-potter-collection",
+    "title": "Harry Potter",
+    "url": "kristaeglover/lists/the-harry-potter-collection",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4349fc7d5706de8f5a510a30.json"
+  },
+  {
+    "id": "trakt-top-100-kids-family-movies",
+    "title": "Top 100 Kids Family Movies",
+    "url": "giladg/lists/rotten-tomatoes-top-100-kids-family-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/34e337bc7ca1bc5bbf290a95.json"
+  }
+]

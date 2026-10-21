@@ -1,0 +1,162 @@
+[
+  {
+    "id": "trakt-crime-crime-crime",
+    "title": "Today's Top Picks for You",
+    "url": "movistapp/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4df74e3364b9f68330ea781d.json"
+  },
+  {
+    "id": "trakt-crime-top-100-gangster-movies-top-100-gangster-movies",
+    "title": "Gangster Films",
+    "url": "majeed_pk/lists/top-100-gangster-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9eb9b9bcb2c23e37036e653f.json"
+  },
+  {
+    "id": "trakt-crime-crime-142-picks-crime",
+    "title": "Handpicked Crime",
+    "url": "jtucci/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/444f777270a99571afa6d794.json"
+  },
+  {
+    "id": "trakt-crime-crime-series-crime-series",
+    "title": "Crime TV Shows",
+    "url": "marcelocastanheira/lists/crime-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3f8991f4911d06a53270504f.json"
+  },
+  {
+    "id": "trakt-crime-con-artistheist-con-artist-heist",
+    "title": "Heist Films",
+    "url": "29zombies/lists/con-artist-heist",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/284fdb902ede479a1a7042fa.json"
+  },
+  {
+    "id": "trakt-crime-xtv-crime-xtv-crime",
+    "title": "Crime TV Series",
+    "url": "blom-00/lists/xtv-crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a4135285ea529caee6eb0e4.json"
+  },
+  {
+    "id": "trakt-crime-genre-crime-1600-titles-1970-2013-genre-crime-1600-titles-1970-2013",
+    "title": "Classic Crime Films",
+    "url": "xilfneps/lists/genre-crime-1600-titles-1970-2013",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7093efd4bf7caeedd6209bbc.json"
+  },
+  {
+    "id": "trakt-crime-top-crime-dramas-top-crime-dramas",
+    "title": "Crime Dramas",
+    "url": "kayaaron13/lists/top-crime-dramas",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b24542671ced978ff524c1f9.json"
+  },
+  {
+    "id": "trakt-crime-poliziotteschi-italian-crimes-poliziotteschi-italian-crimes",
+    "title": "Italian Crime Cinema",
+    "url": "marcelocastanheira/lists/poliziotteschi-italian-crimes",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/632ae24c0fb8d0a1acbe23c8.json"
+  },
+  {
+    "id": "trakt-crime-crime-1970s-crime-1970s",
+    "title": "1970s Crime",
+    "url": "blom-00/lists/crime-1970s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e5c093de733ecf6acfc443bc.json"
+  },
+  {
+    "id": "trakt-crime-crime-1990s-crime-1990s",
+    "title": "1990s Crime",
+    "url": "blom-00/lists/crime-1990s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b1cd56b163625b6d1c1d174b.json"
+  },
+  {
+    "id": "trakt-crime-crime-2000s-crime-2000s",
+    "title": "2000s Crime",
+    "url": "blom-00/lists/crime-2000s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/babbf02d18291e60e68c1af5.json"
+  },
+  {
+    "id": "trakt-crime-crime-1980s-crime-1980s",
+    "title": "1980s Crime",
+    "url": "blom-00/lists/crime-1980s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9563838d053248e716a9f511.json"
+  },
+  {
+    "id": "trakt-crime-crime-2010s-crime-2010s",
+    "title": "2010s Crime",
+    "url": "blom-00/lists/crime-2010s",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5a20c2d02cf1d42c80983dbe.json"
+  },
+  {
+    "id": "trakt-crime-brazilian-crime-brazilian-crime",
+    "title": "Brazilian Crime Films",
+    "url": "marcelocastanheira/lists/brazilian-crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b626847d22d618b1b158788.json"
+  },
+  {
+    "id": "trakt-crime-crime-619-picks-crime",
+    "title": "Your Next Watch",
+    "url": "usiris/lists/crime",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1970,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff74f51c495fb443046788f5.json"
+  }
+]

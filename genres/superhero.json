@@ -1,0 +1,112 @@
+[
+  {
+    "id": "trakt-superhero-marvel-cinematic-universe-timeline-marvel-cinematic-universe-timeline",
+    "title": "Marvel Cinematic Universe",
+    "url": "geekritique/lists/marvel-cinematic-universe-timeline",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a86987a8fe49343a52b325ed.json"
+  },
+  {
+    "id": "trakt-superhero-x-men-universe-x-men-universe",
+    "title": "X-Men Universe",
+    "url": "donxy/lists/x-men-universe",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9ad24a42c44b14ad37d1c3ae.json"
+  },
+  {
+    "id": "trakt-superhero-marveldccomic-adaptations-marvel-dc-comic-adaptations",
+    "title": "Comic Book Adaptations",
+    "url": "benfranklin/lists/marvel-dc-comic-adaptations",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cfdafdb12fe0a18e90938cdf.json"
+  },
+  {
+    "id": "trakt-superhero-marvel-animated-marvel-animated",
+    "title": "Marvel Animated",
+    "url": "donxy/lists/marvel-animated",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7081e563b749864b124dacf4.json"
+  },
+  {
+    "id": "trakt-superhero-dc-comics-dc-comics",
+    "title": "DC Movies",
+    "url": "movistapp/lists/dc-comics",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9351351a98eb7316da7b489a.json"
+  },
+  {
+    "id": "trakt-superhero-marvel-and-dc-marvel-and-dc",
+    "title": "Marvel & DC",
+    "url": "donxy/lists/marvel-and-dc",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d6ff153c0c389879307e44aa.json"
+  },
+  {
+    "id": "trakt-superhero-superhero-films-superhero-films",
+    "title": "Superhero Movies",
+    "url": "marzipan-pie/lists/superhero-films",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ea52d0562e3c5f0f5e74b51f.json"
+  },
+  {
+    "id": "trakt-superhero-superhero-superhero",
+    "title": "Superhero Powers",
+    "url": "caspian024/lists/superhero",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bb6ab789fe5bff888c7a95b1.json"
+  },
+  {
+    "id": "trakt-superhero-marvel-tv-series-marvel-tv-series",
+    "title": "Marvel Series",
+    "url": "arachn0id/lists/marvel-tv-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6f68a7a4fb34444ae9d8e076.json"
+  },
+  {
+    "id": "trakt-superhero-my-marvel-comics-movies-and-series-my-marvel-comics-movies-and-series",
+    "title": "Marvel Movies & Series",
+    "url": "grendelcrusher/lists/my-marvel-comics-movies-and-series",
+    "catalogType": "traktTv",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a6161277676f3645652bef0.json"
+  },
+  {
+    "id": "trakt-superhero-marvel-dc-comic-adaptations-marvel-dc-comic-adaptations",
+    "title": "Comic Adaptations",
+    "url": "hulkhorgen/lists/marvel-dc-comic-adaptations",
+    "catalogType": "traktMovie",
+    "traktSortBy": "random",
+    "minRating": 57,
+    "minYear": 1990,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/691080919b528e3daf35bcfd.json"
+  }
+]
