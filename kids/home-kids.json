@@ -1,0 +1,100 @@
+[
+  {
+    "id": "continue_watching",
+    "title": "Continue Watching",
+    "url": null,
+    "catalogType": "continueWatching",
+    "inPlace": true,
+    "traktSortBy": null
+  },
+  {
+    "id": "kids-snoak-trending-kids-movies",
+    "title": "Trending Movies",
+    "url": "https://mdblist.com/lists/snoak/trending-kids-movies",
+    "catalogType": "traktMovie",
+    "traktSortBy": null,
+    "inPlace": true,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/37a49031bf9bfd8bfd632376.json"
+  },
+  {
+    "id": "kids-tvgeniekodi-trending-kids-tv-shows",
+    "title": "Trending TV Shows",
+    "url": "https://mdblist.com/lists/tvgeniekodi/trending-kids-tv-shows",
+    "catalogType": "traktTv",
+    "traktSortBy": null,
+    "inPlace": true,
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/450716a9f57640e96b0ff74e.json"
+  },
+  {
+    "id": "kids-scottjscobie-icloud-com-kids-and-family",
+    "title": "The Family Mix",
+    "url": "https://mdblist.com/lists/scottjscobie-icloud-com/kids-and-family",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/38ee8499f068dce9039b7faa.json"
+  },
+  {
+    "id": "kids-rxality-kids-movies",
+    "title": "Big Worlds, Little Viewers",
+    "url": "https://mdblist.com/lists/rxality/kids-movies",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/23dabb7802b085715e94aaf0.json"
+  },
+  {
+    "id": "kids-wante-nickelodeon",
+    "title": "Nickelodeon All-Stars",
+    "url": "https://mdblist.com/lists/wante/nickelodeon",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/466f903ea351826769d0fb05.json"
+  },
+  {
+    "id": "kids-goldspacer-nature-documentaries",
+    "title": "Wild Wonders",
+    "url": "https://mdblist.com/lists/goldspacer/nature-documentaries",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/db7dc8a1a582bdb115155f54.json"
+  },
+  {
+    "id": "kids-osocram-lego-movies",
+    "title": "Build an Adventure",
+    "url": "https://mdblist.com/lists/osocram/lego-movies",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a2a2017591c87c99557207d.json"
+  },
+  {
+    "id": "kids-mr-n0b0dy-3d-animation-with-female-protagonist",
+    "title": "Heroines in Action",
+    "url": "https://mdblist.com/lists/mr_n0b0dy/3d-animation-with-female-protagonist",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b3ace21790890b71285e24cb.json"
+  },
+  {
+    "id": "kids-purple-smurf-dreamworks",
+    "title": "Dream Big Together",
+    "url": "https://mdblist.com/lists/purple_smurf/dreamworks",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9875f3621470c7f26901a9d7.json"
+  },
+  {
+    "id": "kids-zzwwrrtt-90s-kids-shows",
+    "title": "Back to the 90s",
+    "url": "https://mdblist.com/lists/zzwwrrtt/90s-kids-shows",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8dd74cf030481cdda2a38ed.json"
+  },
+  {
+    "id": "trakt-the-family-collection",
+    "title": "Together on the Couch",
+    "url": "kristaeglover/lists/the-family-collection",
+    "catalogType": "traktMixed",
+    "traktSortBy": "random",
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e57365f5ab52f56a094ee8e7.json"
+  }
+]
