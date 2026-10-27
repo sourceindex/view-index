@@ -7,22 +7,22 @@
     "traktSortBy": null
   },
   {
-    "id": "trakt-latest-movie-releases",
-    "title": "Latest Releases",
-    "url": "garycrawfordgc/lists/latest-releases",
+    "id": "trakt-trending-movies",
+    "title": "Trending Movies",
+    "url": "https://mdblist.com/lists/snoak/trending-movies",
     "catalogType": "traktMovie",
-    "traktSortBy": "desc",
+    "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8263b3f8136e3cd29a79190d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4e371302a2a379712d541d92.json"
   },
   {
-    "id": "trakt-top-tvshows",
-    "title": "Latest TV Shows",
-    "url": "garycrawfordgc/lists/latest-tv-shows",
+    "id": "tv-trending-shows",
+    "title": "Trending Shows",
+    "url": "https://mdblist.com/lists/snoak/trakt-s-trending-shows",
     "catalogType": "traktTv",
-    "traktSortBy": "",
+    "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/91f0b516160deef58b4d8aa6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/129eb455e69fde01aa42c364.json"
   },
   {
     "id": "daily-picks",

@@ -1,12 +1,12 @@
 [
   {
-    "id": "tv-trending-shows",
-    "title": "Trending Shows",
-    "url": "https://mdblist.com/lists/official/shows/trending",
+    "id": "trakt-top-tvshows",
+    "title": "Latest Releases",
+    "url": "https://mdblist.com/lists/snoak/latest-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ba81a602986c577d21ad2975.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4e4850a811806ab57a59797.json"
   },
   {
     "id": "latest-netflix-shows",

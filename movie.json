@@ -1,12 +1,12 @@
 [
   {
-    "id": "trakt-trending-movies",
-    "title": "Trending Movies",
-    "url": "tvgeniekodi/lists/trending-movies",
+    "id": "trakt-latest-movie-releases",
+    "title": "Latest Releases",
+    "url": "https://mdblist.com/lists/snoak/latest-movies-digital-release",
     "catalogType": "traktMovie",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/658d743fb52826a11b96c3fe.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/afeed6e3bbb19244360408ea.json"
   },
   {
     "id": "trakt-revenge-movies",
