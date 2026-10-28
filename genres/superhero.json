@@ -21,7 +21,7 @@
   },
   {
     "id": "trakt-superhero-marveldccomic-adaptations-marvel-dc-comic-adaptations",
-    "title": "Comic Book Adaptations",
+    "title": "Comics Brought to Life",
     "url": "benfranklin/lists/marvel-dc-comic-adaptations",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -31,7 +31,7 @@
   },
   {
     "id": "trakt-superhero-marvel-animated-marvel-animated",
-    "title": "Marvel Animated",
+    "title": "Marvel in Animation",
     "url": "donxy/lists/marvel-animated",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -41,7 +41,7 @@
   },
   {
     "id": "trakt-superhero-dc-comics-dc-comics",
-    "title": "DC Movies",
+    "title": "DC on Screen",
     "url": "movistapp/lists/dc-comics",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -61,7 +61,7 @@
   },
   {
     "id": "trakt-superhero-superhero-films-superhero-films",
-    "title": "Superhero Movies",
+    "title": "Heroes on the Big Screen",
     "url": "marzipan-pie/lists/superhero-films",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -71,7 +71,7 @@
   },
   {
     "id": "trakt-superhero-superhero-superhero",
-    "title": "Superhero Powers",
+    "title": "Superpowered Stories",
     "url": "caspian024/lists/superhero",
     "catalogType": "traktMovie",
     "traktSortBy": "random",

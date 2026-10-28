@@ -10,7 +10,7 @@
   },
   {
     "id": "latest-netflix-shows",
-    "title": "Latest Netflix Shows",
+    "title": "New from Netflix",
     "url": "https://mdblist.com/lists/snoak/latest-netflix-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
@@ -19,7 +19,7 @@
   },
   {
     "id": "trakt-thriller-critically-acclaimed-binge-worthy-tv-shows-imdb-top-rated-tv-shows",
-    "title": "Critically Acclaimed Binge-Worthy TV Shows",
+    "title": "Acclaimed Series Worth Your Time",
     "url": "justin/lists/imdb-top-rated-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
@@ -29,7 +29,7 @@
   },
   {
     "id": "latest-paramount-shows",
-    "title": "Latest Paramount+ Shows",
+    "title": "New from Paramount+",
     "url": "https://mdblist.com/lists/snoak/latest-paramount-plus-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
@@ -38,7 +38,7 @@
   },
   {
     "id": "latest-apple-tv-shows",
-    "title": "Latest Apple TV+ Shows",
+    "title": "New from Apple TV+",
     "url": "https://mdblist.com/lists/snoak/latest-apple-tv-plus-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
@@ -47,7 +47,7 @@
   },
   {
     "id": "latest-hbo-max-shows",
-    "title": "Latest HBO Max Shows",
+    "title": "New from HBO Max",
     "url": "https://mdblist.com/lists/snoak/latest-max-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
@@ -56,7 +56,7 @@
   },
   {
     "id": "latest-amazon-prime-shows",
-    "title": "Latest Amazon Prime Shows",
+    "title": "New from Amazon Prime",
     "url": "https://mdblist.com/lists/snoak/latest-amazon-prime-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,
@@ -65,7 +65,7 @@
   },
   {
     "id": "latest-disney-shows",
-    "title": "Latest Disney+ Shows",
+    "title": "New from Disney+",
     "url": "https://mdblist.com/lists/snoak/latest-disney-plus-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": null,

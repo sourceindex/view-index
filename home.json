@@ -34,7 +34,7 @@
   },
   {
     "id": "visually-pleasing",
-    "title": "Visually Pleasing",
+    "title": "A Feast for the Eyes",
     "url": "rizreflects/lists/visually-pleasing",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -66,7 +66,7 @@
   },
   {
     "id": "oscar-winners-best-picture",
-    "title": "Oscar Winners: Best Picture",
+    "title": "Best Picture Hall of Fame",
     "url": "eninja/lists/oscar-winners-best-picture",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -74,7 +74,7 @@
   },
   {
     "id": "oscar-winners-best-cinematography",
-    "title": "Oscar Winners: Best Cinematography",
+    "title": "Oscar-Nominated Cinematography",
     "url": "majeed_pk/lists/oscar-nominated-movies-for-best-cinematography",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -98,7 +98,7 @@
   },
   {
     "id": "astronomy-space",
-    "title": "Zero Gravity Watchlist",
+    "title": "Beyond Earth's Orbit",
     "url": "rizreflects/lists/astronomy-space",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -114,7 +114,7 @@
   },
   {
     "id": "90s-00s-nostalgia",
-    "title": "Nostalgia",
+    "title": "Back in the '90s & '00s",
     "url": "ruthalyn/lists/90s-00s-nostalgia",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -242,7 +242,7 @@
   },
   {
     "id": "miro-s-feel-good",
-    "title": "Feel Good Movies",
+    "title": "Feel-Good Favorites",
     "url": "mrlegendneo/lists/miro-s-feel-good",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -274,7 +274,7 @@
   },
   {
     "id": "inspiring-movies",
-    "title": "Inspiring",
+    "title": "A Little Inspiration",
     "url": "rizreflects/lists/inspiring",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -282,7 +282,7 @@
   },
   {
     "id": "intense-movies",
-    "title": "Intense Movies",
+    "title": "Turn Up the Tension",
     "url": "rizreflects/lists/intense",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -290,7 +290,7 @@
   },
   {
     "id": "lighthearted-movies",
-    "title": "Lighthearted",
+    "title": "Keep It Light",
     "url": "rizreflects/lists/lighthearted",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -314,7 +314,7 @@
   },
   {
     "id": "touching-movies",
-    "title": "Touching Movies",
+    "title": "When Life Gets Heavy",
     "url": "rizreflects/lists/touching",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -330,7 +330,7 @@
   },
   {
     "id": "depressing-movies",
-    "title": "Depressing",
+    "title": "When Life Gets Heavy",
     "url": "rizreflects/lists/depressing",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -354,7 +354,7 @@
   },
   {
     "id": "romance-movies",
-    "title": "Love in the Air",
+    "title": "Love Is in the Air",
     "url": "rizreflects/lists/romance",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -362,7 +362,7 @@
   },
   {
     "id": "romantic-comedies-movies123",
-    "title": "Romantic Movies",
+    "title": "Rom-Com Night",
     "url": "hammers-lists/lists/romantic-comedies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -484,7 +484,7 @@
   },
   {
     "id": "trakt-2000s-movies",
-    "title": "Old But Fresh",
+    "title": "Back to the 2000s",
     "url": "shambler74/lists/00s-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",

@@ -41,7 +41,7 @@
   },
   {
     "id": "trakt-scifi-aliens-aliens",
-    "title": "Alien Encounters",
+    "title": "We Are Not Alone",
     "url": "29zombies/lists/aliens",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -91,7 +91,7 @@
   },
   {
     "id": "trakt-scifi-scifi-1990s-scifi-1990s",
-    "title": "1990s Sci-Fi",
+    "title": "Sci-Fi from the '90s",
     "url": "blom-00/lists/scifi-1990s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -111,7 +111,7 @@
   },
   {
     "id": "trakt-scifi-science-fiction-100-picks-science-fiction",
-    "title": "Handpicked Sci-Fi",
+    "title": "Sci-Fi Worth Discovering",
     "url": "jtucci/lists/science-fiction",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -131,7 +131,7 @@
   },
   {
     "id": "trakt-scifi-sexy-science-fiction-sexy-science-fiction",
-    "title": "Seductive Sci-Fi",
+    "title": "Sci-Fi After Dark",
     "url": "amohr/lists/sexy-science-fiction",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -141,7 +141,7 @@
   },
   {
     "id": "trakt-scifi-scifi-2000s-scifi-2000s",
-    "title": "2000s Sci-Fi",
+    "title": "Sci-Fi from the '00s",
     "url": "blom-00/lists/scifi-2000s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -201,7 +201,7 @@
   },
   {
     "id": "trakt-scifi-scifi-2010s-scifi-2010s",
-    "title": "2010s Sci-Fi",
+    "title": "Sci-Fi from the '10s",
     "url": "blom-00/lists/scifi-2010s",
     "catalogType": "traktMovie",
     "traktSortBy": "random",

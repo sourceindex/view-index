@@ -10,7 +10,7 @@
   },
   {
     "id": "trakt-revenge-movies",
-    "title": "Revenge Movies",
+    "title": "Payback Time",
     "url": "kayaaron13/lists/revenge-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -58,7 +58,7 @@
   },
   {
     "id": "trakt-comfort-movies",
-    "title": "Comfort Movies",
+    "title": "Your Comfort Watch",
     "url": "kayaaron13/lists/comfort-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -114,7 +114,7 @@
   },
   {
     "id": "trakt-best-of-the-best",
-    "title": "We know you'll love these",
+    "title": "Top-Shelf Cinema",
     "url": "aledd/lists/top-films",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -146,7 +146,7 @@
   },
   {
     "id": "trakt-crime-movies",
-    "title": "Crime Movies: Top Picks",
+    "title": "Criminally Good Cinema",
     "url": "garycrawfordgc/lists/crime",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -154,7 +154,7 @@
   },
   {
     "id": "trakt-laughs-and-laughter",
-    "title": "Laughs & Laughter",
+    "title": "Comedy Through the Years",
     "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
@@ -170,7 +170,7 @@
   },
   {
     "id": "trakt-2000s-movies",
-    "title": "Old But Fresh",
+    "title": "Back to the 2000s",
     "url": "shambler74/lists/00s-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
