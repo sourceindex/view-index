@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5ffe22b95c4f9c85bb8f4fed.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5ffe22b95c4f9c85bb8f4fed.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/861067b2a11383a37c2ccc0b.json"
   },
   {
     "id": "trakt-british-bbc-natural-history-unit-filmography-bbc-natural-history-unit-filmography",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/da2d33cad1389999adb9d904.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/da2d33cad1389999adb9d904.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3d752d129dbeb57f7235d6ba.json"
   },
   {
     "id": "trakt-british-bbc-natural-history-landmarks-bbc-natural-history-landmarks",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2c00066f1515b254a1b039f9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2c00066f1515b254a1b039f9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/294efee26f3a05582ed8d81f.json"
   },
   {
     "id": "trakt-british-british-comedy-british-comedy",

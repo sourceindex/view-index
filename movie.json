@@ -6,7 +6,8 @@
     "catalogType": "traktMovie",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/afeed6e3bbb19244360408ea.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/afeed6e3bbb19244360408ea.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/007194cca3a3029826a3d2f0.json"
   },
   {
     "id": "trakt-revenge-movies",
@@ -14,7 +15,8 @@
     "url": "kayaaron13/lists/revenge-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6625cc6fe712547be3326567.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6625cc6fe712547be3326567.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/bc6d4cbccb01de6841473ec5.json"
   },
   {
     "id": "trakt-comedy-movies-garycrawfordgc",
@@ -22,7 +24,8 @@
     "url": "garycrawfordgc/lists/comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/185bfc301fa4ab89ed7b876e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/185bfc301fa4ab89ed7b876e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/12ed961e11e37803f6afd585.json"
   },
   {
     "id": "trakt-thriller-movies-garycrawfordgc",
@@ -30,7 +33,8 @@
     "url": "garycrawfordgc/lists/thriller",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b3650b09700e0acd27c44f7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b3650b09700e0acd27c44f7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/09fb710dc579f8db4f0b8c1d.json"
   },
   {
     "id": "trakt-sci-fi-movies-garycrawfordgc",
@@ -38,7 +42,8 @@
     "url": "garycrawfordgc/lists/sci-fi",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e53bfd48e309ffc3b910dbd5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e53bfd48e309ffc3b910dbd5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/044b91fd1ccf854c296fafd9.json"
   },
   {
     "id": "trakt-conspiracy-theories",
@@ -46,7 +51,8 @@
     "url": "kayaaron13/lists/conspiracy-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c318d6ce63f0e1ee9822487.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c318d6ce63f0e1ee9822487.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/df4c668d535fea73593c5bc9.json"
   },
   {
     "id": "trakt-survival-movies",
@@ -54,7 +60,8 @@
     "url": "kayaaron13/lists/survival-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2b178ca25c00b503454e0787.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2b178ca25c00b503454e0787.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9a66d0c30ced15192b0ddf09.json"
   },
   {
     "id": "trakt-comfort-movies",
@@ -62,7 +69,8 @@
     "url": "kayaaron13/lists/comfort-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10c2fe802c978ce67f5cbfd3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10c2fe802c978ce67f5cbfd3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/33110d852541f3ace7ae11bd.json"
   },
   {
     "id": "trakt-top-bank-robbery-movies",
@@ -70,7 +78,8 @@
     "url": "kayaaron13/lists/ranker-top-bank-robbery-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d4b6b14cf820eb55f4f3d34.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d4b6b14cf820eb55f4f3d34.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/619ae9229e1fb53ebbbc192c.json"
   },
   {
     "id": "trakt-cult-classics",
@@ -78,7 +87,8 @@
     "url": "kayaaron13/lists/cult-classics",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d7c414ad8854e7140da5f05.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d7c414ad8854e7140da5f05.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/61bff9a6169b8ca126a225ac.json"
   },
   {
     "id": "trakt-crazy-plot-twists",
@@ -86,7 +96,8 @@
     "url": "hdlists/lists/crazy-plot-twists",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/94debc7ea31d362f7abc7000.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/94debc7ea31d362f7abc7000.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/50a1560d8db699bc96338656.json"
   },
   {
     "id": "trakt-vacations-gone-wrong",
@@ -94,7 +105,8 @@
     "url": "kayaaron13/lists/vacations-gone-wrong",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a3bb6baf10721975c09f3125.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a3bb6baf10721975c09f3125.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0359d815a37b4bfff52c8397.json"
   },
   {
     "id": "trakt-movies-that-benefit-from-multiple-viewings",
@@ -102,7 +114,8 @@
     "url": "kayaaron13/lists/movies-that-benefit-from-multiple-viewings-copy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c21d7016d5de1a83c1f16f7c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c21d7016d5de1a83c1f16f7c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e81149aa9530aef9456aefa6.json"
   },
   {
     "id": "trakt-romantic-comedy-movies-new",
@@ -110,7 +123,8 @@
     "url": "bsbimalbose/lists/new-romantic-comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d88f09556bf244e77418022.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d88f09556bf244e77418022.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f28ea86dd835d0c94dd3a185.json"
   },
   {
     "id": "trakt-best-of-the-best",
@@ -118,7 +132,8 @@
     "url": "aledd/lists/top-films",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/07b4003ab95402dfc080c5b7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/07b4003ab95402dfc080c5b7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/82daf7ba720cad57f77e154f.json"
   },
   {
     "id": "trakt-comedy-movies",
@@ -126,7 +141,8 @@
     "url": "movistapp/lists/comedy",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/972035020693e1c110221b50.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/972035020693e1c110221b50.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/da65b1c04d39e0a94c1d93bf.json"
   },
   {
     "id": "trakt-top-rated-crime-films",
@@ -134,7 +150,8 @@
     "url": "hdlists/lists/crime-movies-top-rated-from-1980-to-today",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/53b0044c2f647218b7aa7b36.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/53b0044c2f647218b7aa7b36.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b3ad2ed2c864ac33b206a537.json"
   },
   {
     "id": "trakt-mystery-thrillers",
@@ -142,7 +159,8 @@
     "url": "hdlists/lists/mystery-movies-top-rated-from-1980-to-today",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/47c2fe453b28e5aec9faad0c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/47c2fe453b28e5aec9faad0c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6718e6fbbcd9f6aad9dc3bb5.json"
   },
   {
     "id": "trakt-crime-movies",
@@ -150,7 +168,8 @@
     "url": "garycrawfordgc/lists/crime",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1ea88310a8969aff1d297c2d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1ea88310a8969aff1d297c2d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1ccfbd9e3bb19430eab5a2ef.json"
   },
   {
     "id": "trakt-laughs-and-laughter",
@@ -158,7 +177,8 @@
     "url": "hdlists/lists/comedy-movies-top-rated-from-1960-to-today",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/916f6c1f75bfc27bdc51dd0a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/916f6c1f75bfc27bdc51dd0a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/33e82035820964e570abc5e9.json"
   },
   {
     "id": "trakt-family-favorites",
@@ -166,7 +186,8 @@
     "url": "hdlists/lists/family-movies-top-rated-from-1980-to-today",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5406209dd1271627bc3a9ff3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5406209dd1271627bc3a9ff3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3f4220b188bd0bfd5a01a1f6.json"
   },
   {
     "id": "trakt-2000s-movies",
@@ -174,7 +195,8 @@
     "url": "shambler74/lists/00s-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e9373186c877d4e3b08b1006.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e9373186c877d4e3b08b1006.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7593b9c8945d7ea241339ee5.json"
   },
   {
     "id": "trakt-90s-classics",
@@ -182,6 +204,7 @@
     "url": "shambler74/lists/90s-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3e480484482aa9688e09b703.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3e480484482aa9688e09b703.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5a690ee865a0562f61cb8b16.json"
   }
 ]

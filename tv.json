@@ -6,7 +6,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4e4850a811806ab57a59797.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4e4850a811806ab57a59797.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fa65fc70c58d59333580d690.json"
   },
   {
     "id": "latest-netflix-shows",
@@ -15,7 +16,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/595103dbd5bfb7933a18a880.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/595103dbd5bfb7933a18a880.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/bf8df6510d140b1e38983c68.json"
   },
   {
     "id": "trakt-thriller-critically-acclaimed-binge-worthy-tv-shows-imdb-top-rated-tv-shows",
@@ -25,7 +27,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/66240620fb35142e18d95466.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/66240620fb35142e18d95466.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/34e3ba721abebb87668181ea.json"
   },
   {
     "id": "latest-paramount-shows",
@@ -34,7 +37,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/155439c2f4642ba3ad6a1842.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/155439c2f4642ba3ad6a1842.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c70fe361e50d4cf4c884902f.json"
   },
   {
     "id": "latest-apple-tv-shows",
@@ -43,7 +47,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1e77d9c363dc96a5d0c328b2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1e77d9c363dc96a5d0c328b2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/52af917131214958793e6f4f.json"
   },
   {
     "id": "latest-hbo-max-shows",
@@ -52,7 +57,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/684e0874cfe10ebf1e0e10eb.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/684e0874cfe10ebf1e0e10eb.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/18076f53a6809ae709e6b65f.json"
   },
   {
     "id": "latest-amazon-prime-shows",
@@ -61,7 +67,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f72185ccd92469efb2194d7f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f72185ccd92469efb2194d7f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d3863c6917933f73a99352c9.json"
   },
   {
     "id": "latest-disney-shows",
@@ -70,7 +77,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af51c2c03e583dc547c08887.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af51c2c03e583dc547c08887.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a2efbe3fdd3aa6c7473069d5.json"
   },
   {
     "id": "latest-hulu-shows",
@@ -79,7 +87,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a618cc4f22a22bffd4ce5c79.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a618cc4f22a22bffd4ce5c79.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d7513f7401c142af292ef019.json"
   },
   {
     "id": "latest-miniseries",
@@ -88,7 +97,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e458aba1e2e3a033fba2b058.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e458aba1e2e3a033fba2b058.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/85b6a6927432e2b0dfc085ab.json"
   },
   {
     "id": "latest-kdrama-shows",
@@ -97,7 +107,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/064a7bd2424722223f0a741d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/064a7bd2424722223f0a741d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9475e7f1415e6f016355539b.json"
   },
   {
     "id": "latest-reality-shows",
@@ -106,7 +117,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a900f926c10b5817acd0afa3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a900f926c10b5817acd0afa3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2581cc06513acb42b3aea4e9.json"
   },
   {
     "id": "latest-sci-fi-shows",
@@ -115,7 +127,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d6f5e1935176b4b2ecd2805.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d6f5e1935176b4b2ecd2805.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/26b570015adfc7eed7e3687c.json"
   },
   {
     "id": "latest-thriller-shows",
@@ -124,7 +137,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b49d9fc7a6d0484d5f01d64d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b49d9fc7a6d0484d5f01d64d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f09625a601dacbe03fd7d781.json"
   },
   {
     "id": "latest-spy-thriller-assassin-shows",
@@ -133,6 +147,7 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fe2a696e66b0a1ef4bd669c2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fe2a696e66b0a1ef4bd669c2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/815c8f88a63d23a6016015b9.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/464c79bf5b33b55a8dde18f1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/464c79bf5b33b55a8dde18f1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/76b6184bcadf4ceb230d0519.json"
   },
   {
     "id": "trakt-awardwinners-2026-oscar-winners-2026-oscar-winners",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/14bcc5fc407a7f5c3b946fcc.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/14bcc5fc407a7f5c3b946fcc.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/69d0f902444bbcab43dd2e05.json"
   },
   {
     "id": "trakt-awardwinners-academy-award-winners-for-best-cinematography-academy-award-winners-for-best-cinematograph",
@@ -37,7 +39,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/133c73d58a47527c375d3557.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/133c73d58a47527c375d3557.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e5cf68cbfe32b0036c1e2ef2.json"
   },
   {
     "id": "trakt-awardwinners-the-95th-academy-awards-oscars-2023-the-95th-academy-awards-oscars-2023",
@@ -47,7 +50,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fc4908136e2776e26f47d066.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fc4908136e2776e26f47d066.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1df41cb844115bb238915538.json"
   },
   {
     "id": "trakt-awardwinners-academy-award-winners-for-best-sound-academy-award-winners-for-best-sound",
@@ -67,7 +71,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a069b498715674c78f1a17e9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a069b498715674c78f1a17e9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a0e09d38ce0117908c1b3431.json"
   },
   {
     "id": "trakt-awardwinners-oscars-2025-oscars-2025",
@@ -77,7 +82,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4d8b0dc68662c2d951530199.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4d8b0dc68662c2d951530199.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/dfa8002dc1bd1e6ddaf8ab7f.json"
   },
   {
     "id": "trakt-awardwinners-afis-100-years-100-movies-10th-anniversary-edition-afi-s-100-years-100-movies-10th-anniver",
@@ -87,7 +93,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0086c8b0512b3d7e358c002b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0086c8b0512b3d7e358c002b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/723155ef5f85cb7231cad9c3.json"
   },
   {
     "id": "trakt-awardwinners-oscars-2023-oscars-2023",
@@ -97,7 +104,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b4196ba71e3caa19fe1fc692.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b4196ba71e3caa19fe1fc692.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/538f9e8c3c3d078cd35937dd.json"
   },
   {
     "id": "trakt-awardwinners-oscars-2024-oscars-2024",
@@ -107,7 +115,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/999d959be3bb03e3d07c05b5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/999d959be3bb03e3d07c05b5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d8147744f78fc866fcc488e4.json"
   },
   {
     "id": "trakt-awardwinners-the-96th-academy-awards-oscars-2024-the-96th-academy-awards-oscars-2024",
@@ -117,7 +126,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a1b1ef14e7a44a1e80da90e7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a1b1ef14e7a44a1e80da90e7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/72635395d390440035ede508.json"
   },
   {
     "id": "trakt-awardwinners-the-88th-academy-awards-oscars-2016-the-88th-academy-awards-oscars-2016",
@@ -127,7 +137,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff0ea937ddd091ea84051f47.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff0ea937ddd091ea84051f47.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2d80a2cbd7b81c3d61cc4270.json"
   },
   {
     "id": "trakt-awardwinners-afis-100-years-100-thrills-afi-s-100-years-100-thrills",
@@ -137,7 +148,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cb632eb06e6746e4f28bc407.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cb632eb06e6746e4f28bc407.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d47ecc9bbb245559652f9fbe.json"
   },
   {
     "id": "trakt-awardwinners-afis-100-years-100-laughts-afi-s-100-years-100-laughts",
@@ -147,7 +159,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2684799a875fc358809c24f9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2684799a875fc358809c24f9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/13618a5f8a3cebdd9493a2ee.json"
   },
   {
     "id": "trakt-awardwinners-bafta---best-film-award-winners-bafta-best-film-award-winners",
@@ -157,7 +170,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2336ac2c28c1fee3ba656207.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2336ac2c28c1fee3ba656207.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b885de7b967d3159e3b1f5fc.json"
   },
   {
     "id": "trakt-awardwinners-oscars-2026-oscars-2026",
@@ -167,7 +181,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e75293b2af585f47a01d48ab.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e75293b2af585f47a01d48ab.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ed21b6cbaf5363f7b8507adf.json"
   },
   {
     "id": "trakt-awardwinners-academy-award-for-best-sound-academy-award-for-best-sound",
@@ -177,7 +192,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f44b1397af42cacc618f8c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f44b1397af42cacc618f8c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d325c4ca0999c6952f584f6a.json"
   },
   {
     "id": "trakt-awardwinners-the-94th-academy-awards-oscars-2022-the-94th-academy-awards-oscars-2022",
@@ -187,7 +203,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e75acee1ccde40411562de2f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e75acee1ccde40411562de2f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3660bab4632fbeaa5888d4cf.json"
   },
   {
     "id": "trakt-awardwinners-afis-100-years-100-passions-top-100-greatest-love-stories-in-american-cinema-afi-s-100-yea",
@@ -197,7 +214,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5faf9b42ccef1c0801cf0118.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5faf9b42ccef1c0801cf0118.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/133f6fc081b0abc67751120c.json"
   },
   {
     "id": "trakt-awardwinners-academy-award-winner-foreign-language-films-academy-award-winner-foreign-language-films",
@@ -207,7 +225,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f6d98121f944deea5fabee1e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f6d98121f944deea5fabee1e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f894a6bce6385390044b4125.json"
   },
   {
     "id": "trakt-awardwinners-best-french-films---césar-award-winners-best-french-films-cesar-award-winners",
@@ -217,7 +236,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/33c82e14b307f9bb010517a1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/33c82e14b307f9bb010517a1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/828cb6d65a9468c674a89984.json"
   },
   {
     "id": "trakt-awardwinners-oscar-winners-oscar-winners",
@@ -227,7 +247,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e64dfe3e32beb610e08bc60.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e64dfe3e32beb610e08bc60.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/44f19034922b18220b162bf7.json"
   },
   {
     "id": "trakt-awardwinners-1970-2026-oscars-best-picture-winners-1970-2026-oscars-best-picture-winners",
@@ -237,7 +258,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7a2b86edee002d94b1aa66fe.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7a2b86edee002d94b1aa66fe.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/bf3fa2bdaaba95a9bd9071d6.json"
   },
   {
     "id": "trakt-awardwinners-88th-academy-awards-winners-88th-academy-awards-winners",
@@ -247,7 +269,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d5c47938de0aba9c97fcbacf.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d5c47938de0aba9c97fcbacf.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/10b43d66939d630a9d462004.json"
   },
   {
     "id": "trakt-awardwinners-2022-golden-globes-2022-golden-globes",
@@ -257,7 +280,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c65e5f00bf0604744c8ac7a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c65e5f00bf0604744c8ac7a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/de68d96c6e0b3da65b46bcad.json"
   },
   {
     "id": "trakt-awardwinners-2018-cannes-2018-cannes",
@@ -267,7 +291,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30db29bfdef0dd82a1b21189.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30db29bfdef0dd82a1b21189.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/dddbe94d2663d214214f974f.json"
   },
   {
     "id": "trakt-awardwinners-the-86th-academy-awards-oscars-2014-the-86th-academy-awards-oscars-2014",
@@ -277,7 +302,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/667396f8868c3d4d99d312d4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/667396f8868c3d4d99d312d4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ca60fa6c595af7195c4276a4.json"
   },
   {
     "id": "trakt-awardwinners-the-89th-academy-awards-oscars-2017-the-89th-academy-awards-oscars-2017",
@@ -287,7 +313,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/41f3d90c2dae0f38b53ea39b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/41f3d90c2dae0f38b53ea39b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7807fb6c86222cf5aa3fa1ec.json"
   },
   {
     "id": "trakt-awardwinners-2019-cannes-2019-cannes",
@@ -297,7 +324,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d0e04371a93959a66d649e27.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d0e04371a93959a66d649e27.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/51c045f97ac36254c6565ea9.json"
   },
   {
     "id": "trakt-awardwinners-academy-awards-best-picture-academy-awards-best-picture",
@@ -307,7 +335,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/51acde44c239870eab6306b9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/51acde44c239870eab6306b9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/37ba53686e31b4c89de4cbd4.json"
   },
   {
     "id": "trakt-awardwinners-the-82nd-academy-awards-oscars-2010-the-82nd-academy-awards-oscars-2010",
@@ -317,7 +346,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/00a021382c0b6a64b147b43c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/00a021382c0b6a64b147b43c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3c530bb6cd4948f1a5f6df8c.json"
   },
   {
     "id": "trakt-awardwinners-2021-cannes-2021-cannes",
@@ -327,7 +357,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/eba5e82f4c32cbf42da44005.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/eba5e82f4c32cbf42da44005.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1846a9a0f15b3070c4002f73.json"
   },
   {
     "id": "trakt-awardwinners-the-84th-academy-awards-oscars-2012-the-84th-academy-awards-oscars-2012",
@@ -337,7 +368,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e60aa4be0b7f30b3f08eb3cd.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e60aa4be0b7f30b3f08eb3cd.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1cff7aac5c8014a2cdbdf827.json"
   },
   {
     "id": "trakt-awardwinners-the-85th-academy-awards-oscars-2013-the-85th-academy-awards-oscars-2013",
@@ -347,7 +379,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1ea07d91bdb5c2699af03b12.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1ea07d91bdb5c2699af03b12.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/65f5b5d5f0207a3604c7fc27.json"
   },
   {
     "id": "trakt-awardwinners-cannes-palme-dor-winners-cannes-palme-d-or-winners",
@@ -357,7 +390,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/333c9b74fa1c977b4ba913c1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/333c9b74fa1c977b4ba913c1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c99410b1dff4b246899e2d2c.json"
   },
   {
     "id": "trakt-awardwinners-primetime-emmy-awards---outstanding-comedydramavariety-series-winners-primetime-emmy-award",
@@ -367,7 +401,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/39e9142e18940ce24a354784.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/39e9142e18940ce24a354784.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d12d8a3e82fe261adce09765.json"
   },
   {
     "id": "trakt-awardwinners-the-83rd-academy-awards-oscars-2011-the-83rd-academy-awards-oscars-2011",
@@ -377,7 +412,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c18a49aee4827bd7ee62b53.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c18a49aee4827bd7ee62b53.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5c88ee48b6fbfa8314879cf4.json"
   },
   {
     "id": "trakt-awardwinners-the-87th-academy-awards-oscars-2015-the-87th-academy-awards-oscars-2015-15ad9ede-826a-47fd",
@@ -387,7 +423,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c93ba240262000713ea3c2e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c93ba240262000713ea3c2e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8b419ce0005792301cd0c195.json"
   },
   {
     "id": "trakt-awardwinners-2014-oscars-nominees-2014-oscars-nominees",
@@ -397,7 +434,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2ee1e7faa6f51c52a033134b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2ee1e7faa6f51c52a033134b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/916c49932553f4b07fbe2a4d.json"
   },
   {
     "id": "trakt-awardwinners-2015-oscars-nominees-2015-oscars-nominees",
@@ -407,7 +445,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/599d7b142b86c7f87fd1738c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/599d7b142b86c7f87fd1738c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fb4e68ccc72608268e37971a.json"
   },
   {
     "id": "trakt-awardwinners-2020-cannes-2020-cannes",
@@ -417,7 +456,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b9590f29f56d66e26138693.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b9590f29f56d66e26138693.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/86a2c0ea201c6ec3c7d2de18.json"
   },
   {
     "id": "trakt-awardwinners-the-77th-academy-awards-oscars-2005-the-77th-academy-awards-oscars-2005",
@@ -427,7 +467,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/231d097fa546af3eda79a1f8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/231d097fa546af3eda79a1f8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6d2dfd451a019d08253b725c.json"
   },
   {
     "id": "trakt-awardwinners-the-90th-academy-awards-oscars-2018-the-90th-academy-awards-oscars-2018",
@@ -437,7 +478,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f570cdb5018c99b492124d6d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f570cdb5018c99b492124d6d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f6144d31e38a16e4b62d78f9.json"
   },
   {
     "id": "trakt-awardwinners-2013-oscars-nominees-2013-oscars-nominees",
@@ -447,7 +489,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/690ea4bf9bceba0bff8161b8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/690ea4bf9bceba0bff8161b8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/adc1a8987d815e349aba9efc.json"
   },
   {
     "id": "trakt-awardwinners-the-92nd-academy-awards---oscar-nominees-of-2020-the-92nd-academy-awards-oscar-nominees-of",
@@ -457,7 +500,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/620940f1067f41af3c657870.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/620940f1067f41af3c657870.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/721421f44c2a91a71004470f.json"
   },
   {
     "id": "trakt-awardwinners-2020-oscars-2020-oscars",
@@ -467,7 +511,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a21afeaf3383b0aa4c167efa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a21afeaf3383b0aa4c167efa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e22eb399447890832c16bd79.json"
   },
   {
     "id": "trakt-awardwinners-the-68th-academy-awards-oscars-1996-the-68th-academy-awards-oscars-1996",
@@ -477,7 +522,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/333ca0fea8f2a13611b50b33.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/333ca0fea8f2a13611b50b33.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8fd98ad0fca18d6cb45da742.json"
   },
   {
     "id": "trakt-awardwinners-the-79th-academy-awards-oscars-2007-the-79th-academy-awards-oscars-2007",
@@ -487,7 +533,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f18850670c58839d9ee2c388.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f18850670c58839d9ee2c388.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b3fa72f5158cacadc26f8503.json"
   },
   {
     "id": "trakt-awardwinners-the-81st-academy-awards-oscars-2009-the-81st-academy-awards-oscars-2009",
@@ -497,6 +544,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af8df7778c33617b5e5d05f3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af8df7778c33617b5e5d05f3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f5c1e9b3a9782213c0d77ad7.json"
   }
 ]

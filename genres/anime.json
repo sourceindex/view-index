@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc6aeec0cc3e794f52ce0552.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc6aeec0cc3e794f52ce0552.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a2b1aac2306eaf5cee73fbfe.json"
   },
   {
     "id": "trakt-anime-100-animes-to-watch-before-you-die-100-animes-to-watch-before-you-die",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a8666bec2c1aaa33910c8f1a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a8666bec2c1aaa33910c8f1a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/633fb3ddd0478484be69ddd0.json"
   },
   {
     "id": "trakt-anime-site-sound-50-essential-anime-films-site-sound-50-essential-anime-films",
@@ -37,7 +39,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/18f98bb8d786d0e73c546a57.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/18f98bb8d786d0e73c546a57.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cd42bc7c55a70af3d36df47b.json"
   },
   {
     "id": "trakt-anime-live-action-tv-shows-based-on-manga-manhwa-and-anime-live-action-tv-shows-based-on-manga-m",
@@ -47,7 +50,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0abcda1ba0ed0b1f0f5e44ea.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0abcda1ba0ed0b1f0f5e44ea.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/27c2e3ea6cb24b158088e954.json"
   },
   {
     "id": "trakt-anime-anime-shows-movies-anime-shows-movies",
@@ -57,7 +61,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ba8656697fc788c292fec177.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ba8656697fc788c292fec177.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f7e8d625e9a1ae8a24e55aee.json"
   },
   {
     "id": "trakt-anime-ultimate-isekai-list-ultimate-isekai-list",
@@ -67,7 +72,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b2e3a1a367d78cc4a976c079.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b2e3a1a367d78cc4a976c079.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e3464d50f1c0f8cca8f2bec1.json"
   },
   {
     "id": "trakt-anime-anime-anime",
@@ -77,7 +83,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/378bd991e9a8d4258055e83c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/378bd991e9a8d4258055e83c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7e5a52a3fed368fecd83b4d9.json"
   },
   {
     "id": "trakt-anime-studio-ghibli-movies-studio-ghibli-movies",
@@ -87,7 +94,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ebf0a51300ee723cdc9e79f6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ebf0a51300ee723cdc9e79f6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c3ab62fb05384b30d9f0a8a4.json"
   },
   {
     "id": "trakt-anime-anime-movies-anime-movies",
@@ -97,7 +105,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ac8df09e59ddef38c2298281.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ac8df09e59ddef38c2298281.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0f53ac3e240069d250f48d75.json"
   },
   {
     "id": "trakt-anime-100-vintage-anime-films-1980-2000-100-vintage-anime-films-1980-2000",
@@ -107,6 +116,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0f652f77f7ff64ed609ae77b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0f652f77f7ff64ed609ae77b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0b27cc4b632b95d93d0eb2d4.json"
   }
 ]

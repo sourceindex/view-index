@@ -47,7 +47,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d7c414ad8854e7140da5f05.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d7c414ad8854e7140da5f05.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e63861fb4e95860834986aa9.json"
   },
   {
     "id": "trakt-hiddengems-70s-horror-cult-70s-horror-cult",

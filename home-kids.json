@@ -14,7 +14,8 @@
     "catalogType": "traktMovie",
     "inPlace": true,
     "traktSortBy": null,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6a1348afe8dddb4ef0d487b8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6a1348afe8dddb4ef0d487b8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/df636ce9c1503c1cd82ff789.json"
   },
   {
     "id": "more-kids-movies",
@@ -22,7 +23,8 @@
     "url": "madmapper/lists/kids",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dfa16b9694bff8243b167853.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dfa16b9694bff8243b167853.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f6dae9b46ed4f4cdcc7c1a37.json"
   },
   {
     "id": "kids-top-tv-shows",
@@ -30,7 +32,8 @@
     "url": "mrspacegoose/lists/kids-top-tv-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc186d08d55b69ac4f7cb533.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc186d08d55b69ac4f7cb533.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c6ef599a6da168c064e93d9a.json"
   },
   {
     "id": "80-s-90s-movies-to-watch-with-kids",
@@ -38,7 +41,8 @@
     "url": "the-rewind-zone/lists/80-s-90s-movies-to-watch-with-kids",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9bc83ba55113289a4d1c6c08.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9bc83ba55113289a4d1c6c08.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/33697402b536e8a62ac07f0f.json"
   },
   {
     "id": "best-kids-movies",
@@ -46,7 +50,8 @@
     "url": "kayaaron13/lists/best-kids-movies",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4a01f63d82ddc496bb65030.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4a01f63d82ddc496bb65030.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6c908d6cee6c10126e1a9ab1.json"
   },
   {
     "id": "trakt-trending-kids-shows",
@@ -54,7 +59,8 @@
     "url": "japante/lists/trending-kids-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0eea51b4444d9ae1a2f4c3c2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0eea51b4444d9ae1a2f4c3c2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f63ee90a7d7041d05fbc169d.json"
   },
   {
     "id": "trakt-more-trending-kids-shows",
@@ -62,7 +68,8 @@
     "url": "tvgeniekodi/lists/trending-kids-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13722d5fc006b085c2de717b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13722d5fc006b085c2de717b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e7ebf6463dc75a27890f782d.json"
   },
   {
     "id": "trakt-popular-children-and-family",
@@ -70,7 +77,8 @@
     "url": "galacticboy/lists/popular-children-and-family",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc134ca8e7c7ef81a9d446e5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc134ca8e7c7ef81a9d446e5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8956cc5e174c7acff26b6c05.json"
   },
   {
     "id": "trakt-kids-shows",
@@ -78,7 +86,8 @@
     "url": "drinfernoo/lists/kids-shows",
     "catalogType": "traktTv",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b3b977ce102ebd7af20108a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b3b977ce102ebd7af20108a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/708947bb1c54a156fce364b7.json"
   },
   {
     "id": "trakt-the-family-collection",
@@ -86,7 +95,8 @@
     "url": "kristaeglover/lists/the-family-collection",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ef719a5229188ce60423dd98.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ef719a5229188ce60423dd98.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cd2aa3c962b6f0d34b886173.json"
   },
   {
     "id": "trakt-the-harry-potter-collection",
@@ -94,7 +104,8 @@
     "url": "kristaeglover/lists/the-harry-potter-collection",
     "catalogType": "traktMovie",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4349fc7d5706de8f5a510a30.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4349fc7d5706de8f5a510a30.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5971d5b5528b679481ba66cf.json"
   },
   {
     "id": "trakt-top-100-kids-family-movies",

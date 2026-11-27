@@ -14,7 +14,8 @@
     "catalogType": "traktMovie",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/37a49031bf9bfd8bfd632376.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/37a49031bf9bfd8bfd632376.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0a64f500a29b8c6beb3f8fbc.json"
   },
   {
     "id": "kids-tvgeniekodi-trending-kids-tv-shows",
@@ -23,7 +24,8 @@
     "catalogType": "traktTv",
     "traktSortBy": null,
     "inPlace": true,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/450716a9f57640e96b0ff74e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/450716a9f57640e96b0ff74e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/38f2d02743e7be33a21100b4.json"
   },
   {
     "id": "kids-scottjscobie-icloud-com-kids-and-family",
@@ -31,7 +33,8 @@
     "url": "https://mdblist.com/lists/scottjscobie-icloud-com/kids-and-family",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/38ee8499f068dce9039b7faa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/38ee8499f068dce9039b7faa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d99911083ddae371d11f835b.json"
   },
   {
     "id": "kids-rxality-kids-movies",
@@ -39,7 +42,8 @@
     "url": "https://mdblist.com/lists/rxality/kids-movies",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/23dabb7802b085715e94aaf0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/23dabb7802b085715e94aaf0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/431cf52b70c719af91184af9.json"
   },
   {
     "id": "kids-wante-nickelodeon",
@@ -47,7 +51,8 @@
     "url": "https://mdblist.com/lists/wante/nickelodeon",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/466f903ea351826769d0fb05.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/466f903ea351826769d0fb05.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/323d607dfe1db78f9d23fa60.json"
   },
   {
     "id": "kids-goldspacer-nature-documentaries",
@@ -55,7 +60,8 @@
     "url": "https://mdblist.com/lists/goldspacer/nature-documentaries",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/db7dc8a1a582bdb115155f54.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/db7dc8a1a582bdb115155f54.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c64da9463ea720148fbb3210.json"
   },
   {
     "id": "kids-osocram-lego-movies",
@@ -63,7 +69,8 @@
     "url": "https://mdblist.com/lists/osocram/lego-movies",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a2a2017591c87c99557207d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a2a2017591c87c99557207d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9c0ba1b4ea47cf7e5db1a9b4.json"
   },
   {
     "id": "kids-mr-n0b0dy-3d-animation-with-female-protagonist",
@@ -71,7 +78,8 @@
     "url": "https://mdblist.com/lists/mr_n0b0dy/3d-animation-with-female-protagonist",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b3ace21790890b71285e24cb.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b3ace21790890b71285e24cb.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2757ae330f484e7b278ef2c9.json"
   },
   {
     "id": "kids-purple-smurf-dreamworks",
@@ -79,7 +87,8 @@
     "url": "https://mdblist.com/lists/purple_smurf/dreamworks",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9875f3621470c7f26901a9d7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9875f3621470c7f26901a9d7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c31d15b35568fa6629e578f3.json"
   },
   {
     "id": "kids-zzwwrrtt-90s-kids-shows",
@@ -87,7 +96,8 @@
     "url": "https://mdblist.com/lists/zzwwrrtt/90s-kids-shows",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8dd74cf030481cdda2a38ed.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8dd74cf030481cdda2a38ed.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8f41fe149e6d09edd6b49639.json"
   },
   {
     "id": "trakt-the-family-collection",
@@ -95,6 +105,7 @@
     "url": "kristaeglover/lists/the-family-collection",
     "catalogType": "traktMixed",
     "traktSortBy": "random",
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e57365f5ab52f56a094ee8e7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e57365f5ab52f56a094ee8e7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/915f01de7c9f700a6044ab8d.json"
   }
 ]

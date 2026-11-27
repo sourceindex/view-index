@@ -27,7 +27,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b3b977ce102ebd7af20108a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9b3b977ce102ebd7af20108a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d1f7a57722fcc4803d0dacc6.json"
   },
   {
     "id": "trakt-family-family-family",
@@ -77,7 +78,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dfa16b9694bff8243b167853.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dfa16b9694bff8243b167853.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e6e08e03378497136ed87c79.json"
   },
   {
     "id": "trakt-family-best-kids-movies-best-kids-movies",
@@ -87,7 +89,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4a01f63d82ddc496bb65030.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f4a01f63d82ddc496bb65030.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/615d3017c4fadfa9752cbf14.json"
   },
   {
     "id": "trakt-family-imdb-popular-family-horror-imdb-popular-family-horror",

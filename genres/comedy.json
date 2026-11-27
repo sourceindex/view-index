@@ -17,7 +17,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0a9dec319c0fe8de4b191eb5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0a9dec319c0fe8de4b191eb5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c0b64ea7ce7700f14629bd31.json"
   },
   {
     "id": "trakt-comedies-comedy-comedy",
@@ -27,7 +28,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/972035020693e1c110221b50.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/972035020693e1c110221b50.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fded9deeee3b17ed02242233.json"
   },
   {
     "id": "trakt-comedies-comedy-251-picks-comedy",
