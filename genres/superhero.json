@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a86987a8fe49343a52b325ed.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a86987a8fe49343a52b325ed.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3170937dbc4871644ce6a791.json"
   },
   {
     "id": "trakt-superhero-x-men-universe-x-men-universe",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9ad24a42c44b14ad37d1c3ae.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9ad24a42c44b14ad37d1c3ae.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f4a9d2688eca36087c1579ac.json"
   },
   {
     "id": "trakt-superhero-marveldccomic-adaptations-marvel-dc-comic-adaptations",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cfdafdb12fe0a18e90938cdf.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cfdafdb12fe0a18e90938cdf.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ec53d89e4eebd167cf83cf0d.json"
   },
   {
     "id": "trakt-superhero-marvel-animated-marvel-animated",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7081e563b749864b124dacf4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7081e563b749864b124dacf4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9592da0c06cd1c992d7ea597.json"
   },
   {
     "id": "trakt-superhero-dc-comics-dc-comics",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9351351a98eb7316da7b489a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9351351a98eb7316da7b489a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/33c250fc91f040a022685868.json"
   },
   {
     "id": "trakt-superhero-marvel-and-dc-marvel-and-dc",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d6ff153c0c389879307e44aa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d6ff153c0c389879307e44aa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6ebc4ad2efb018e64a9883c4.json"
   },
   {
     "id": "trakt-superhero-superhero-films-superhero-films",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ea52d0562e3c5f0f5e74b51f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ea52d0562e3c5f0f5e74b51f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f161dd491ac8a9d44af50e20.json"
   },
   {
     "id": "trakt-superhero-superhero-superhero",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bb6ab789fe5bff888c7a95b1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bb6ab789fe5bff888c7a95b1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cd5889f7fda830ad94145601.json"
   },
   {
     "id": "trakt-superhero-marvel-tv-series-marvel-tv-series",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6f68a7a4fb34444ae9d8e076.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6f68a7a4fb34444ae9d8e076.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/edace8cd3c6b30bac615c8de.json"
   },
   {
     "id": "trakt-superhero-my-marvel-comics-movies-and-series-my-marvel-comics-movies-and-series",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a6161277676f3645652bef0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a6161277676f3645652bef0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/606352a314ee8044fadbedcc.json"
   },
   {
     "id": "trakt-superhero-marvel-dc-comic-adaptations-marvel-dc-comic-adaptations",
@@ -107,6 +117,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/691080919b528e3daf35bcfd.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/691080919b528e3daf35bcfd.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4ce7e0f91bcc6948d47850c9.json"
   }
 ]

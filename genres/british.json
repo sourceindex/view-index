@@ -40,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9376813072f0df3a98711a8e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9376813072f0df3a98711a8e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f5e1f65a5ca24c4626b0c013.json"
   },
   {
     "id": "trakt-british-british-detective-tv-series-british-detective-tv-series",
@@ -50,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/38e035291e639f9a5e0c10e5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/38e035291e639f9a5e0c10e5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7ce7d6f0d03f4b048e8eee2b.json"
   },
   {
     "id": "trakt-british-bbc-cultures-100-greatest-foreign-language-films-bbc-culture-s-100-greatest-foreign-langua",
@@ -60,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f8e354d363c5335cc8e0c8b8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f8e354d363c5335cc8e0c8b8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/06ef04c5ebeb92000c56e4a3.json"
   },
   {
     "id": "trakt-british-the-bfi-100---a-selection-of-the-favourite-british-films-of-the-20th-century-the-bfi-100-a",
@@ -70,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9bcc7ee4fbf9889366b26441.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9bcc7ee4fbf9889366b26441.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/73af71c7aab195054151aad7.json"
   },
   {
     "id": "trakt-british-vintage-british-tv-vintage-british-tv",
@@ -80,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3814b20018474267a889f683.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3814b20018474267a889f683.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/78e189db3b0b3f676bd396d3.json"
   },
   {
     "id": "trakt-british-world-war-ii-british-films-226-titles-world-war-ii-british-films-226-titles",
@@ -90,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/21abd85ddc29286d470e8292.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/21abd85ddc29286d470e8292.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1bac21abe057ddf97ba0f28e.json"
   },
   {
     "id": "trakt-british-bbcitvsky-bbc-itv-sky",
@@ -100,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9d497cd13228ae17aa22ab5d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9d497cd13228ae17aa22ab5d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a6803fcd060611e5453a3d84.json"
   },
   {
     "id": "trakt-british-british-irish-horror-british-irish-horror",
@@ -110,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/46263218560259c027f57411.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/46263218560259c027f57411.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/01d6da08d562ab13ba2fbbbc.json"
   },
   {
     "id": "trakt-british-british-series-british-series",
@@ -120,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff04ee2811086a285c731cac.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff04ee2811086a285c731cac.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cf03675854835c88bfbd9748.json"
   },
   {
     "id": "trakt-british-the-bfi-100-a-selection-of-the-favourite-british-films-of-the-20th-century-the-bfi-100-a-s",
@@ -130,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e8ebf144758c7b04962edde6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e8ebf144758c7b04962edde6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/275d22bedffd0c694aa28ada.json"
   },
   {
     "id": "trakt-british-british-cinematography-british-cinematography",
@@ -140,6 +150,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1897ffb0428ac2f30aff6248.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1897ffb0428ac2f30aff6248.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/db65a2499d518a0715e5fe72.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/524fec93f83c0852ed4bcd0b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/524fec93f83c0852ed4bcd0b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c47e6a0e79c94d9b862a7ea0.json"
   },
   {
     "id": "trakt-miniseries-best-miniseries-british-tv-mini-series",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4f7976124609051245735549.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4f7976124609051245735549.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3a7a8c901afbf7331a0d5b05.json"
   },
   {
     "id": "trakt-miniseries-drama-limited-series-period-drama-miniseries-mini-tv-series",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1c67bbd6a783d59d8cc74af4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1c67bbd6a783d59d8cc74af4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0443a73aa49f6942a0acb477.json"
   },
   {
     "id": "trakt-miniseries-short-movies-miniseries-great-short-movies-mini-series",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13f355a4515fc1f12d25d143.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13f355a4515fc1f12d25d143.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/94c670c6fd10366fc2e1c2f4.json"
   },
   {
     "id": "trakt-miniseries-hbo-limited-series-hbo-shows",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/634d41fc9b72815e890d2fe9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/634d41fc9b72815e890d2fe9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b403525b87b338855306d2ec.json"
   },
   {
     "id": "trakt-miniseries-netflix-limited-series-netflix-shows",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc5f409ee6aa1d09345f2f43.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bc5f409ee6aa1d09345f2f43.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e7ec3d501a039869c7a2f3f6.json"
   },
   {
     "id": "trakt-miniseries-adapted-from-books-erotic-movies-based-on-books",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8d2bfb4ea29066dcbc9781e0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8d2bfb4ea29066dcbc9781e0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ad97e24ad7164a736ac0982c.json"
   },
   {
     "id": "trakt-miniseries-mindbending-series-psychological-series",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c56f117d78f943b3595e463c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c56f117d78f943b3595e463c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4fc950703cb44b93f5c43269.json"
   },
   {
     "id": "trakt-miniseries-your-next-watch-popular-mini-series-2010s",
@@ -87,6 +95,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/69dd39a3e8dabcdb9de03a43.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/69dd39a3e8dabcdb9de03a43.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8ce089163af406525e1ba855.json"
   }
 ]

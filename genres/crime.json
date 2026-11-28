@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4df74e3364b9f68330ea781d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4df74e3364b9f68330ea781d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d327617377492b23ddb3234a.json"
   },
   {
     "id": "trakt-crime-top-100-gangster-movies-top-100-gangster-movies",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9eb9b9bcb2c23e37036e653f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9eb9b9bcb2c23e37036e653f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/02858e6811bd5507d5e435cf.json"
   },
   {
     "id": "trakt-crime-crime-142-picks-crime",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/444f777270a99571afa6d794.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/444f777270a99571afa6d794.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/87989ccf59f5b8cc0346191f.json"
   },
   {
     "id": "trakt-crime-crime-series-crime-series",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3f8991f4911d06a53270504f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3f8991f4911d06a53270504f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f38fbefad509aa0ce7d7b7c8.json"
   },
   {
     "id": "trakt-crime-con-artistheist-con-artist-heist",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/284fdb902ede479a1a7042fa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/284fdb902ede479a1a7042fa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b0a7d06cffd3b9f8e469b2d2.json"
   },
   {
     "id": "trakt-crime-xtv-crime-xtv-crime",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a4135285ea529caee6eb0e4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9a4135285ea529caee6eb0e4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3e525495fd0bb8f7bc2189be.json"
   },
   {
     "id": "trakt-crime-genre-crime-1600-titles-1970-2013-genre-crime-1600-titles-1970-2013",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7093efd4bf7caeedd6209bbc.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7093efd4bf7caeedd6209bbc.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cffd885701f590355f216c32.json"
   },
   {
     "id": "trakt-crime-top-crime-dramas-top-crime-dramas",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b24542671ced978ff524c1f9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b24542671ced978ff524c1f9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fdd56ad2f9381e7d3df788fb.json"
   },
   {
     "id": "trakt-crime-poliziotteschi-italian-crimes-poliziotteschi-italian-crimes",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/632ae24c0fb8d0a1acbe23c8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/632ae24c0fb8d0a1acbe23c8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a473ea3924ac571456c34203.json"
   },
   {
     "id": "trakt-crime-crime-1970s-crime-1970s",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e5c093de733ecf6acfc443bc.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e5c093de733ecf6acfc443bc.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2ad816389057c09332e95119.json"
   },
   {
     "id": "trakt-crime-crime-1990s-crime-1990s",
@@ -107,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b1cd56b163625b6d1c1d174b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b1cd56b163625b6d1c1d174b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/369b30909d7df8899d6ef55c.json"
   },
   {
     "id": "trakt-crime-crime-2000s-crime-2000s",
@@ -117,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/babbf02d18291e60e68c1af5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/babbf02d18291e60e68c1af5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3bc1e75868fbfe4be92d8429.json"
   },
   {
     "id": "trakt-crime-crime-1980s-crime-1980s",
@@ -127,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9563838d053248e716a9f511.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9563838d053248e716a9f511.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/56a3174037ed5bd672e879aa.json"
   },
   {
     "id": "trakt-crime-crime-2010s-crime-2010s",
@@ -137,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5a20c2d02cf1d42c80983dbe.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5a20c2d02cf1d42c80983dbe.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2e75546e37ad4a7c4a5c9496.json"
   },
   {
     "id": "trakt-crime-brazilian-crime-brazilian-crime",
@@ -147,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b626847d22d618b1b158788.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b626847d22d618b1b158788.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e6955e9b5ad46f387196896f.json"
   },
   {
     "id": "trakt-crime-crime-619-picks-crime",
@@ -157,6 +172,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff74f51c495fb443046788f5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff74f51c495fb443046788f5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fb0d1f2a8e738a76ca32c058.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7701b1f990f97a5a72b6d7b8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7701b1f990f97a5a72b6d7b8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/712ae59b23646fbf9dafb13a.json"
   },
   {
     "id": "trakt-truestory-based-on-a-true-story-based-on-a-true-story",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/26885dddb74276a607ee77e0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/26885dddb74276a607ee77e0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d7eb19f89f6f97f93831b162.json"
   },
   {
     "id": "trakt-truestory-the-ultimate-true-crime-documentaries-list-the-ultimate-true-crime-documentaries-list",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/92629ee66f8b9f3cdc261cd7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/92629ee66f8b9f3cdc261cd7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/18d5df25003e9da374c339e8.json"
   },
   {
     "id": "trakt-truestory-essential-true-crime-essential-true-crime",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cdf9fafad37a83fd245f7898.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cdf9fafad37a83fd245f7898.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/71ae5fee648fca7a5e7523dc.json"
   },
   {
     "id": "trakt-truestory-true-crime-true-crime",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f3c034067103871fc1ec94.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f3c034067103871fc1ec94.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a0081656c4834d7dac023a06.json"
   },
   {
     "id": "trakt-truestory-based-on-a-true-story-247-picks-based-on-a-true-story",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b939279158f9f172da6b48fe.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b939279158f9f172da6b48fe.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f5e6f239cf5cdd2c1b61af6b.json"
   },
   {
     "id": "trakt-truestory-ranker-best-movies-based-on-true-story-ranker-best-movies-based-on-true-story",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ed4ec0cc1db550235e63812a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ed4ec0cc1db550235e63812a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2fc01c885dac21a695af73dc.json"
   },
   {
     "id": "trakt-truestory-genre-biography-800-films-1960-2013-genre-biography-800-films-1960-2013",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b9554aebdfa9d158a1812e63.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b9554aebdfa9d158a1812e63.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2307ad3c572423d6f52c300d.json"
   },
   {
     "id": "trakt-truestory-true-story-based-true-story-based",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2f08785e7ddb0c12756f7ab8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2f08785e7ddb0c12756f7ab8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d43383e310afee45d6c25f0b.json"
   },
   {
     "id": "trakt-truestory-ranker-the-best-biopics-ever-made-ranker-the-best-biopics-ever-made",
@@ -97,6 +106,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e8bc4cd3131b998c60a9878.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e8bc4cd3131b998c60a9878.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/06a5e8a70d6a0e9cf3b1d825.json"
   }
 ]

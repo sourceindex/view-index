@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e2e535646e18db2630f60da6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e2e535646e18db2630f60da6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5a2c88db897520200ff25aeb.json"
   },
   {
     "id": "trakt-hiddengems-wikipedias-list-of-cult-films-wikipedia-s-list-of-cult-films",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1dcb6dc28169107ebbcb5ac8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1dcb6dc28169107ebbcb5ac8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/19bb51d40798dab3ffc1769b.json"
   },
   {
     "id": "trakt-hiddengems-underground-network-underground-network",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1f1099cce16ac5e92cd77e09.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1f1099cce16ac5e92cd77e09.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d0e32ddba011c7c38f8570af.json"
   },
   {
     "id": "trakt-hiddengems-av-clubs-the-new-cult-canon-a-v-club-s-the-new-cult-canon",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9041be65950732bd4f2d40ed.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9041be65950732bd4f2d40ed.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/737b59671d68cfab9b19153d.json"
   },
   {
     "id": "trakt-hiddengems-cult-classics-cult-classics",
@@ -58,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b43553b389dc7f4db6db4c29.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b43553b389dc7f4db6db4c29.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4bfa3d5f038954da1697539c.json"
   },
   {
     "id": "trakt-hiddengems-most-underrated-movies-of-the-last-20-years-most-underrated-movies-of-the-last-20-years",
@@ -68,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c99495188be3254410e2f76c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c99495188be3254410e2f76c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8333a58b0d68331cf255fbe1.json"
   },
   {
     "id": "trakt-hiddengems-hidden-gems-52-picks-hidden-gems",
@@ -78,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e58becbc9f1e92069409e20.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7e58becbc9f1e92069409e20.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d19ef5119713f31a6fa3300e.json"
   },
   {
     "id": "trakt-hiddengems-80s-horror-cults-80s-horror-cults",
@@ -88,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d0e2f4f55c9c03efe463b226.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d0e2f4f55c9c03efe463b226.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1238a9079e012c3e02476924.json"
   },
   {
     "id": "trakt-hiddengems-best-sci-fi-cult-classics-of-all-time-best-sci-fi-cult-classics-of-all-time",
@@ -98,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/22bdb5467475c1bd7856c91f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/22bdb5467475c1bd7856c91f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/46c149205f88397b82e5e7fa.json"
   },
   {
     "id": "trakt-hiddengems-90s-horror-cults-90s-horror-cults",
@@ -108,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/69d4d1a0b9112201d609c12d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/69d4d1a0b9112201d609c12d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/646fb95156b89942d064fbab.json"
   },
   {
     "id": "trakt-hiddengems-cult-classics-693-picks-cult-classics",
@@ -118,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/49cb51f4493deca774b7b071.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/49cb51f4493deca774b7b071.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7a46f3d46fff176986149380.json"
   },
   {
     "id": "trakt-hiddengems-a-v-club-s-the-new-cult-canon-a-v-club-s-the-new-cult-canon",
@@ -128,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4b4dc5b2d6ecf1c2df898091.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4b4dc5b2d6ecf1c2df898091.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4fe63bcc049356b8616d9969.json"
   },
   {
     "id": "trakt-hiddengems-2010s-horror-cult-2010s-horror-cult",
@@ -138,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/181bb5a83fe8d41ad5beba59.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/181bb5a83fe8d41ad5beba59.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1ce3aa4eef62dc520571e75a.json"
   },
   {
     "id": "trakt-hiddengems-underrated-and-underseen-90s-horror-movies-underrated-and-underseen-90s-horror-movies",
@@ -148,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f3f5069d9f8220abbbb82f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/30f3f5069d9f8220abbbb82f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2762125abae9f98f7ead0937.json"
   },
   {
     "id": "trakt-hiddengems-the-best-underrated-black-movies-the-best-underrated-black-movies",
@@ -158,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8c03aa04a033cfb1894dd259.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8c03aa04a033cfb1894dd259.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e274463585dfaf74a505140d.json"
   },
   {
     "id": "trakt-hiddengems-2020s-horror-cult-2020s-horror-cult",
@@ -168,7 +183,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/23a26654a75e3319ad4c8bb6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/23a26654a75e3319ad4c8bb6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/bf3da8e43ab3f76eba947508.json"
   },
   {
     "id": "trakt-hiddengems-1900-1970-horror-cults-1900-1970-horror-cults",
@@ -178,7 +194,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a90f5d6224b3240d4be3a09d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a90f5d6224b3240d4be3a09d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9b796b7c62d359190ad197ad.json"
   },
   {
     "id": "trakt-hiddengems-2000s-horror-cult-2000s-horror-cult",
@@ -188,6 +205,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3c0f44d7bd3f897bfc7b893c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3c0f44d7bd3f897bfc7b893c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2504c17edb90185061402bd7.json"
   }
 ]

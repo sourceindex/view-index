@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ea1c2c22daeed769f6a08bd9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ea1c2c22daeed769f6a08bd9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/76fdeca0265cb28f612b2d21.json"
   },
   {
     "id": "trakt-foreign-the-j-film-pow-wows-top-100-favorite-japanese-films-the-j-film-pow-wow-s-top-100-favorite-",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a614773131886c9db7b0a6ac.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a614773131886c9db7b0a6ac.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3dfa33a904fded6335636299.json"
   },
   {
     "id": "trakt-foreign-japanese-dramas-japanese-dramas",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8928c79d993cb83e3e7b515.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8928c79d993cb83e3e7b515.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2480d2850d23180b753fb61b.json"
   },
   {
     "id": "trakt-foreign-100-best-films-of-world-cinema---empire-magazine-100-best-films-of-world-cinema-empire-mag",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a925d0566848c546fde070be.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a925d0566848c546fde070be.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ed361335d0a18d344c8f7b7c.json"
   },
   {
     "id": "trakt-foreign-directory-of-world-cinema-italy-directory-of-world-cinema-italy",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dbc41c1f35d29c6375ff4917.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dbc41c1f35d29c6375ff4917.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/237a4aec05b20e56f6043774.json"
   },
   {
     "id": "trakt-foreign-directory-of-world-cinema-american-independent-directory-of-world-cinema-american-independ",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/76f90612cf2c61e3c36008a0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/76f90612cf2c61e3c36008a0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/531115baf818afd375d13ca9.json"
   },
   {
     "id": "trakt-foreign-directory-of-world-cinema-germany-directory-of-world-cinema-germany",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c36965bb85f1ffd2eca11c20.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c36965bb85f1ffd2eca11c20.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6f78be07f087751997bd2024.json"
   },
   {
     "id": "trakt-foreign-sexy-foreign-movies-sexy-foreign-movies",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d8f8d249300155fce283f44.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d8f8d249300155fce283f44.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/246336bd7067425cc80b7873.json"
   },
   {
     "id": "trakt-foreign-kinema-junpos-top-200-japanese-films-of-all-time-2009-edition-kinema-junpo-s-top-200-japan",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5328ebd5c772cf21423c4088.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5328ebd5c772cf21423c4088.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8efe1707f1b4b34795929e8f.json"
   },
   {
     "id": "trakt-foreign-japanese-japanese",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1d3e7b4957cbe2c65d887bf6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1d3e7b4957cbe2c65d887bf6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/422b274f6bca4b491ff7e78e.json"
   },
   {
     "id": "trakt-foreign-directory-of-world-cinema-american-hollywood-directory-of-world-cinema-american-hollywood",
@@ -107,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/20852f7fbf5d2a1e00741912.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/20852f7fbf5d2a1e00741912.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8cb25119a8ae49124a7c7c2f.json"
   },
   {
     "id": "trakt-foreign-foreign-horror-foreign-horror",
@@ -117,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6afb7a20df11523179c8d9c0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6afb7a20df11523179c8d9c0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b16334c09cc02f13c41a7646.json"
   },
   {
     "id": "trakt-foreign-foreign-comedy-movie-nudity-watchlist-foreign-comedy-movie-nudity-watchlist",
@@ -127,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/87f005bdba6ef5f7da10f683.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/87f005bdba6ef5f7da10f683.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8056991542873d06e2da676b.json"
   },
   {
     "id": "trakt-foreign-directory-of-world-cinema-finland-directory-of-world-cinema-finland",
@@ -137,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cecfc23871a28fd6a2376a8a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cecfc23871a28fd6a2376a8a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ec532eca9ba176dcaba43a48.json"
   },
   {
     "id": "trakt-foreign-japanese-dramas-134-picks-japanese-dramas",
@@ -147,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/96867938da4fcf3bd1a640a0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/96867938da4fcf3bd1a640a0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/84a73d153ead7c5a50b9c781.json"
   },
   {
     "id": "trakt-foreign-japanese-movies-japanese-movies",
@@ -157,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c066bb2bbf3008cecd9ec760.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c066bb2bbf3008cecd9ec760.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e9d137aa9bcf78602028aa53.json"
   },
   {
     "id": "trakt-foreign-foreign-foreign",
@@ -167,7 +183,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/31ce7348c7d87cb02ed44851.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/31ce7348c7d87cb02ed44851.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ed178208fecbc36e3fa4ec9f.json"
   },
   {
     "id": "trakt-foreign-german-cinema-classics-directory-of-world-cinema-germany",
@@ -177,7 +194,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/40a100455ecbe24ca250922c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/40a100455ecbe24ca250922c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2dbd1eeb5ecbfdee34ed1b9a.json"
   },
   {
     "id": "trakt-foreign-berlin-international-film-festival-golden-bear-winners-berlin-international-film-festival-",
@@ -187,7 +205,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/238000adf002809c95dd84d1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/238000adf002809c95dd84d1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0d62fa2f4b3ec80520f8a809.json"
   },
   {
     "id": "trakt-foreign-independent-cinema-directory-of-world-cinema-american-independent",
@@ -197,7 +216,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/53086dee8e26b8631c40e79c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/53086dee8e26b8631c40e79c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/17c9e1f5710afb08efcfaebf.json"
   },
   {
     "id": "trakt-foreign-classic-hollywood-directory-of-world-cinema-american-hollywood",
@@ -207,7 +227,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/507b987de0d3ffe509e16c46.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/507b987de0d3ffe509e16c46.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2975866162af52b7fa7fcfd8.json"
   },
   {
     "id": "trakt-foreign-european-series-european-series",
@@ -217,7 +238,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/95bd79f9b4ce9d506dd43581.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/95bd79f9b4ce9d506dd43581.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0f4fc53335518b597b1f8a64.json"
   },
   {
     "id": "trakt-foreign-french-french",
@@ -227,7 +249,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3e73dff96592cae1cd822fec.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3e73dff96592cae1cd822fec.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ffcff006d6eede31bf2a8719.json"
   },
   {
     "id": "trakt-foreign-crime-in-french-crime-in-french",
@@ -237,7 +260,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0f834986628f233811144b78.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0f834986628f233811144b78.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d41a3c9a3088d6e2780570e4.json"
   },
   {
     "id": "trakt-foreign-japanese-cinema-japanese-movies",
@@ -247,7 +271,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/11953d6b0155dc597161444a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/11953d6b0155dc597161444a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d210ede00965f884b4716706.json"
   },
   {
     "id": "trakt-foreign-european-film-award-european-film-award",
@@ -257,7 +282,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bb80b33c136fc07bf7588d33.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bb80b33c136fc07bf7588d33.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/79e3cd4c99e1f6b8bbc5afd4.json"
   },
   {
     "id": "trakt-foreign-japanese-movies---the-criterion-channel-japanese-movies-the-criterion-channel",
@@ -267,7 +293,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/12c0f3e96fbfd20ca5453682.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/12c0f3e96fbfd20ca5453682.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ed54975458fb059ff8a20dbc.json"
   },
   {
     "id": "trakt-foreign-toronto-international-film-festival-peoples-choice-award---tiff-toronto-international-film",
@@ -277,6 +304,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/630c6f3955b268d4a54e2d05.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/630c6f3955b268d4a54e2d05.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d516bf54b62a1f2ceee44eb2.json"
   }
 ]

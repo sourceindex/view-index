@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/06660004158dff9f24c6acb5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/06660004158dff9f24c6acb5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8d6e825af674b58f55a711ef.json"
   },
   {
     "id": "trakt-holiday-hallmark-christmas-hallmark-christmas",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/65b8db35f5b5bda29552bef4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/65b8db35f5b5bda29552bef4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0a59fa0c6bcbccfbed15c317.json"
   },
   {
     "id": "trakt-holiday-rotten-tomatoes-the-best-christmas-movies-of-all-time-rotten-tomatoes-the-best-christmas-m",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0132d628645a2c469aacb615.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0132d628645a2c469aacb615.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/74da2dda76d94ecf861fd8cf.json"
   },
   {
     "id": "trakt-holiday-hallmark-movies-hallmark-movies",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ca86688184402d08ae2e41f1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ca86688184402d08ae2e41f1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0d8ab8280b4b47ad44f6da0a.json"
   },
   {
     "id": "trakt-holiday-holiday-special-holiday-special",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/01b2c00f7d56ab1b66e7c019.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/01b2c00f7d56ab1b66e7c019.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6ec9ec5a1108612191031031.json"
   },
   {
     "id": "trakt-holiday-hallmark-mysteries-hallmark-mysteries",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/82c43947f1e72f74e1de2f7d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/82c43947f1e72f74e1de2f7d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2793da609c858ca4831179ac.json"
   },
   {
     "id": "trakt-holiday-family-halloween-family-halloween",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e80adf5f1abaa6c63e2cf307.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e80adf5f1abaa6c63e2cf307.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e1579b6c0554aa372a762f93.json"
   },
   {
     "id": "trakt-holiday-christmas-x-mas-holiday-movies-christmas-x-mas-holiday-movies",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0714cd461e33c3d3494ed6bc.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0714cd461e33c3d3494ed6bc.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b4b2caf3d732bbbb4e5180f0.json"
   },
   {
     "id": "trakt-holiday-christmas-movies-713-picks-christmas-movies",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dc256fa6e8f565ce6588987c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dc256fa6e8f565ce6588987c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6e2af65388532524e06c4d89.json"
   },
   {
     "id": "trakt-holiday-halloween-movies-halloween-movies",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/01273f3559531ce5af309933.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/01273f3559531ce5af309933.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7e385a2bd579dfbdd7efb208.json"
   },
   {
     "id": "trakt-holiday-hallmark-2024---christmas-movies-shows-hallmark-2024-christmas-movies-shows",
@@ -107,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/50e25a7b1983b7719215258a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/50e25a7b1983b7719215258a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0a16dbd4cb614ba7f600edc3.json"
   },
   {
     "id": "trakt-holiday-hallmark-movies-669-picks-hallmark-movies",
@@ -117,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c1988af2d3df8fa80c7544b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c1988af2d3df8fa80c7544b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d8882120dfa9a119a4981a8e.json"
   },
   {
     "id": "trakt-holiday-christmas-christmas",
@@ -127,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a3edc97472ac193719d4fd7f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a3edc97472ac193719d4fd7f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/919fb3fd8694399cc23ad5ac.json"
   },
   {
     "id": "trakt-holiday-halloween-halloween",
@@ -137,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b8ec86419a801777c0f1117d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b8ec86419a801777c0f1117d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b757188af10e97dd7b58748a.json"
   },
   {
     "id": "trakt-holiday-christmas-478-picks-christmas",
@@ -147,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6892cc0fc2ee1e3a199f8073.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6892cc0fc2ee1e3a199f8073.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/66abf3d4cf798904e5cad764.json"
   },
   {
     "id": "trakt-holiday-hallmark-christmas---2023-hallmark-christmas-2023",
@@ -157,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/071e716f99ecab7d63334ca6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/071e716f99ecab7d63334ca6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8a30f51a7c22a8b86d11c62b.json"
   },
   {
     "id": "trakt-holiday-hallmark-movies---2023-hallmark-movies-2023",
@@ -167,7 +183,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1281198c20fad73d1fb2de27.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1281198c20fad73d1fb2de27.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5687140424982d7cf8017f24.json"
   },
   {
     "id": "trakt-holiday-halloween-horror-halloween-horror-b2a01bb2-898f-45c0-9a3c-14d801e8627a",
@@ -177,7 +194,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/387d7e7fa5802bdafa9da359.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/387d7e7fa5802bdafa9da359.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/dae554c56854fa470c3ec34e.json"
   },
   {
     "id": "trakt-holiday-lifetime-christmas-lifetime-christmas",
@@ -187,7 +205,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9ced572d18f530ac7968ba1b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9ced572d18f530ac7968ba1b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8db48462dc5b4356791e356f.json"
   },
   {
     "id": "trakt-holiday-hallmark-2024---movies-shows-hallmark-2024-movies-shows",
@@ -197,7 +216,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b65ebcf2b1f575955674fdeb.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b65ebcf2b1f575955674fdeb.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f8fe53fb7633f617cc1edd39.json"
   },
   {
     "id": "trakt-holiday-christmas-movies-320-picks-christmas-movies",
@@ -207,7 +227,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/82dec6ed89354ffa15f80f79.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/82dec6ed89354ffa15f80f79.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5e60a72354a5437f45cba812.json"
   },
   {
     "id": "trakt-holiday-hallmark-2025---christmas-movies-shows-hallmark-2025-christmas-movies-shows",
@@ -217,7 +238,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e8e597c58d33947164c0324a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e8e597c58d33947164c0324a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/156072be33f71da1965282fb.json"
   },
   {
     "id": "trakt-holiday-classical-halloween-classical-halloween",
@@ -227,7 +249,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c3d4298f73f453549a8448c9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c3d4298f73f453549a8448c9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5d10bb75107d185b43bb16af.json"
   },
   {
     "id": "trakt-holiday-hallmark-2025---movies-shows-hallmark-2025-movies-shows",
@@ -237,7 +260,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a99414ecd7d20f7d7eb7aac2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a99414ecd7d20f7d7eb7aac2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/29ef870761fe83e03c2b35db.json"
   },
   {
     "id": "trakt-holiday-hallmark-christmas---2022-hallmark-christmas-2022",
@@ -247,7 +271,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/efccef54850be58352fa507c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/efccef54850be58352fa507c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6b1be183d2cb9ee0eca0d0bc.json"
   },
   {
     "id": "trakt-holiday-a-bit-less-scary-halloween-a-bit-less-scary-halloween",
@@ -257,7 +282,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dd0a393ba63fc8ec261eabe6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dd0a393ba63fc8ec261eabe6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/11830b1011df2bb5faf2980b.json"
   },
   {
     "id": "trakt-holiday-imdb-popular-christmas-horror-imdb-popular-christmas-horror",
@@ -267,7 +293,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/105364950cb941ab2ede89d1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/105364950cb941ab2ede89d1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/437839529da0589730635f85.json"
   },
   {
     "id": "trakt-holiday-halloween-441-picks-halloween",
@@ -277,7 +304,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f5ca762de0ba443ad8f62be8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f5ca762de0ba443ad8f62be8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b8f70a79f0637876d670d4a2.json"
   },
   {
     "id": "trakt-holiday-christmas-249-picks-christmas",
@@ -287,7 +315,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2ef051e3d66199b4107cf4b9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2ef051e3d66199b4107cf4b9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0eaf5a894b7b1ad412643e89.json"
   },
   {
     "id": "trakt-holiday-hallmark-mystery-movies-hallmark-mystery-movies",
@@ -297,7 +326,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d1b3d40dee93528191610e61.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d1b3d40dee93528191610e61.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4b65fdf3db8116756f43307a.json"
   },
   {
     "id": "trakt-holiday-christmas-movies-437-picks-christmas-movies",
@@ -307,7 +337,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f08a0f3516405d4cea9f28e6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f08a0f3516405d4cea9f28e6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c0826b9ee907421163870bb6.json"
   },
   {
     "id": "trakt-holiday-imdb-popular-christmas-holiday-animation-imdb-popular-christmas-holiday-animation",
@@ -317,7 +348,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2e438ddc2d783f9e6267a511.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2e438ddc2d783f9e6267a511.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7f91724415da0e0791101bf9.json"
   },
   {
     "id": "trakt-holiday-christmas-movies-84-picks-christmas-movies",
@@ -327,7 +359,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1fa006e9707b195166665326.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1fa006e9707b195166665326.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d9aba2f515c5b1a1e8ce6109.json"
   },
   {
     "id": "trakt-holiday-hallmark-hallmark",
@@ -337,7 +370,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/db679c2affab1df3862c38f6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/db679c2affab1df3862c38f6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6a112d34a2842a860d82ef38.json"
   },
   {
     "id": "trakt-holiday-christmas-movies-47-picks-christmas-movies",
@@ -347,7 +381,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3123e740f3dadd3d5ff07f3b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3123e740f3dadd3d5ff07f3b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/26b97a2756120fdc106f8860.json"
   },
   {
     "id": "trakt-holiday-hallmark-shows-hallmark-shows",
@@ -357,7 +392,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/55c9809413afd9ab34ca06df.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/55c9809413afd9ab34ca06df.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/86f3645ef63a97a67cb0f733.json"
   },
   {
     "id": "trakt-holiday-lifetime-christmas---2023-lifetime-christmas-2023",
@@ -367,7 +403,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8c2c37be1d0d80c2ae1c600a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8c2c37be1d0d80c2ae1c600a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9f298bf7529f8d82f7ade27c.json"
   },
   {
     "id": "trakt-holiday-lifetime-christmas---2022-lifetime-christmas-2022",
@@ -377,7 +414,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fc47ed2c35a2ed822bf016b0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fc47ed2c35a2ed822bf016b0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/61bca59bce86f04c8498b596.json"
   },
   {
     "id": "trakt-holiday-other-christmas---2022-other-christmas-2022",
@@ -387,7 +425,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/884851ef1928e4611aa10506.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/884851ef1928e4611aa10506.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/bd9f1540b6aa8a7e22cf7a48.json"
   },
   {
     "id": "trakt-holiday-imdb-movies-tagged-with-christmas-imdb-movies-tagged-with-christmas",
@@ -397,7 +436,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/716718a32a67c90aaff4cf9b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/716718a32a67c90aaff4cf9b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/47ca6f693872c7db11147e20.json"
   },
   {
     "id": "trakt-holiday-october-2018-halloween-movies-31daysofhalloween-october-2018-halloween-movies-31daysofhall",
@@ -407,7 +447,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/89c79dde60b702d036a20a4d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/89c79dde60b702d036a20a4d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/54dbd29dcb445602068a4b48.json"
   },
   {
     "id": "trakt-holiday-from-pyscho-to-halloween-pre-1980s-slashers-from-pyscho-to-halloween-pre-1980s-slashers",
@@ -417,7 +458,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/97295f4e81ac0ba606b48ccc.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/97295f4e81ac0ba606b48ccc.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/836cfa37f943954967f6bbac.json"
   },
   {
     "id": "trakt-holiday-halloween-films-halloween-films",
@@ -427,7 +469,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10b69b241e75aacf2a2dadfa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10b69b241e75aacf2a2dadfa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/63c2e2ba471a629b404a44fb.json"
   },
   {
     "id": "trakt-holiday-hallmark-mysteries-190-picks-hallmark-mysteries",
@@ -437,7 +480,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bbe0266d27f40d141f30e28e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bbe0266d27f40d141f30e28e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/37e466885706d914011851e4.json"
   },
   {
     "id": "trakt-holiday-hallmark-christmas---2021-hallmark-christmas-2021",
@@ -447,7 +491,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dccccb09749a22b71718a074.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dccccb09749a22b71718a074.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e4033203b9afe1fce716c100.json"
   },
   {
     "id": "trakt-holiday-october-2017-halloween-movies-31daysofhalloween-october-2017-halloween-movies-31daysofhall",
@@ -457,7 +502,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0df6117a0524aec9141d7993.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0df6117a0524aec9141d7993.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f9d04202a3e1a9b430a8b838.json"
   },
   {
     "id": "trakt-holiday-lifetime-christmas---2021-lifetime-christmas-2021",
@@ -467,6 +513,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8fdfc55c828fd8e92ff53158.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8fdfc55c828fd8e92ff53158.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a102398b594bffdf70eadda5.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f99d1d4be57ac8da1ec79fd7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f99d1d4be57ac8da1ec79fd7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f496cec7b75190875dbe85a8.json"
   },
   {
     "id": "trakt-dramas-courtroom-dramas-courtroom-dramas",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e6bce0005f1998522dfa95ba.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e6bce0005f1998522dfa95ba.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/bc76229fc9343e70f8a927bf.json"
   },
   {
     "id": "trakt-dramas-drama-168-picks-drama",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ae5cdd243b89c7bcf7d7cf2d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ae5cdd243b89c7bcf7d7cf2d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cc7595376c0feae92a2dc65e.json"
   },
   {
     "id": "trakt-dramas-tearjerkers-tearjerkers",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ab56d6f1c032d4bf1e402ff5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ab56d6f1c032d4bf1e402ff5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ab560e46e852328a5bf8507e.json"
   },
   {
     "id": "trakt-dramas-steamy-dramas-steamy-dramas",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4157c831b9379bfa12a595f8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4157c831b9379bfa12a595f8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b8c3e4338f169c6c20c0aa67.json"
   },
   {
     "id": "trakt-dramas-the-best-costume-dramas-the-best-costume-dramas",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/652e6b36eb44461b2d862f2e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/652e6b36eb44461b2d862f2e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6cc6e82ef3d58b9cf5da5a70.json"
   },
   {
     "id": "trakt-dramas-sundance-film-festival-grand-jury-prize-dramatic-sundance-film-festival-grand-jury-prize-d",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d7ed4fda40724199856ec6fd.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d7ed4fda40724199856ec6fd.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/255c92f8dffac8d93d299b66.json"
   },
   {
     "id": "trakt-dramas-drama-tv-nudity-watchlist-drama-tv-nudity-watchlist",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff39d774fa55ce3860f795d2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ff39d774fa55ce3860f795d2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/32d760057dfd9fb20361d081.json"
   },
   {
     "id": "trakt-dramas-drama-2010s-drama-2010s",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/844e526fc938607247cf36d2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/844e526fc938607247cf36d2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c37f6ef556314c48df2cbf5d.json"
   },
   {
     "id": "trakt-dramas-genre-drama-4700-titles-1970-2013-genre-drama-4700-titles-1970-2013",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4ccd323c2fdcbfb583202ef8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4ccd323c2fdcbfb583202ef8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/019bc9cfc24f53658ffaee8d.json"
   },
   {
     "id": "trakt-dramas-drama-1980s-drama-1980s",
@@ -107,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f8b2eec49f1500b431ff33d6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f8b2eec49f1500b431ff33d6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0e016d93b5d67f0da2cc0e19.json"
   },
   {
     "id": "trakt-dramas-drama-2000s-drama-2000s",
@@ -117,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7ab5895a69b033e0b976c4d0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7ab5895a69b033e0b976c4d0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5d5a56d533641e548ba31f00.json"
   },
   {
     "id": "trakt-dramas-drama-favorites-drama-favorites",
@@ -127,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/24f416b331ee4b47a783aad5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/24f416b331ee4b47a783aad5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e282a9dbb55b86f17d4aaf3c.json"
   },
   {
     "id": "trakt-dramas-top-courtroom-dramas-top-courtroom-dramas",
@@ -137,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4db03b516c32078c16fcf7a8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4db03b516c32078c16fcf7a8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b3f084c2ab6afe03164ca588.json"
   },
   {
     "id": "trakt-dramas-drama-1990s-drama-1990s",
@@ -147,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/798d89c887ea9d58052a1d28.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/798d89c887ea9d58052a1d28.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4e47b13f3a75a0c3dbd880c1.json"
   },
   {
     "id": "trakt-dramas-xtv-drama-xtv-drama-008f33da-91b3-47de-ab1a-f0c356449d93",
@@ -157,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/153f981977a3c35066baac64.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/153f981977a3c35066baac64.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/25aab812cdd15c7a3072b0a3.json"
   },
   {
     "id": "trakt-dramas-drama-horror-drama-horror",
@@ -167,6 +183,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4888821be95bc07082c03172.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4888821be95bc07082c03172.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/384952b6a05bb9319b4b3167.json"
   }
 ]

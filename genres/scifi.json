@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3dff8ed62fcfb1c93234f2d5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3dff8ed62fcfb1c93234f2d5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/47c6aecab81a1aabe2cabf2f.json"
   },
   {
     "id": "trakt-scifi-sci-fi-sci-fi",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/efc7ec02a982366d1c6fd1cf.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/efc7ec02a982366d1c6fd1cf.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/66d9ee2006ec3ef6d6706fbc.json"
   },
   {
     "id": "trakt-scifi-science-fiction-movies-science-fiction-movies",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/40114a13ad323047ac27af74.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/40114a13ad323047ac27af74.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/58f4384f119fc6ca26e78651.json"
   },
   {
     "id": "trakt-scifi-science-fiction-tv-science-fiction-tv",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e4a98f4c940afc23566d16a8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e4a98f4c940afc23566d16a8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/76a7844ccbdc1282af02e712.json"
   },
   {
     "id": "trakt-scifi-aliens-aliens",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/820c8bbd77d274bd8e6b5fe7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/820c8bbd77d274bd8e6b5fe7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1f1631d7aa44392d0e653d3d.json"
   },
   {
     "id": "trakt-scifi-scifi-1980s-scifi-1980s",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dda2aff61c206a1c44a526f2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dda2aff61c206a1c44a526f2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cb5977b77365212de7138545.json"
   },
   {
     "id": "trakt-scifi-heavily-buzzed-sci-fihorrorfantasy-genre-films-in-festivals-2014-heavily-buzzed-sci-fi-hor",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/56ce7cfa31acc702fbb43fa0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/56ce7cfa31acc702fbb43fa0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/26aef9807b54c5b54632a296.json"
   },
   {
     "id": "trakt-scifi-heavily-buzzed-sci-fihorrorfantasy-genre-films-in-festivals-2015-heavily-buzzed-sci-fi-hor",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bfb9cc37366f1076fa0a4844.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bfb9cc37366f1076fa0a4844.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ac9c1c30cb76e50c64a65666.json"
   },
   {
     "id": "trakt-scifi-sci-fi-horror-sci-fi-horror",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/853e7bec1e9b2d44d9b80253.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/853e7bec1e9b2d44d9b80253.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7cf1c34446c97e6080b63bc8.json"
   },
   {
     "id": "trakt-scifi-scifi-1990s-scifi-1990s",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6196fba8ccee9d16daeb18e0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6196fba8ccee9d16daeb18e0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9311bc4cd09e9b717222913c.json"
   },
   {
     "id": "trakt-scifi-scifi-tv-shows-scifi-tv-shows",
@@ -107,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10c16311fbc34007db69eade.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/10c16311fbc34007db69eade.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4d89baf52adbffe25bbf6131.json"
   },
   {
     "id": "trakt-scifi-science-fiction-100-picks-science-fiction",
@@ -117,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/40026c69776c5b00f81caf2e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/40026c69776c5b00f81caf2e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9783a25bddc0ca32de6bff28.json"
   },
   {
     "id": "trakt-scifi-the-50-best-sci-fi-movies-of-the-2010s-the-50-best-sci-fi-movies-of-the-2010s",
@@ -127,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ac8a8368a2763257a0897453.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ac8a8368a2763257a0897453.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9678f4bb99da9eb434aae08a.json"
   },
   {
     "id": "trakt-scifi-sexy-science-fiction-sexy-science-fiction",
@@ -137,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/536e952692ae41ae2b2bb357.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/536e952692ae41ae2b2bb357.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7d0f85b694a39f7676fd0409.json"
   },
   {
     "id": "trakt-scifi-scifi-2000s-scifi-2000s",
@@ -147,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/45928a69b394344ebe13b714.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/45928a69b394344ebe13b714.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/be0ae36a856e08661484fa1c.json"
   },
   {
     "id": "trakt-scifi-xtv-sci-fi-xtv-sci-fi",
@@ -157,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/22d6c090f9acd6297a9f8790.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/22d6c090f9acd6297a9f8790.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/46d7391329a290cd52d3b3d4.json"
   },
   {
     "id": "trakt-scifi-sci-fi-films-sci-fi-films",
@@ -167,7 +183,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4371dd4c104651232c8eb65e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4371dd4c104651232c8eb65e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/eb20806eec3b7a633587d768.json"
   },
   {
     "id": "trakt-scifi-all-science-fiction-tv-series-all-science-fiction-tv-series",
@@ -177,7 +194,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d6e39e9571f282a26abc749c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d6e39e9571f282a26abc749c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/86eb663f3d266edb2d01e130.json"
   },
   {
     "id": "trakt-scifi-sci-fi-dystopia-sci-fi-dystopia",
@@ -187,7 +205,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3014689709873d7280866d0e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3014689709873d7280866d0e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/96c0a80920dac62e6895cbb9.json"
   },
   {
     "id": "trakt-scifi-alienpredator-alien-predator",
@@ -197,7 +216,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1a1a8e92522df56caa2c1a4f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1a1a8e92522df56caa2c1a4f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/de6415edb25398615ad9c8ec.json"
   },
   {
     "id": "trakt-scifi-scifi-2010s-scifi-2010s",
@@ -207,7 +227,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7248568ed5e23185a459cc8f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7248568ed5e23185a459cc8f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4e61203d65b0a593724a4720.json"
   },
   {
     "id": "trakt-scifi-alienblade-runnerpredator-timeline-alien-blade-runner-predator-timeline",
@@ -217,7 +238,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/190063adaf0672fc673c1c8e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/190063adaf0672fc673c1c8e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1ca09b31e1dfc207d2c4672b.json"
   },
   {
     "id": "trakt-scifi-semi-hard-science-fiction-semi-hard-science-fiction-copy",
@@ -227,7 +249,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c6a26ab21440a204cc320d18.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c6a26ab21440a204cc320d18.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/684a2c5dbd416c3cd5fb04c3.json"
   },
   {
     "id": "trakt-scifi-sci-fi-serie-sci-fi-serie",
@@ -237,7 +260,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8e3cbb77e504327c8459ec4c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8e3cbb77e504327c8459ec4c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/be454b68c5d28484080bbdf6.json"
   },
   {
     "id": "trakt-scifi-sci-fi-movies-sci-fi-movies",
@@ -247,7 +271,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b743ab449a2b3f11a7d455eb.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b743ab449a2b3f11a7d455eb.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2d71fbd3a8cde3d175e1d5b6.json"
   },
   {
     "id": "trakt-scifi-my-most-favorite-science-fiction-movies-my-most-favorite-science-fiction-movies",
@@ -257,7 +282,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c32137988c707e0f86a43f74.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c32137988c707e0f86a43f74.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/27e6e503c12be792eca6b6ba.json"
   },
   {
     "id": "trakt-scifi-robots-and-artificial-intelligence-robots-and-artificial-intelligence",
@@ -267,7 +293,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dc8809d0a0fddc1bcbf1f2e8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/dc8809d0a0fddc1bcbf1f2e8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/34eae7a64d73ad1686cad98c.json"
   },
   {
     "id": "trakt-scifi-sci-fi-favorites-ranked-sci-fi-favorites-ranked",
@@ -277,7 +304,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8b17f1a44d6e630ca300f367.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8b17f1a44d6e630ca300f367.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/04c4f8a5ee5f4f15cb72c594.json"
   },
   {
     "id": "trakt-scifi-dublin-sci-fi-film-festival-2018-dublin-sci-fi-film-festival-2018",
@@ -287,6 +315,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1599cd0a6fa260dbcfafa4a5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1599cd0a6fa260dbcfafa4a5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/217eaf4697df47df519a3e83.json"
   }
 ]

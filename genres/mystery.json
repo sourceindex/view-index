@@ -17,7 +17,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f536a2e2b82e2028e8df017f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f536a2e2b82e2028e8df017f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ca573798e37786ddd7eb1e70.json"
   },
   {
     "id": "trakt-mystery-horrormysterythriller-watchlist-horror-mystery-thriller-watchlist",
@@ -27,7 +28,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a4acbad66d53c9d618797636.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a4acbad66d53c9d618797636.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/94a6e7aa7a4e0e0e01a5d456.json"
   },
   {
     "id": "trakt-mystery-twisted-mystery-horror-twisted-mystery-horror",
@@ -37,7 +39,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c23cc4a06454391d20f1ef51.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c23cc4a06454391d20f1ef51.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e9f1e25bbc2bb8b5938f3b01.json"
   },
   {
     "id": "trakt-mystery-twenty-first-century-noir-twenty-first-century-noir",
@@ -47,7 +50,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/45ddfbc9345ef3edad21ae12.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/45ddfbc9345ef3edad21ae12.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d9dfd7a2983cf6ec8af50539.json"
   },
   {
     "id": "trakt-mystery-genre-mystery-1000-titles-1970-2013-genre-mystery-1000-titles-1970-2013",
@@ -57,7 +61,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a99181669d735c2a69579a7c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a99181669d735c2a69579a7c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/31da1a439b916cfabbf55680.json"
   },
   {
     "id": "trakt-mystery-ontological-mystery-ontological-mystery",
@@ -67,7 +72,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4b1d9be04ec5685b3db80dd5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4b1d9be04ec5685b3db80dd5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/109fc28447c028b8d02ba9d9.json"
   },
   {
     "id": "trakt-mystery-mystery-106-picks-mystery",
@@ -77,6 +83,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8cea81c694fde81b2b9ff9c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8cea81c694fde81b2b9ff9c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/71699082e9e81d17ea09372c.json"
   }
 ]

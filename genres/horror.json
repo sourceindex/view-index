@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5ddb4bae99f207ec249d6af4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5ddb4bae99f207ec249d6af4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4d5d02564af54b6e448144e3.json"
   },
   {
     "id": "trakt-horror-horror-movies-horror-movies",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c44befd2073578adf1c885bf.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c44befd2073578adf1c885bf.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/896f51bc3cecfef64837e6a7.json"
   },
   {
     "id": "trakt-horror-horror-921-picks-horror",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3c18b169e7aa33cf2fe5de27.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3c18b169e7aa33cf2fe5de27.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e03cbd62d40e7bfed95c82b2.json"
   },
   {
     "id": "trakt-horror-popular-horror-popular-horror",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ccae016339e7a79ea16052f6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ccae016339e7a79ea16052f6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7931e57aab7c6477e17255c9.json"
   },
   {
     "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-all-time-rotten-tomatoes-best-horror-movies-of-all-t",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af6d863ec07ff67e67b9efa9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af6d863ec07ff67e67b9efa9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5c26e892383602178e6896d0.json"
   },
   {
     "id": "trakt-horror-horror-1274158-horror-1274158",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9ed824ae2ea0bf965ce74f5d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9ed824ae2ea0bf965ce74f5d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/953e92ce46093c0463e69e03.json"
   },
   {
     "id": "trakt-horror-horror-424-picks-horror",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/aaf432cb9dabe1ec6d2b6eb3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/aaf432cb9dabe1ec6d2b6eb3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/62ea31f1582c20142c153ad4.json"
   },
   {
     "id": "trakt-horror-80s-horror-80s-horror",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b33f2e3d8798819e2fd46d6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b33f2e3d8798819e2fd46d6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/16bce64ba93c87c31273c16c.json"
   },
   {
     "id": "trakt-horror-zombies-zombies",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f55f4430a8ba51a3c0df727e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f55f4430a8ba51a3c0df727e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/898483575a42fb3fcfe63b6b.json"
   },
   {
     "id": "trakt-horror-rotten-tomatoes-best-horror-tv-shows-of-all-time-rotten-tomatoes-best-horror-tv-shows-of-a",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7f26c717cfba0038607e64fa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7f26c717cfba0038607e64fa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f9b6c968994d45b83aa1861b.json"
   },
   {
     "id": "trakt-horror-dreadits-top-100-horror-films-2018-edition---rhorror-dreadit-s-top-100-horror-films-2018-e",
@@ -107,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8e1f15cccf48a1421137a26a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8e1f15cccf48a1421137a26a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/50c59758c848d9a300eca199.json"
   },
   {
     "id": "trakt-horror-horror-movie-boxsets-horror-movie-boxsets",
@@ -117,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1eb198d071f994485f83a892.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1eb198d071f994485f83a892.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3ae22eeb1dc72f39813db538.json"
   },
   {
     "id": "trakt-horror-horror-1337-picks-horror",
@@ -127,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fdfdaa59a94e98f1f08ecad2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fdfdaa59a94e98f1f08ecad2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/598b34afc3a587a9cd821c32.json"
   },
   {
     "id": "trakt-horror-scary-movies-scary-movies",
@@ -137,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7d781a0d1506d028084c40ca.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7d781a0d1506d028084c40ca.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/980b7ad4ef6564c344fb9902.json"
   },
   {
     "id": "trakt-horror-troma-horror-troma-horror",
@@ -147,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/01a4bffdef96d52734ef8cc4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/01a4bffdef96d52734ef8cc4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/16d1f9b95bcc29543507f8b6.json"
   },
   {
     "id": "trakt-horror-horror-458-picks-horror",
@@ -157,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3b3ada6afe40e7490f319069.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3b3ada6afe40e7490f319069.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/16da02c00910c46ec6c86193.json"
   },
   {
     "id": "trakt-horror-hammer-film-production-horror-films-hammer-film-production-horror-films",
@@ -167,7 +183,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5073573d8843ef6e1b2b93f5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5073573d8843ef6e1b2b93f5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5da549310661ff24d3381aaa.json"
   },
   {
     "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2025-rotten-tomatoes-best-horror-movies-of-2025",
@@ -177,7 +194,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b2dc43c2e9b1187c05d3de7f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b2dc43c2e9b1187c05d3de7f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fadd6b752301dcf91a6b7978.json"
   },
   {
     "id": "trakt-horror-psychological-horror-psychological-horror",
@@ -187,7 +205,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/280992f7809ac8a8357f9c87.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/280992f7809ac8a8357f9c87.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b649f7236c6f548a389c767f.json"
   },
   {
     "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2022-rotten-tomatoes-best-horror-movies-of-2022",
@@ -197,7 +216,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e90413257964342a33e54d92.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e90413257964342a33e54d92.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e3fb4d5774136a9d04fa812f.json"
   },
   {
     "id": "trakt-horror-psychological-horror-films-psychological-horror-films",
@@ -207,7 +227,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/edde38170a310b46a69a55be.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/edde38170a310b46a69a55be.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3726322013aa49435e735c98.json"
   },
   {
     "id": "trakt-horror-horror-1980s-horror-1980s",
@@ -217,7 +238,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/823933d1a3e8082c4f8e2829.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/823933d1a3e8082c4f8e2829.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b50f9447b399edfb6eb8eaee.json"
   },
   {
     "id": "trakt-horror-horror-2000s-horror-2000s",
@@ -227,7 +249,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/283042ad872e7a3fe8cbd01e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/283042ad872e7a3fe8cbd01e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/60c9de548216c0bded9ca248.json"
   },
   {
     "id": "trakt-horror-comedy-horror-comedy-horror",
@@ -237,7 +260,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9e9c86b5a98b7a8efa5f99ac.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9e9c86b5a98b7a8efa5f99ac.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0181fc1b2cc6519e18b6e4d5.json"
   },
   {
     "id": "trakt-horror-horror-2010s-horror-2010s",
@@ -247,7 +271,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/61ec99b2edad9aed5c3429c1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/61ec99b2edad9aed5c3429c1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2eef467cb97e12a6ef2528ff.json"
   },
   {
     "id": "trakt-horror-films-featured-on-eli-roths-history-of-horror-films-featured-on-eli-roth-s-history-of-horr",
@@ -257,7 +282,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/efe54b915a891dab4dac9d79.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/efe54b915a891dab4dac9d79.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/69d0c8ebbe4b9198c72549c7.json"
   },
   {
     "id": "trakt-horror-slashers-slashers",
@@ -267,7 +293,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5144fd2d2b232df2fdcb504c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5144fd2d2b232df2fdcb504c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/493d162882eb1afd0419baf9.json"
   },
   {
     "id": "trakt-horror-survival-horror-survival-horror",
@@ -277,7 +304,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2b7e051ef4ec3af962c89b9e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2b7e051ef4ec3af962c89b9e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4f6933fc16bccb60178fd64c.json"
   },
   {
     "id": "trakt-horror-horror-1970s-horror-1970s",
@@ -287,7 +315,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c36cc15d8f37ece385898204.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c36cc15d8f37ece385898204.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/94ed93b16ca52542b74dc9f9.json"
   },
   {
     "id": "trakt-horror-the-almost-complete-list-of-80s-slashers-the-almost-complete-list-of-80s-slashers",
@@ -297,7 +326,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9609ddedf159b5dac789666c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9609ddedf159b5dac789666c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9c1d8d5c5420dd3f6814da2c.json"
   },
   {
     "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2021-rotten-tomatoes-best-horror-movies-of-2021",
@@ -307,7 +337,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d91f48197da3e25642136fe.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d91f48197da3e25642136fe.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3b776dd61bd2018c3a7f015f.json"
   },
   {
     "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2024-rotten-tomatoes-best-horror-movies-of-2024",
@@ -317,7 +348,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7bb041672152f1562cf02f6a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7bb041672152f1562cf02f6a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a885014679807c93479eec89.json"
   },
   {
     "id": "trakt-horror-b-horror-b-horror",
@@ -327,7 +359,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/75c7d593a1369422f81b541a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/75c7d593a1369422f81b541a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a936584eed6017a979b474a4.json"
   },
   {
     "id": "trakt-horror-thriller-horror-thriller-horror",
@@ -337,7 +370,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/231c45244a3ef21407cdfada.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/231c45244a3ef21407cdfada.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f56cdfc66c80048e4259dc8f.json"
   },
   {
     "id": "trakt-horror-rotten-tomatoes-best-horror-movies-of-2023-rotten-tomatoes-best-horror-movies-of-2023",
@@ -347,7 +381,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8a3bf8c6776c85d2891c0def.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8a3bf8c6776c85d2891c0def.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/630946168ff207923f54a279.json"
   },
   {
     "id": "trakt-horror-vampire-horror-vampire-horror",
@@ -357,7 +392,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1383e75eab31361ef4d60dc2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1383e75eab31361ef4d60dc2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/106137c2ca255c2282362b14.json"
   },
   {
     "id": "trakt-horror-desolation-horror-desolation-horror",
@@ -367,7 +403,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9003636dfebfd9cf86a59165.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9003636dfebfd9cf86a59165.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c2d7daa72d7a58729edaeddc.json"
   },
   {
     "id": "trakt-horror-horror-1990s-horror-1990s",
@@ -377,7 +414,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4a41f8a8a2cf19d838f6fe75.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4a41f8a8a2cf19d838f6fe75.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a3808506cbd798d35215149a.json"
   },
   {
     "id": "trakt-horror-av-clubs-24-hours-of-horror-with-a-dozen-of-the-genres-freshest-voices-a-v-club-s-24-hours",
@@ -387,7 +425,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7f4a31435add5a7513a27955.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7f4a31435add5a7513a27955.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6a781c62f51bad8eab9add84.json"
   },
   {
     "id": "trakt-horror-horror-movies-380-picks-horror-movies",
@@ -397,7 +436,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/da06e6d7f24ec1c9b5d776b3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/da06e6d7f24ec1c9b5d776b3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/283a2d8e6e7ed39c09a852b2.json"
   },
   {
     "id": "trakt-horror-horror-95-picks-horror",
@@ -407,7 +447,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4c2a6b225d8180476143d021.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4c2a6b225d8180476143d021.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/175971a3ac32b13ba63ef6ce.json"
   },
   {
     "id": "trakt-horror-tubi-horror-tubi-horror",
@@ -417,7 +458,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c945f5e354cc7576bc3e3d70.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c945f5e354cc7576bc3e3d70.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/371730c707ca2f55eef8e857.json"
   },
   {
     "id": "trakt-horror-horror-collection-horror-collection",
@@ -427,7 +469,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6d586ee05dabebd954581c10.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6d586ee05dabebd954581c10.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2fdd1e32a02eccef07f1dc0e.json"
   },
   {
     "id": "trakt-horror-supernatural-horror-supernatural-horror",
@@ -437,7 +480,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7b9d5d17e0a34de972f781b8.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7b9d5d17e0a34de972f781b8.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3ee32d2771d2d1d3ef98003c.json"
   },
   {
     "id": "trakt-horror-hammer-horror-hammer-horror",
@@ -447,7 +491,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13287133eaf8b55948d6c59a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/13287133eaf8b55948d6c59a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/99ea3a4e757d2f56f1de7a9a.json"
   },
   {
     "id": "trakt-horror-haunted-house-haunted-house",
@@ -457,7 +502,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b3e0323e27eec6e257aa849.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1b3e0323e27eec6e257aa849.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3800334c1774a6e1cc44bb20.json"
   },
   {
     "id": "trakt-horror-hammer-horror-hammer-thriller-collection-hammer-horror-hammer-thriller-collection",
@@ -467,7 +513,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/be6e332a5b07a39f04a1e15b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/be6e332a5b07a39f04a1e15b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1e49360438bc9563ba75b3e7.json"
   },
   {
     "id": "trakt-horror-from-blockbuster-to-netflix-slashers-in-the-21st-century-2000-2019-from-blockbuster-to-net",
@@ -477,6 +524,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1970,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7cffb2e19d7d930dda7025ea.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7cffb2e19d7d930dda7025ea.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/708016f1ecc88147a482c923.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2ff3d1df3234c99a179f078e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2ff3d1df3234c99a179f078e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/80f57c084895d3c54c300bbe.json"
   },
   {
     "id": "trakt-comedies-comedy-movies-comedy-movies",
@@ -39,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7747872e61ee4d22d43153fa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7747872e61ee4d22d43153fa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9fb476f9c33f80e3b1e6f31d.json"
   },
   {
     "id": "trakt-comedies-stand-up-comedy-specials-stand-up-comedy-specials",
@@ -49,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1869bd255a6cb9f36e42ea60.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1869bd255a6cb9f36e42ea60.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fb7c433b1e0497ac3a54641b.json"
   },
   {
     "id": "trakt-comedies-empires-50-funniest-comedies-ever-empire-s-50-funniest-comedies-ever",
@@ -59,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f882f10acd98776a5c6f868c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f882f10acd98776a5c6f868c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/babd49b944847ebd73bf16f7.json"
   },
   {
     "id": "trakt-comedies-top-100-tv-comedy-shows-top-100-tv-comedy-shows",
@@ -69,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7d2f73e1ce6badd7e5b5118f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7d2f73e1ce6badd7e5b5118f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f031ce9a8dbbe3b5f49d138d.json"
   },
   {
     "id": "trakt-comedies-tv-sitcoms-tv-sitcoms",
@@ -79,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3147ac0d54807ac646a6e96d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3147ac0d54807ac646a6e96d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/65890c7a870d9c363fe8a368.json"
   },
   {
     "id": "trakt-comedies-kyles-favorite-stand-up-comedy-kyle-s-favorite-stand-up-comedy",
@@ -89,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3d9d536405974d9a990fde99.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3d9d536405974d9a990fde99.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6fcfdb4a11cabb09a53017c0.json"
   },
   {
     "id": "trakt-comedies-rolling-stones-100-best-sitcoms-of-all-time-rolling-stone-s-100-best-sitcoms-of-all-time",
@@ -99,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/31e52ac08b72c19ec830efc3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/31e52ac08b72c19ec830efc3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/da8b96856eda70ab18087713.json"
   },
   {
     "id": "trakt-comedies-stand-up-comedy-stand-up-comedy",
@@ -109,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f3c9359fe7b571e369e8e950.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f3c9359fe7b571e369e8e950.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f8d0d8ff7331cc4468fff28e.json"
   },
   {
     "id": "trakt-comedies-sex-comedies-sex-comedies",
@@ -119,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a5b33a9e70998f957b411ed3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a5b33a9e70998f957b411ed3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ba377001d6c4289979385662.json"
   },
   {
     "id": "trakt-comedies-comedy-493-picks-comedy",
@@ -129,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/26ebd3cd09e708a1b96c3cc4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/26ebd3cd09e708a1b96c3cc4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/816265d5171aa05fdc4f202a.json"
   },
   {
     "id": "trakt-comedies-comedy-specials-stand-up-comedy",
@@ -139,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/70c8dbb74fbb1229aaadea45.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/70c8dbb74fbb1229aaadea45.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/bb47dc86d84928928e68891b.json"
   },
   {
     "id": "trakt-comedies-sketch-comedy-sketch-comedy",
@@ -149,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d97f06bbaa4666a82b38c6e5.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d97f06bbaa4666a82b38c6e5.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/0b3a64e01dddba285255e618.json"
   },
   {
     "id": "trakt-comedies-xtv-comedy-xtv-comedy",
@@ -159,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d2af899618e1952a8ec7517f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d2af899618e1952a8ec7517f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cec7ab24785b309464746f58.json"
   },
   {
     "id": "trakt-comedies-comedy-1990s-comedy-1990s",
@@ -169,7 +183,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7528e8f0e5bd27c6a9023aa6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7528e8f0e5bd27c6a9023aa6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/4ba5fddb7df138a51dfbdc7b.json"
   },
   {
     "id": "trakt-comedies-comedy-2000s-comedy-2000s",
@@ -179,7 +194,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6623b1cdeca2103cc3959fdf.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6623b1cdeca2103cc3959fdf.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/70198849bba3325d2330fe1c.json"
   },
   {
     "id": "trakt-comedies-top-comedies-of-all-time-top-comedies-of-all-time",
@@ -189,7 +205,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ce22b2e8e1db7ea0e8e68415.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ce22b2e8e1db7ea0e8e68415.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c341fa60a8324c1fd1dc4b1e.json"
   },
   {
     "id": "trakt-comedies-comedies-comedies",
@@ -199,7 +216,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3c11ddb8182c349339ece59f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3c11ddb8182c349339ece59f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a3da2fad49fe02b91e759142.json"
   },
   {
     "id": "trakt-comedies-comedy-1980s-comedy-1980s",
@@ -209,7 +227,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4606d36dc32071d6f2256cb7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/4606d36dc32071d6f2256cb7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f73091ee7a127d0d733e0269.json"
   },
   {
     "id": "trakt-comedies-dark-comedies-dark-comedies",
@@ -219,7 +238,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5951de194941bd49d6746f35.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5951de194941bd49d6746f35.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/29136c07f878ef4a49fe8d84.json"
   },
   {
     "id": "trakt-comedies-comedy-2010s-comedy-2010s",
@@ -229,7 +249,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/606934ab59d5d7fd32b9e130.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/606934ab59d5d7fd32b9e130.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ece19930127402e627d02e86.json"
   },
   {
     "id": "trakt-comedies-stand-up-stand-up",
@@ -239,7 +260,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d131080ae76823497053bde2.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d131080ae76823497053bde2.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/982959a1a07803a808acce26.json"
   },
   {
     "id": "trakt-comedies-gutbusters-funny-tv-shows-gutbusters-funny-tv-shows",
@@ -249,7 +271,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2d9ba918bccf9a6bb9988525.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2d9ba918bccf9a6bb9988525.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e363955f2c327aec06dc22a6.json"
   },
   {
     "id": "trakt-comedies-funny-you-should-say-that-funny-you-should-say-that",
@@ -259,7 +282,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/64c07563eb02d72eadcb07b1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/64c07563eb02d72eadcb07b1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b12d199b0a4b5309de41fab3.json"
   },
   {
     "id": "trakt-comedies-comedy-movie-boxsets-comedy-movie-boxsets",
@@ -269,7 +293,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9e01b72677312dca451c91da.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9e01b72677312dca451c91da.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d32545c29ad693835ab984b5.json"
   },
   {
     "id": "trakt-comedies-comedy-movies-378-picks-comedy-movies",
@@ -279,7 +304,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/15d32c198889cca7491d0beb.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/15d32c198889cca7491d0beb.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1ec7cdc02c9afb8b0b303c40.json"
   },
   {
     "id": "trakt-comedies-sitcoms-112-picks-sitcoms",
@@ -289,7 +315,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e6188eddba31d1a730548d74.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e6188eddba31d1a730548d74.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cf568290b906e35defc265cb.json"
   },
   {
     "id": "trakt-comedies-ealing-studios-comedy-collection-1947-1957-ealing-studios-comedy-collection-1947-1957",
@@ -299,7 +326,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ede8a62b9453e483ef80d732.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ede8a62b9453e483ef80d732.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/f9a10461b8dee596a541eef0.json"
   },
   {
     "id": "trakt-comedies-ausnz-drama-comedy-aus-nz-drama-comedy",
@@ -309,7 +337,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/05bf7ab7e302d39531b5ba3e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/05bf7ab7e302d39531b5ba3e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a7c17090279009f0785b6932.json"
   },
   {
     "id": "trakt-comedies-comedy-horror-movies-comedy-horror-movies",
@@ -319,7 +348,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/878f090d4bcb01dd2ae01d43.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/878f090d4bcb01dd2ae01d43.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a243bdf1448e352757742cae.json"
   },
   {
     "id": "trakt-comedies-horror-comedy-horror-comedy",
@@ -329,6 +359,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e350bbf70e232dbe4eb7eac9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e350bbf70e232dbe4eb7eac9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5912063e83cd2c1c3fe1d96f.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2fde5c27a773fbcb817d95ef.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2fde5c27a773fbcb817d95ef.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/046d3e53969922065e01397c.json"
   },
   {
     "id": "trakt-family-rotten-tomatoes-top-100-kids-family-movies-rotten-tomatoes-top-100-kids-family-movies",
@@ -38,7 +39,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d75df588578261de0c48d09.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5d75df588578261de0c48d09.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c050c4cd2b6099e66db5f786.json"
   },
   {
     "id": "trakt-family-kids-movies-kids-movies",
@@ -48,7 +50,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/39b68c85885daa6dcc18ec40.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/39b68c85885daa6dcc18ec40.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5b7f2501d74fe0ee57d242fc.json"
   },
   {
     "id": "trakt-family-top-watched-movies-of-the-week-for-kids-top-watched-movies-of-the-week-for-kids",
@@ -58,7 +61,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cf62ad9d26bbb79a73798d95.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cf62ad9d26bbb79a73798d95.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/da93b90e4f53df241f89bcfe.json"
   },
   {
     "id": "trakt-family-best-kids-movies-kids-movies",
@@ -68,7 +72,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cc1fa26a1e1e6b1000775a94.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/cc1fa26a1e1e6b1000775a94.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/fe58f655ed454f83f16ec2a7.json"
   },
   {
     "id": "trakt-family-kids-445-picks-kids",
@@ -100,7 +105,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d81a7a51b66905e716ea166.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0d81a7a51b66905e716ea166.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7196ad58cfec66d013f71394.json"
   },
   {
     "id": "trakt-family-the-shows-of-pbs-kids-from-the-past-and-present-the-shows-of-pbs-kids-from-the-past-and-pr",
@@ -110,7 +116,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fe0f5cdc4a14562983efd419.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fe0f5cdc4a14562983efd419.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3b2cd478226347792ad7317e.json"
   },
   {
     "id": "trakt-family-animated-kids-movies-animated-kids-movies",
@@ -120,7 +127,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6d2771c8ef15aaa9a19beafc.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6d2771c8ef15aaa9a19beafc.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/977a5d23fc9bcdafd4c1782c.json"
   },
   {
     "id": "trakt-family-animated-kids-movies-1741-picks-animated-kids-movies-e597020e-f596-4239-ada5-2fd888229292",
@@ -130,7 +138,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d22eaa86c6b2dac3f49e2456.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d22eaa86c6b2dac3f49e2456.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/1738ee900cecdbd69f46fb47.json"
   },
   {
     "id": "trakt-family-disney-pixar-disney-pixar",
@@ -140,7 +149,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c3f56679021eb2c3260314d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7c3f56679021eb2c3260314d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d98af1250a631995fcf4844e.json"
   },
   {
     "id": "trakt-family-pixar-pixar",
@@ -150,7 +160,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/98046fcbc1f8b6aa8c1695a3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/98046fcbc1f8b6aa8c1695a3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/68e7dc92d989fad8668022fe.json"
   },
   {
     "id": "trakt-family-time-to-believe---disney-live-action-films-collection-time-to-believe-disney-live-action-f",
@@ -160,7 +171,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1dab6c230107690a10d842a7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1dab6c230107690a10d842a7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cc5ba5170c418307e9d5c477.json"
   },
   {
     "id": "trakt-family-pixar-31-picks-pixar",
@@ -170,6 +182,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f2578c2a0e105dd9c1b19593.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f2578c2a0e105dd9c1b19593.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/21b32beb32de1e49e2ccec49.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/787261f48335b5cfd800e6bc.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/787261f48335b5cfd800e6bc.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/eeaaf4f56e6cb035a21ae49b.json"
   },
   {
     "id": "trakt-war-war-131-picks-war",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e3ba0236f3e270c23edbf08f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e3ba0236f3e270c23edbf08f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7e9680570126c78d87d24a88.json"
   },
   {
     "id": "trakt-war-world-war-ii-films-and-tv-world-war-ii-films-and-tv",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ada7d7972a4f6fec7f9f683a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ada7d7972a4f6fec7f9f683a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/603d9fcad9ba41d3ffaf940d.json"
   },
   {
     "id": "trakt-war-wwii-tv-series-wwii-tv-series",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/357919f6c184d00170a52a8a.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/357919f6c184d00170a52a8a.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b04f5d7fa85ae11eedf6b8a6.json"
   },
   {
     "id": "trakt-war-genre-war-1000-titles-1950-2013-genre-war-1000-titles-1950-2013",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af1fc31bc994108303b41a46.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af1fc31bc994108303b41a46.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6ca1b74f5a9ccc54c7d6e7f9.json"
   },
   {
     "id": "trakt-war-ranker-the-best-war-movies-ever-made-ranker-the-best-war-movies-ever-made",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/29ee4fafd007a302568e20cf.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/29ee4fafd007a302568e20cf.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e896e6726df07422b139bb62.json"
   },
   {
     "id": "trakt-war-war-104-picks-war",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1be1ef0e2040c70c489d8329.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/1be1ef0e2040c70c489d8329.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e382ab65fe4ade88dd47146a.json"
   },
   {
     "id": "trakt-war-war-war-war-war-war-war",
@@ -77,6 +84,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1960,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ad7615cfdb37e1e2c11be20c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/ad7615cfdb37e1e2c11be20c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/81642ca93310770796501622.json"
   }
 ]

@@ -18,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/798b3cd49464210e9f30c61e.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/798b3cd49464210e9f30c61e.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cee568cc32a1aaeee191391d.json"
   },
   {
     "id": "trakt-romance-rotten-tomatoes-the-200-best-romantic-comedies-of-all-time-rotten-tomatoes-the-200-best-ro",
@@ -28,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1990,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fde6d82ea424fc93491366b4.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/fde6d82ea424fc93491366b4.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e34f663a0108e2efb8cc92e0.json"
   },
   {
     "id": "trakt-romance-best-rom-coms-best-rom-coms",
@@ -38,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2dd3c77694351d2c7ecc8a18.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2dd3c77694351d2c7ecc8a18.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7a3ccb36051d7bcbc1a888a4.json"
   },
   {
     "id": "trakt-romance-romantic-comedies-414-picks-romantic-comedies",
@@ -48,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5c565f44389546c46d05c28c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5c565f44389546c46d05c28c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/481b5f075a312cef75d98308.json"
   },
   {
     "id": "trakt-romance-the-30-best-romantic-comedies-of-all-time-the-30-best-romantic-comedies-of-all-time",
@@ -58,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/881a9ecbba2302561dbf09da.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/881a9ecbba2302561dbf09da.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2ec5ccd94da4055e05acd882.json"
   },
   {
     "id": "trakt-romance-rom-coms-rom-coms",
@@ -68,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1997,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e9dd96baa187b3d2f233cf9c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e9dd96baa187b3d2f233cf9c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b6eb94f5f4c78329f87f5f37.json"
   },
   {
     "id": "trakt-romance-new-romantic-comedies-new-romantic-comedies",
@@ -78,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a33a5b4d764ab29f397bc328.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a33a5b4d764ab29f397bc328.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/b3e2c74c98853d73019a2150.json"
   },
   {
     "id": "trakt-romance-hopeless-romantic-movies-hopeless-romantic-movies",
@@ -88,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/21ecd9fc0e70eb5ca66f6d6b.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/21ecd9fc0e70eb5ca66f6d6b.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6314fd88c6b941a204a5cd5b.json"
   },
   {
     "id": "trakt-romance-romance-78-picks-romance",
@@ -98,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f6dc78edca46d53bed7f7120.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f6dc78edca46d53bed7f7120.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/68eca16e03fe29eb1d48c9f8.json"
   },
   {
     "id": "trakt-romance-romance_-best-romance-in-movies-romance_-best-romance-in-movies",
@@ -108,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5fb09be18e12c8c25059bfb3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5fb09be18e12c8c25059bfb3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/eac8a3233d1829a0901b3974.json"
   },
   {
     "id": "trakt-romance-romance-classics-rom-coms",
@@ -118,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5e1e93b522c6bcef0d92e0f1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/5e1e93b522c6bcef0d92e0f1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/d97c0751ba02be2886aed673.json"
   },
   {
     "id": "trakt-romance-romance_-unconventional-romance-films-romance_-unconventional-romance-films",
@@ -128,6 +139,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8f6256f431ace72405373967.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8f6256f431ace72405373967.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a78a8934bbaf836d0e727926.json"
   }
 ]

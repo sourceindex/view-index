@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/97bd5039d4c7b48d78247c1d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/97bd5039d4c7b48d78247c1d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/c4ea1dfef162e584815dcbb5.json"
   },
   {
     "id": "trakt-thriller-psychological-thrillers-psychological-thrillers",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/59c40cf265fef0fb4e1266ef.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/59c40cf265fef0fb4e1266ef.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/aaf6ece7499e277600796ea6.json"
   },
   {
     "id": "trakt-thriller-top-200-psychological-thrillers-top-200-psychological-thrillers",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f8f335955d7c0a9c365d23f3.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f8f335955d7c0a9c365d23f3.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/e25dae4dc35ec8788f877830.json"
   },
   {
     "id": "trakt-thriller-thriller-movies-thriller-movies",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d1b468813508906fd736ffc0.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d1b468813508906fd736ffc0.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5b4b9b4b971a7e1c938844e0.json"
   },
   {
     "id": "trakt-thriller-political-thrillers-conspiracy-espionage-terror-political-thrillers-conspiracy-espionage-t",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/19683f673989bb78bcd9bbec.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/19683f673989bb78bcd9bbec.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/39bdd235f84dad827a49caa9.json"
   },
   {
     "id": "trakt-thriller-thriller-117-picks-thriller",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/733e9944512ef5b1109cf170.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/733e9944512ef5b1109cf170.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/840fc716a2a728fc4e41ac33.json"
   },
   {
     "id": "trakt-thriller-psychological-thrillers-202-picks-psychological-thrillers",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9834ea4197a0bb3d6a9bff22.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9834ea4197a0bb3d6a9bff22.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a81c3bd488a62605b2315054.json"
   },
   {
     "id": "trakt-thriller-legal-dramas-legal-thrillers-legal-dramas-legal-thrillers",
@@ -77,7 +84,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8200e6af0f6f1630dff0f652.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8200e6af0f6f1630dff0f652.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cce1845b68b38e3bed0c4fd7.json"
   },
   {
     "id": "trakt-thriller-twisted-plots-and-psychological-mindfucks-twisted-plots-and-psychological-mindfucks",
@@ -87,7 +95,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2a97840a42ba9dcecb1e7acd.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/2a97840a42ba9dcecb1e7acd.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/78bf3a0d393219e09d9d5b3d.json"
   },
   {
     "id": "trakt-thriller-thriller-1990s-thriller-1990s",
@@ -97,7 +106,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3a746a8c932b4a38280a8ad7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3a746a8c932b4a38280a8ad7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/a230b62b0a10e0f63fa616ad.json"
   },
   {
     "id": "trakt-thriller-thriller-2000s-thriller-2000s",
@@ -107,7 +117,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/88ebb4be3d0db60bbfbb0efa.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/88ebb4be3d0db60bbfbb0efa.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ff19a6e838ae97ea2eab4bb7.json"
   },
   {
     "id": "trakt-thriller-thriller-2010s-thriller-2010s",
@@ -117,7 +128,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f7e5085081a12d0896aee747.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f7e5085081a12d0896aee747.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/403d11165d4dc0a0e4305384.json"
   },
   {
     "id": "trakt-thriller-action-thriller-not-on-netflixprime-action-thriller-not-on-netflix-prime",
@@ -127,7 +139,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/241fdbd9cda70b2ba3a86fda.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/241fdbd9cda70b2ba3a86fda.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/96c9d92e6ca93d9b34685ae2.json"
   },
   {
     "id": "trakt-thriller-genre-thriller-2600-titles-1970-2013-genre-thriller-2600-titles-1970-2013",
@@ -137,7 +150,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a7d8727e262fa24f075bc00c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/a7d8727e262fa24f075bc00c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/da52a19d6d93ee4ae8a4db20.json"
   },
   {
     "id": "trakt-thriller-thriller-1980s-thriller-1980s",
@@ -147,7 +161,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e5ad48357b0d4627a4e95ced.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/e5ad48357b0d4627a4e95ced.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/71a702bce8aa66b2ed8ac357.json"
   },
   {
     "id": "trakt-thriller-crime-thrillers-thriller-movies",
@@ -157,7 +172,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c85731d7b9fc0bd8d37468b9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/c85731d7b9fc0bd8d37468b9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/2322d6571fc00f0263e0a65f.json"
   },
   {
     "id": "trakt-thriller-actionthriller-action-thriller",
@@ -167,7 +183,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bfdbaab93332c2eb89095c36.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bfdbaab93332c2eb89095c36.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/7000d9e00821237f4cbbe15c.json"
   },
   {
     "id": "trakt-thriller-sexy-thrillers-sexy-thrillers",
@@ -177,7 +194,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/eff9144988fbd5bce2a3d673.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/eff9144988fbd5bce2a3d673.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/cd43bcdb1cf27a2738b89617.json"
   },
   {
     "id": "trakt-thriller-psychological-horror-films-psychological-horror-films-copy",
@@ -187,6 +205,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d3e804c6a825d6b757ca96d6.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d3e804c6a825d6b757ca96d6.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5d9fbaa9f532041ac62e076e.json"
   }
 ]

@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8b6660fce96a624b12564f7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/d8b6660fce96a624b12564f7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/77fdfd132d2c107374f84767.json"
   },
   {
     "id": "trakt-fantasy-fantasy-comedies-fantasy-comedies",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/430787393a21eb130b3de635.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/430787393a21eb130b3de635.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ba378d1c277d11392f84e9c4.json"
   },
   {
     "id": "trakt-fantasy-butlers-fantasy-cinema-impossible-worlds-on-screen-butler-s-fantasy-cinema-impossible-worl",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7ec0860e5804c39a7678155d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/7ec0860e5804c39a7678155d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/703f65faa214826579195c21.json"
   },
   {
     "id": "trakt-fantasy-genre-fantasy-1000-titles-1970-2013-genre-fantasy-1000-titles-1970-2013",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/658841e1e2643603e973010f.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/658841e1e2643603e973010f.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/3fd242657ed3ceb0967fd9ce.json"
   },
   {
     "id": "trakt-fantasy-fantasy-65-picks-fantasy",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af508beb3b3d31da33b8fa07.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/af508beb3b3d31da33b8fa07.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6b554a2a8d3d724322478975.json"
   },
   {
     "id": "trakt-fantasy-sexy-fantasy-sexy-fantasy",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6bfe99c32705278b58127bb7.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/6bfe99c32705278b58127bb7.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/dffe3b276aa3a1ecdbdda678.json"
   },
   {
     "id": "trakt-fantasy-fantasy-1980s-fantasy-1980s",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f9b16f947b7127be6c97d8ad.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/f9b16f947b7127be6c97d8ad.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/62983ee1261db8031f9b338d.json"
   },
   {
     "id": "trakt-fantasy-fantasy-1990s-fantasy-1990s",
@@ -77,6 +84,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1980,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3476fb1fcdd855a4d107a009.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/3476fb1fcdd855a4d107a009.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5569e395f30053467ad7016f.json"
   }
 ]

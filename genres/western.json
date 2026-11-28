@@ -7,7 +7,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0292796cfba8a598119d160d.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0292796cfba8a598119d160d.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ffcc7bfe1be00990c60e058e.json"
   },
   {
     "id": "trakt-western-western-western",
@@ -17,7 +18,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c7ce4641fdfa4520536e34c.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0c7ce4641fdfa4520536e34c.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/5e7d887e77b1492e44981dec.json"
   },
   {
     "id": "trakt-western-western-top-100-movies---rotten-tomatoes-western-top-100-movies-rotten-tomatoes",
@@ -27,7 +29,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9c4776d323193d297a50ab89.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/9c4776d323193d297a50ab89.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/ef9b2b10253d22258cf174ba.json"
   },
   {
     "id": "trakt-western-western---spaghetti-westerns-500-films-western-spaghetti-westerns-500-films",
@@ -37,7 +40,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8cbba85126978946abf78547.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/8cbba85126978946abf78547.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/8caa45074d4d4123a9c1f312.json"
   },
   {
     "id": "trakt-western-spaghetti-westerns-spaghetti-westerns",
@@ -47,7 +51,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/874d9953dd7e549fa75e03c1.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/874d9953dd7e549fa75e03c1.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/9510ae111831e8a0fea560a7.json"
   },
   {
     "id": "trakt-western-westerns-of-the-wild-wild-west-westerns-of-the-wild-wild-west",
@@ -57,7 +62,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b1c39d548ed498c8632ce6b9.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/b1c39d548ed498c8632ce6b9.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/6d9882d18666ea16a0736a30.json"
   },
   {
     "id": "trakt-western-western-101-picks-western",
@@ -67,7 +73,8 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bf990d57b6eecf46c6af6801.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/bf990d57b6eecf46c6af6801.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/76876e1c5d08565c0a97e501.json"
   },
   {
     "id": "trakt-western-ranker-top-western-movies-ranker-top-western-movies",
@@ -77,6 +84,7 @@
     "traktSortBy": "random",
     "minRating": 57,
     "minYear": 1950,
-    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0dff999f97c4432ebddbda14.json"
+    "preparedUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/lists/0dff999f97c4432ebddbda14.json",
+    "rowUrl": "https://raw.githubusercontent.com/sourceindex/view-index/main/prepared/rows/04d8e183a30a4a4351b8a342.json"
   }
 ]
